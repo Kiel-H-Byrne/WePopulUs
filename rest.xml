@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rsp stat="ok">
+<auth>
+	<token>72157624082351454-18f62976d906a728</token>
+	<perms>read</perms>
+	<user nsid="48397061@N06" username="Iskreme" fullname="" />
+</auth>
+</rsp>

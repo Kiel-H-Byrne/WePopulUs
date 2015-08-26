@@ -1,0 +1,7 @@
+/* 
+html {overflow: hidden}
+body {overflow: hidden}
+*/ 
+
+#m_window {position:absolute;top:0px;right:0px;}
+#side {height:expression(document.body.clientHeight-23);position: absolute}

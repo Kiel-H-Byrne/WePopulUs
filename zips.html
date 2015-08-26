@@ -1,0 +1,56 @@
+<script type="text/javascript">
+    // When the DOM is ready to have events hook into it...
+    $(document).ready(function() {
+
+        // when the DOM element with id="getrates" is clicked....
+        $("#getrates").click(function() {
+
+            // make that button you clicked disappear...
+            $(this).hide(); // opposite of show() // See jQueryUI for more info
+            
+            // and issue an AJAX request to a PHP script in the same directory
+            // getJSON is a method that expects a JSON-encoded data structure to be returned
+            // there are other AJAX methods too. See http://docs.jquery.com/Ajax
+            $.getJSON("script.php", // 1st arg to getJSON is the URI of the script
+                      { 
+                        zipcode: $("#zip").val(),  
+                        random: "noise"
+                      },
+                      // 2nd arg to getJSON is an array of key-value pairs to send 
+                      // to the script. As many as you want.
+                      // left-side is the GET variable name as seen by the target
+                      // script, right-side is the value that will be sent.
+                      // the above 2 args will cause the AJAX script to be hit with
+                      // the query string: ?zipcode=90019&random=noise
+                      // assuming that the user typed "90019" into the
+                      // element on this page with the id="zip"
+                        
+ 
+                      // 3rd arg is the callback function for the AJAX response
+                      // The script.php responds in a JSON format so jQuery can
+                      // understand the data structure natively, without you 
+                      // writing awful parsing of your own:
+                      function(j) {
+                          // erase all OPTIONs from existing select menu on the page
+                          $(#shipping_method options).remove(); 
+                          
+                          // You will rebuild new options based on the JSON response...
+                          var options = <option value="">Choose Shipping Method</option>;
+                          // "j" is the json object that was output by your PHP script
+                          // it is the array of key-value pairs to turn 
+                          // into option value/labels...
+                          for (var i = 0; i < j.length; i++) 
+                          {
+                              options += <option value=" +
+                                         j[i].optionValue + "> +
+                                         j[i].optionDisplay + 
+                                         </option>;
+                          }
+                          // stick these new options in the existing select menu
+                          $("#shipping_method").html(options);
+                          // now your select menu is rebuilt with dynamic info
+                      } 
+            ); // end getJSON 
+        }); // end clicked button to trigger AJAX    
+    }); // end document ready
+    </script>

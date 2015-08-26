@@ -1,0 +1,1311 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<members>
+<titles cid="CID" name="CRPName" party="Party" dist="DistIDRunFor" fecc="FECCandID"></titles>
+<member><cid>N00000010</cid><crpname>Burton, Dan</crpname><party>R</party><distid>IN05</distid><feccid>H2IN06023</feccid>
+</member><member><cid>N00000078</cid><crpname>Maloney, Carolyn B</crpname><party>D</party><distid>NY14</distid><feccid>H2NY14037</feccid>
+</member><member><cid>N00000086</cid><crpname>Nader, Ralph</crpname><party>I</party><distid>PRES</distid><feccid>P20000527</feccid>
+</member><member><cid>N00000133</cid><crpname>Christian-Green, Donna</crpname><party>D</party><distid>VI00</distid><feccid>H4VI00054</feccid>
+</member><member><cid>N00000143</cid><crpname>Olver, John W</crpname><party>D</party><distid>MA01</distid><feccid>H2MA01020</feccid>
+</member><member><cid>N00000153</cid><crpname>Neal, Richard E</crpname><party>D</party><distid>MA02</distid><feccid>H8MA02041</feccid>
+</member><member><cid>N00000179</cid><crpname>McGovern, James P</crpname><party>D</party><distid>MA03</distid><feccid>H4MA03022</feccid>
+</member><member><cid>N00000226</cid><crpname>Tierney, John F</crpname><party>D</party><distid>MA06</distid><feccid>H4MA06033</feccid>
+</member><member><cid>N00000245</cid><crpname>Kerry, John</crpname><party>D</party><distid>MAS2</distid><feccid>S4MA00069</feccid>
+</member><member><cid>N00000267</cid><crpname>Capuano, Michael E</crpname><party>D</party><distid>MA08</distid><feccid>H8MA08071</feccid>
+</member><member><cid>N00000270</cid><crpname>Markey, Edward J</crpname><party>D</party><distid>MA07</distid><feccid>H6MA07101</feccid>
+</member><member><cid>N00000275</cid><crpname>Frank, Barney</crpname><party>D</party><distid>MA04</distid><feccid>H0MA04036</feccid>
+</member><member><cid>N00000280</cid><crpname>Delahunt, Bill</crpname><party>D</party><distid>MA10</distid><feccid>H2MA11060</feccid>
+</member><member><cid>N00000360</cid><crpname>Kennedy, Patrick J</crpname><party>D</party><distid>RI01</distid><feccid>H4RI01034</feccid>
+</member><member><cid>N00000362</cid><crpname>Reed, Jack</crpname><party>D</party><distid>RIS2</distid><feccid>S6RI00163</feccid>
+</member><member><cid>N00000397</cid><crpname>Sununu, John E</crpname><party>R</party><distid>NHS2</distid><feccid>S0NH00201</feccid>
+</member><member><cid>N00000420</cid><crpname>Blevens, Ken</crpname><party>L</party><distid>NHS2</distid><feccid>S2NH00157</feccid>
+</member><member><cid>N00000459</cid><crpname>Summers, Charles E</crpname><party>R</party><distid>ME01</distid><feccid>H4ME01111</feccid>
+</member><member><cid>N00000469</cid><crpname>Allen, Tom</crpname><party>D</party><distid>MES2</distid><feccid>S8ME00080</feccid>
+</member><member><cid>N00000491</cid><crpname>Collins, Susan M</crpname><party>R</party><distid>MES2</distid><feccid>S6ME00159</feccid>
+</member><member><cid>N00000515</cid><crpname>Welch, Peter</crpname><party>D</party><distid>VT01</distid><feccid>H6VT00160</feccid>
+</member><member><cid>N00012233</cid><crpname>Latta, Robert E</crpname><party>R</party><distid>OH05</distid><feccid>H8OH05036</feccid>
+</member><member><cid>N00012330</cid><crpname>Bird, Bob</crpname><party>3</party><distid>AKS1</distid><feccid>S0AK00105</feccid>
+</member><member><cid>N00012454</cid><crpname>Wolfe, Jay</crpname><party>R</party><distid>WVS2</distid><feccid>S8WV00093</feccid>
+</member><member><cid>N00012457</cid><crpname>Jackson, Jesse Jr</crpname><party>D</party><distid>IL02</distid><feccid>H6IL02124</feccid>
+</member><member><cid>N00012460</cid><crpname>Clay, William L Jr</crpname><party>D</party><distid>MO01</distid><feccid>H0MO01066</feccid>
+</member><member><cid>N00011971</cid><crpname>Lungren, Dan</crpname><party>R</party><distid>CA03</distid><feccid>H6CA34112</feccid>
+</member><member><cid>N00011235</cid><crpname>Mallan, Lloyd Jeff</crpname><party>L</party><distid>HI02</distid><feccid>H8HI02042</feccid>
+</member><member><cid>N00029363</cid><crpname>Berkowitz, Ethan A</crpname><party>D</party><distid>AK01</distid><feccid>H8AK00108</feccid>
+</member><member><cid>N00010564</cid><crpname>Tataii, Steve</crpname><party>R</party><distid>HI01</distid><feccid>H8HI01168</feccid>
+</member><member><cid>N00009570</cid><crpname>Davis, Artur</crpname><party>D</party><distid>AL07</distid><feccid>H0AL07060</feccid>
+</member><member><cid>N00009571</cid><crpname>Ross, Mike</crpname><party>D</party><distid>AR04</distid><feccid>H0AR04038</feccid>
+</member><member><cid>N00009573</cid><crpname>Flake, Jeff</crpname><party>R</party><distid>AZ06</distid><feccid>H0AZ01184</feccid>
+</member><member><cid>N00009585</cid><crpname>Schiff, Adam</crpname><party>D</party><distid>CA29</distid><feccid>H0CA27085</feccid>
+</member><member><cid>N00009586</cid><crpname>Solis, Hilda L</crpname><party>D</party><distid>CA32</distid><feccid>H0CA31087</feccid>
+</member><member><cid>N00009604</cid><crpname>Davis, Susan A</crpname><party>D</party><distid>CA53</distid><feccid>H0CA49055</feccid>
+</member><member><cid>N00009614</cid><crpname>Keller, Ric</crpname><party>R</party><distid>FL08</distid><feccid>H0FL08042</feccid>
+</member><member><cid>N00009618</cid><crpname>Putnam, Adam H</crpname><party>R</party><distid>FL12</distid><feccid>H0FL12051</feccid>
+</member><member><cid>N00009635</cid><crpname>Marshall, Jim</crpname><party>D</party><distid>GA08</distid><feccid>H0GA08032</feccid>
+</member><member><cid>N00009638</cid><crpname>Obama, Barack</crpname><party>D</party><distid>PRES</distid><feccid>P80003338</feccid>
+</member><member><cid>N00009660</cid><crpname>Scalise, Stephen Joseph "Steve</crpname><party>R</party><distid>LA01</distid><feccid>H0LA01087</feccid>
+</member><member><cid>N00009668</cid><crpname>Rogers, Mike</crpname><party>R</party><distid>MI08</distid><feccid>H0MI08042</feccid>
+</member><member><cid>N00009677</cid><crpname>Akin, Todd</crpname><party>R</party><distid>MO02</distid><feccid>H0MO02148</feccid>
+</member><member><cid>N00009699</cid><crpname>Tiberi, Patrick J</crpname><party>R</party><distid>OH12</distid><feccid>H0OH12062</feccid>
+</member><member><cid>N00009715</cid><crpname>Hart, Melissa</crpname><party>R</party><distid>PA04</distid><feccid>H0PA04154</feccid>
+</member><member><cid>N00009719</cid><crpname>Platts, Todd</crpname><party>R</party><distid>PA19</distid><feccid>H0PA19053</feccid>
+</member><member><cid>N00009724</cid><crpname>Langevin, Jim</crpname><party>D</party><distid>RI02</distid><feccid>H0RI02139</feccid>
+</member><member><cid>N00009738</cid><crpname>Culberson, John</crpname><party>R</party><distid>TX07</distid><feccid>H0TX07055</feccid>
+</member><member><cid>N00009753</cid><crpname>Matheson, Jim</crpname><party>D</party><distid>UT02</distid><feccid>H0UT02096</feccid>
+</member><member><cid>N00009759</cid><crpname>Larsen, Rick</crpname><party>D</party><distid>WA02</distid><feccid>H0WA02080</feccid>
+</member><member><cid>N00009771</cid><crpname>Capito, Shelley Moore</crpname><party>R</party><distid>WV02</distid><feccid>H0WV02138</feccid>
+</member><member><cid>N00009774</cid><crpname>Becerra, Xavier</crpname><party>D</party><distid>CA31</distid><feccid>H2CA30143</feccid>
+</member><member><cid>N00009775</cid><crpname>Castle, Michael N</crpname><party>R</party><distid>DE01</distid><feccid>H2DE00072</feccid>
+</member><member><cid>N00009795</cid><crpname>Miller, Candice S</crpname><party>R</party><distid>MI10</distid><feccid>H6MI12181</feccid>
+</member><member><cid>N00009816</cid><crpname>Smith, Chris</crpname><party>R</party><distid>NJ04</distid><feccid>H8NJ04014</feccid>
+</member><member><cid>N00009817</cid><crpname>Zimmer, Dick</crpname><party>R</party><distid>NJS2</distid><feccid>S6NJ00131</feccid>
+</member><member><cid>N00009818</cid><crpname>Berkley, Shelley</crpname><party>D</party><distid>NV01</distid><feccid>H8NV01071</feccid>
+</member><member><cid>N00009824</cid><crpname>Wu, David</crpname><party>D</party><distid>OR01</distid><feccid>H8OR01072</feccid>
+</member><member><cid>N00009828</cid><crpname>Rodriguez, Ciro D</crpname><party>D</party><distid>TX23</distid><feccid>H8TX28013</feccid>
+</member><member><cid>N00009829</cid><crpname>McDermott, Jim</crpname><party>D</party><distid>WA07</distid><feccid>H8WA07132</feccid>
+</member><member><cid>N00009834</cid><crpname>Bellis, Joseph K</crpname><party>L</party><distid>KS03</distid><feccid>H8KS03072</feccid>
+</member><member><cid>N00009888</cid><crpname>Alexander, Lamar</crpname><party>R</party><distid>TNS2</distid><feccid>S2TN00058</feccid>
+</member><member><cid>N00009975</cid><crpname>Graham, Lindsey</crpname><party>R</party><distid>SCS2</distid><feccid>S0SC00149</feccid>
+</member><member><cid>N00010084</cid><crpname>Johnson, Tim</crpname><party>D</party><distid>SDS2</distid><feccid>S6SD00051</feccid>
+</member><member><cid>N00030401</cid><crpname>Tomlinson, Abel Noah</crpname><party>3</party><distid>AR03</distid><feccid>H8AR03058</feccid>
+</member><member><cid>N00009154</cid><crpname>Goodlatte, Bob</crpname><party>R</party><distid>VA06</distid><feccid>H2VA06115</feccid>
+</member><member><cid>N00009157</cid><crpname>Hastings, Doc</crpname><party>R</party><distid>WA04</distid><feccid>H2WA04041</feccid>
+</member><member><cid>N00009198</cid><crpname>Callison, William A 'Bill'</crpname><party>3</party><distid>CA07</distid><feccid>H4CA07030</feccid>
+</member><member><cid>N00008315</cid><crpname>Callahan, Don</crpname><party>I</party><distid>FL10</distid><feccid>H6FL10086</feccid>
+</member><member><cid>N00008502</cid><crpname>Young, Lih</crpname><party>I</party><distid>MD08</distid><feccid>H6MD08366</feccid>
+</member><member><cid>N00008519</cid><crpname>Boman, Scotty</crpname><party>L</party><distid>MIS1</distid><feccid>S8MI00315</feccid>
+</member><member><cid>N00008619</cid><crpname>Rothman, Steven R</crpname><party>D</party><distid>NJ09</distid><feccid>H6NJ09165</feccid>
+</member><member><cid>N00008661</cid><crpname>Russell, Jim</crpname><party>R</party><distid>NY18</distid><feccid>H6NY18153</feccid>
+</member><member><cid>N00008745</cid><crpname>Walters, Faye</crpname><party>3</party><distid>SC04</distid><feccid>H6SC04130</feccid>
+</member><member><cid>N00008799</cid><crpname>Granger, Kay</crpname><party>R</party><distid>TX12</distid><feccid>H6TX12060</feccid>
+</member><member><cid>N00007690</cid><crpname>Walden, Greg</crpname><party>R</party><distid>OR02</distid><feccid>H6OR02116</feccid>
+</member><member><cid>N00007727</cid><crpname>Blumenauer, Earl</crpname><party>D</party><distid>OR03</distid><feccid>H6OR03064</feccid>
+</member><member><cid>N00007781</cid><crpname>DeFazio, Peter</crpname><party>D</party><distid>OR04</distid><feccid>H6OR04047</feccid>
+</member><member><cid>N00007815</cid><crpname>Smith, Gordon H</crpname><party>R</party><distid>ORS1</distid><feccid>S6OR00094</feccid>
+</member><member><cid>N00007833</cid><crpname>Smith, Adam</crpname><party>D</party><distid>WA09</distid><feccid>H6WA09025</feccid>
+</member><member><cid>N00007918</cid><crpname>Dicks, Norm</crpname><party>D</party><distid>WA06</distid><feccid>H6WA06021</feccid>
+</member><member><cid>N00007936</cid><crpname>Baird, Brian</crpname><party>D</party><distid>WA03</distid><feccid>H6WA03135</feccid>
+</member><member><cid>N00007997</cid><crpname>Stevens, Ted</crpname><party>R</party><distid>AKS1</distid><feccid>S2AK00010</feccid>
+</member><member><cid>N00007999</cid><crpname>Young, Don</crpname><party>R</party><distid>AK01</distid><feccid>H6AK00045</feccid>
+</member><member><cid>N00008017</cid><crpname>Wright, Don</crpname><party>3</party><distid>AK01</distid><feccid>H6AK00094</feccid>
+</member><member><cid>N00008028</cid><crpname>Johnson, Sam</crpname><party>R</party><distid>TX03</distid><feccid>H2TX03118</feccid>
+</member><member><cid>N00008046</cid><crpname>Lee, Barbara</crpname><party>D</party><distid>CA09</distid><feccid>H8CA09060</feccid>
+</member><member><cid>N00008051</cid><crpname>Udall, Mark</crpname><party>D</party><distid>COS2</distid><feccid>S8CO00172</feccid>
+</member><member><cid>N00008071</cid><crpname>Dole, Elizabeth</crpname><party>R</party><distid>NCS1</distid><feccid>S2NC00083</feccid>
+</member><member><cid>N00008086</cid><crpname>Camp, Dave</crpname><party>R</party><distid>MI04</distid><feccid>H0MI10071</feccid>
+</member><member><cid>N00008091</cid><crpname>Bachus, Spencer</crpname><party>R</party><distid>AL06</distid><feccid>H2AL06035</feccid>
+</member><member><cid>N00008094</cid><crpname>Berman, Howard L</crpname><party>D</party><distid>CA28</distid><feccid>H2CA26026</feccid>
+</member><member><cid>N00008113</cid><crpname>Pomeroy, Earl</crpname><party>D</party><distid>ND01</distid><feccid>H2ND00057</feccid>
+</member><member><cid>N00008122</cid><crpname>Johnson, Eddie Bernice</crpname><party>D</party><distid>TX30</distid><feccid>H2TX00015</feccid>
+</member><member><cid>N00008144</cid><crpname>Tiahrt, Todd</crpname><party>R</party><distid>KS04</distid><feccid>H4KS04087</feccid>
+</member><member><cid>N00008188</cid><crpname>Snyder, Vic</crpname><party>D</party><distid>AR02</distid><feccid>H6AR02203</feccid>
+</member><member><cid>N00008264</cid><crpname>Royce, Ed</crpname><party>R</party><distid>CA40</distid><feccid>H6CA39020</feccid>
+</member><member><cid>N00008274</cid><crpname>Sanchez, Loretta</crpname><party>D</party><distid>CA47</distid><feccid>H6CA46033</feccid>
+</member><member><cid>N00007151</cid><crpname>Rohrabacher, Dana</crpname><party>R</party><distid>CA46</distid><feccid>H8CA42061</feccid>
+</member><member><cid>N00007216</cid><crpname>Avalos, Christina</crpname><party>D</party><distid>CA40</distid><feccid>H6CA40275</feccid>
+</member><member><cid>N00007231</cid><crpname>Gallegly, Elton</crpname><party>R</party><distid>CA24</distid><feccid>H6CA21028</feccid>
+</member><member><cid>N00007232</cid><crpname>Capps, Lois</crpname><party>D</party><distid>CA23</distid><feccid>H8CA22089</feccid>
+</member><member><cid>N00007248</cid><crpname>Nunes, Devin Gerald</crpname><party>R</party><distid>CA21</distid><feccid>H8CA20059</feccid>
+</member><member><cid>N00007312</cid><crpname>Farr, Sam</crpname><party>D</party><distid>CA17</distid><feccid>H4CA17021</feccid>
+</member><member><cid>N00007335</cid><crpname>Eshoo, Anna</crpname><party>D</party><distid>CA14</distid><feccid>H8CA12098</feccid>
+</member><member><cid>N00007360</cid><crpname>Pelosi, Nancy</crpname><party>D</party><distid>CA08</distid><feccid>H8CA05035</feccid>
+</member><member><cid>N00007390</cid><crpname>Miller, George</crpname><party>D</party><distid>CA07</distid><feccid>H6CA07043</feccid>
+</member><member><cid>N00007397</cid><crpname>Stark, Pete</crpname><party>D</party><distid>CA13</distid><feccid>H6CA09023</feccid>
+</member><member><cid>N00007419</cid><crpname>Thompson, Mike</crpname><party>D</party><distid>CA01</distid><feccid>H8CA01109</feccid>
+</member><member><cid>N00007422</cid><crpname>Tauscher, Ellen</crpname><party>D</party><distid>CA10</distid><feccid>H6CA10088</feccid>
+</member><member><cid>N00007458</cid><crpname>Woolsey, Lynn</crpname><party>D</party><distid>CA06</distid><feccid>H2CA01045</feccid>
+</member><member><cid>N00007479</cid><crpname>Lofgren, Zoe</crpname><party>D</party><distid>CA16</distid><feccid>H4CA16049</feccid>
+</member><member><cid>N00007507</cid><crpname>Radanovich, George</crpname><party>R</party><distid>CA19</distid><feccid>H2CA19054</feccid>
+</member><member><cid>N00007582</cid><crpname>Tuma, Douglas</crpname><party>L</party><distid>CA03</distid><feccid>H8CA03154</feccid>
+</member><member><cid>N00007584</cid><crpname>Herger, Wally</crpname><party>R</party><distid>CA02</distid><feccid>H6CA02010</feccid>
+</member><member><cid>N00007632</cid><crpname>Faleomavaega, Eni F H</crpname><party>D</party><distid>AS00</distid><feccid>H0AS00018</feccid>
+</member><member><cid>N00007635</cid><crpname>Radewagen, Amata Coleman</crpname><party>R</party><distid>AS00</distid><feccid>H4AS00036</feccid>
+</member><member><cid>N00007665</cid><crpname>Abercrombie, Neil</crpname><party>D</party><distid>HI01</distid><feccid>H6HI01121</feccid>
+</member><member><cid>N00029459</cid><crpname>Wittman, Rob</crpname><party>R</party><distid>VA01</distid><feccid>H8VA01147</feccid>
+</member><member><cid>N00006671</cid><crpname>Roybal-Allard, Lucille</crpname><party>D</party><distid>CA34</distid><feccid>H2CA33048</feccid>
+</member><member><cid>N00006690</cid><crpname>Waters, Maxine</crpname><party>D</party><distid>CA35</distid><feccid>H4CA23011</feccid>
+</member><member><cid>N00006750</cid><crpname>Harman, Jane</crpname><party>D</party><distid>CA36</distid><feccid>H2CA27107</feccid>
+</member><member><cid>N00006789</cid><crpname>Napolitano, Grace</crpname><party>D</party><distid>CA38</distid><feccid>H8CA34068</feccid>
+</member><member><cid>N00006863</cid><crpname>McClintock, Tom</crpname><party>R</party><distid>CA04</distid><feccid>H8CA04152</feccid>
+</member><member><cid>N00006882</cid><crpname>McKeon, Howard P "Buck"</crpname><party>R</party><distid>CA25</distid><feccid>H2CA25036</feccid>
+</member><member><cid>N00006887</cid><crpname>Kalemkarian, Timothy Charles</crpname><party>D</party><distid>CA24</distid><feccid>H8CA24143</feccid>
+</member><member><cid>N00006897</cid><crpname>Sherman, Brad</crpname><party>D</party><distid>CA27</distid><feccid>H6CA24113</feccid>
+</member><member><cid>N00006932</cid><crpname>Dreier, David</crpname><party>R</party><distid>CA26</distid><feccid>H8CA35032</feccid>
+</member><member><cid>N00006954</cid><crpname>Miller, Gary</crpname><party>R</party><distid>CA42</distid><feccid>H8CA41063</feccid>
+</member><member><cid>N00006981</cid><crpname>Bilbray, Brian P</crpname><party>R</party><distid>CA50</distid><feccid>H4CA49032</feccid>
+</member><member><cid>N00007017</cid><crpname>Issa, Darrell</crpname><party>R</party><distid>CA49</distid><feccid>H0CA48024</feccid>
+</member><member><cid>N00007033</cid><crpname>Filner, Bob</crpname><party>D</party><distid>CA51</distid><feccid>H2CA50034</feccid>
+</member><member><cid>N00007068</cid><crpname>Bono Mack, Mary</crpname><party>R</party><distid>CA45</distid><feccid>H8CA44034</feccid>
+</member><member><cid>N00007087</cid><crpname>Lewis, Jerry</crpname><party>R</party><distid>CA41</distid><feccid>H8CA37079</feccid>
+</member><member><cid>N00007089</cid><crpname>Baca, Joe</crpname><party>D</party><distid>CA43</distid><feccid>H6CA42099</feccid>
+</member><member><cid>N00007099</cid><crpname>Calvert, Ken</crpname><party>R</party><distid>CA44</distid><feccid>H2CA37023</feccid>
+</member><member><cid>N00006052</cid><crpname>Thornberry, Mac</crpname><party>R</party><distid>TX13</distid><feccid>H4TX13014</feccid>
+</member><member><cid>N00006067</cid><crpname>Reyes, Silvestre</crpname><party>D</party><distid>TX16</distid><feccid>H6TX00115</feccid>
+</member><member><cid>N00006134</cid><crpname>DeGette, Diana</crpname><party>D</party><distid>CO01</distid><feccid>H6CO01141</feccid>
+</member><member><cid>N00006182</cid><crpname>Schaffer, Bob</crpname><party>R</party><distid>COS2</distid><feccid>S4CO00171</feccid>
+</member><member><cid>N00006233</cid><crpname>Herbert, Walter David</crpname><party>L</party><distid>WY01</distid><feccid>H6WY00100</feccid>
+</member><member><cid>N00006236</cid><crpname>Barrasso, John A</crpname><party>R</party><distid>WYS1</distid><feccid>S6WY00068</feccid>
+</member><member><cid>N00006249</cid><crpname>Enzi, Mike</crpname><party>R</party><distid>WYS2</distid><feccid>S6WY00126</feccid>
+</member><member><cid>N00006263</cid><crpname>Simpson, Mike</crpname><party>R</party><distid>ID02</distid><feccid>H8ID02064</feccid>
+</member><member><cid>N00006288</cid><crpname>Minnick, Walter Clifford</crpname><party>D</party><distid>ID01</distid><feccid>H8ID01090</feccid>
+</member><member><cid>N00006397</cid><crpname>Pastor, Ed</crpname><party>D</party><distid>AZ04</distid><feccid>H2AZ02055</feccid>
+</member><member><cid>N00006423</cid><crpname>Franks, Trent</crpname><party>R</party><distid>AZ02</distid><feccid>H4AZ04024</feccid>
+</member><member><cid>N00006424</cid><crpname>McCain, John</crpname><party>R</party><distid>PRES</distid><feccid>P80002801</feccid>
+</member><member><cid>N00006425</cid><crpname>Shadegg, John</crpname><party>R</party><distid>AZ03</distid><feccid>H4AZ04016</feccid>
+</member><member><cid>N00006460</cid><crpname>Schweikert, David</crpname><party>R</party><distid>AZ05</distid><feccid>H4AZ06045</feccid>
+</member><member><cid>N00006483</cid><crpname>Sweeney, Joseph</crpname><party>R</party><distid>AZ07</distid><feccid>H4AZ02010</feccid>
+</member><member><cid>N00006561</cid><crpname>Udall, Tom</crpname><party>D</party><distid>NMS2</distid><feccid>S8NM00184</feccid>
+</member><member><cid>N00006568</cid><crpname>Miller, Carol</crpname><party>I</party><distid>NM03</distid><feccid>H8NM03030</feccid>
+</member><member><cid>N00005559</cid><crpname>Lucas, Frank D</crpname><party>R</party><distid>OK03</distid><feccid>H4OK06056</feccid>
+</member><member><cid>N00005582</cid><crpname>Inhofe, James M</crpname><party>R</party><distid>OKS2</distid><feccid>S4OK00083</feccid>
+</member><member><cid>N00005645</cid><crpname>Hall, Ralph M</crpname><party>R</party><distid>TX04</distid><feccid>H0TX04037</feccid>
+</member><member><cid>N00005656</cid><crpname>Barton, Joe</crpname><party>R</party><distid>TX06</distid><feccid>H4TX06117</feccid>
+</member><member><cid>N00005681</cid><crpname>Sessions, Pete</crpname><party>R</party><distid>TX32</distid><feccid>H2TX03126</feccid>
+</member><member><cid>N00005697</cid><crpname>Ashby, Ken</crpname><party>L</party><distid>TX05</distid><feccid>H8TX05052</feccid>
+</member><member><cid>N00005794</cid><crpname>Edwards, Chet</crpname><party>D</party><distid>TX17</distid><feccid>H8TX06035</feccid>
+</member><member><cid>N00005818</cid><crpname>Jackson Lee, Sheila</crpname><party>D</party><distid>TX18</distid><feccid>H4TX18054</feccid>
+</member><member><cid>N00005860</cid><crpname>Parks, Drew</crpname><party>L</party><distid>TX07</distid><feccid>H8TX07066</feccid>
+</member><member><cid>N00005870</cid><crpname>Green, Gene</crpname><party>D</party><distid>TX29</distid><feccid>H2TX29030</feccid>
+</member><member><cid>N00005883</cid><crpname>Brady, Kevin</crpname><party>R</party><distid>TX08</distid><feccid>H6TX08100</feccid>
+</member><member><cid>N00005906</cid><crpname>Paul, Ron</crpname><party>R</party><distid>TX14</distid><feccid>H6TX22101</feccid>
+</member><member><cid>N00005928</cid><crpname>Lampson, Nick</crpname><party>D</party><distid>TX22</distid><feccid>H6TX09033</feccid>
+</member><member><cid>N00005960</cid><crpname>Gonzalez, Charlie A</crpname><party>D</party><distid>TX20</distid><feccid>H8TX20077</feccid>
+</member><member><cid>N00005963</cid><crpname>Idrogo, Michael</crpname><party>L</party><distid>TX20</distid><feccid>H8TX28039</feccid>
+</member><member><cid>N00005998</cid><crpname>Ortiz, Solomon P</crpname><party>D</party><distid>TX27</distid><feccid>H2TX27026</feccid>
+</member><member><cid>N00006008</cid><crpname>Hinojosa, Ruben</crpname><party>D</party><distid>TX15</distid><feccid>H6TX15055</feccid>
+</member><member><cid>N00006023</cid><crpname>Doggett, Lloyd</crpname><party>D</party><distid>TX25</distid><feccid>H4TX10028</feccid>
+</member><member><cid>N00004956</cid><crpname>Costello, Jerry F</crpname><party>D</party><distid>IL12</distid><feccid>H8IL21021</feccid>
+</member><member><cid>N00004961</cid><crpname>Shimkus, John M</crpname><party>R</party><distid>IL19</distid><feccid>H2IL20042</feccid>
+</member><member><cid>N00004981</cid><crpname>Durbin, Dick</crpname><party>D</party><distid>ILS1</distid><feccid>S6IL00151</feccid>
+</member><member><cid>N00005043</cid><crpname>Millay, Tamara A</crpname><party>L</party><distid>MO09</distid><feccid>H8MO09179</feccid>
+</member><member><cid>N00005090</cid><crpname>Emerson, Jo Ann</crpname><party>R</party><distid>MO08</distid><feccid>H6MO08084</feccid>
+</member><member><cid>N00005105</cid><crpname>Skelton, Ike</crpname><party>D</party><distid>MO04</distid><feccid>H6MO04141</feccid>
+</member><member><cid>N00005181</cid><crpname>Carnahan, Russ</crpname><party>D</party><distid>MO03</distid><feccid>H0MO00019</feccid>
+</member><member><cid>N00005195</cid><crpname>Blunt, Roy</crpname><party>R</party><distid>MO07</distid><feccid>H6MO07128</feccid>
+</member><member><cid>N00005233</cid><crpname>Moore, Dennis</crpname><party>D</party><distid>KS03</distid><feccid>H8KS03049</feccid>
+</member><member><cid>N00005255</cid><crpname>Slattery, Jim</crpname><party>D</party><distid>KSS1</distid><feccid>S8KS00235</feccid>
+</member><member><cid>N00005276</cid><crpname>Rosile, Steven</crpname><party>L</party><distid>KS04</distid><feccid>H2KS01061</feccid>
+</member><member><cid>N00005282</cid><crpname>Moran, Jerry</crpname><party>R</party><distid>KS01</distid><feccid>H6KS01096</feccid>
+</member><member><cid>N00005285</cid><crpname>Roberts, Pat</crpname><party>R</party><distid>KSS1</distid><feccid>S6KS00080</feccid>
+</member><member><cid>N00005321</cid><crpname>Terry, Lee</crpname><party>R</party><distid>NE02</distid><feccid>H8NE02139</feccid>
+</member><member><cid>N00005353</cid><crpname>Jefferson, William J</crpname><party>D</party><distid>LA02</distid><feccid>H0LA02119</feccid>
+</member><member><cid>N00005386</cid><crpname>Vidrine, Peter</crpname><party>3</party><distid>LA07</distid><feccid>H8LA07038</feccid>
+</member><member><cid>N00005395</cid><crpname>Landrieu, Mary L</crpname><party>D</party><distid>LAS1</distid><feccid>S6LA00227</feccid>
+</member><member><cid>N00005455</cid><crpname>Berry, Marion</crpname><party>D</party><distid>AR01</distid><feccid>H6AR01072</feccid>
+</member><member><cid>N00004394</cid><crpname>Obey, David R</crpname><party>D</party><distid>WI07</distid><feccid>H6WI07033</feccid>
+</member><member><cid>N00004403</cid><crpname>Kind, Ron</crpname><party>D</party><distid>WI03</distid><feccid>H6WI03099</feccid>
+</member><member><cid>N00004426</cid><crpname>Petri, Tom</crpname><party>R</party><distid>WI06</distid><feccid>H0WI06061</feccid>
+</member><member><cid>N00004436</cid><crpname>Kline, John</crpname><party>R</party><distid>MN02</distid><feccid>H8MN06047</feccid>
+</member><member><cid>N00004517</cid><crpname>Barkley, Dean M</crpname><party>3</party><distid>MNS1</distid><feccid>S4MN00262</feccid>
+</member><member><cid>N00004558</cid><crpname>Peterson, Collin C</crpname><party>D</party><distid>MN07</distid><feccid>H2MN07014</feccid>
+</member><member><cid>N00004630</cid><crpname>Kelleher, Bob</crpname><party>R</party><distid>MTS2</distid><feccid>S6MT00212</feccid>
+</member><member><cid>N00004643</cid><crpname>Baucus, Max</crpname><party>D</party><distid>MTS2</distid><feccid>S8MT00010</feccid>
+</member><member><cid>N00004645</cid><crpname>Rehberg, Denny</crpname><party>R</party><distid>MT01</distid><feccid>H0MT00033</feccid>
+</member><member><cid>N00004663</cid><crpname>Fellows, Mike</crpname><party>L</party><distid>MT01</distid><feccid>H8MT01141</feccid>
+</member><member><cid>N00004707</cid><crpname>Koppie, Chad</crpname><party>3</party><distid>ILS1</distid><feccid>S2IL00044</feccid>
+</member><member><cid>N00004719</cid><crpname>Roskam, Peter</crpname><party>R</party><distid>IL06</distid><feccid>H6IL06117</feccid>
+</member><member><cid>N00004724</cid><crpname>Schakowsky, Jan</crpname><party>D</party><distid>IL09</distid><feccid>H8IL09067</feccid>
+</member><member><cid>N00004762</cid><crpname>Biggert, Judy</crpname><party>R</party><distid>IL13</distid><feccid>H8IL13069</feccid>
+</member><member><cid>N00004874</cid><crpname>Gutierrez, Luis V</crpname><party>D</party><distid>IL04</distid><feccid>H2IL08039</feccid>
+</member><member><cid>N00004884</cid><crpname>Davis, Danny K</crpname><party>D</party><distid>IL07</distid><feccid>H4IL07037</feccid>
+</member><member><cid>N00004887</cid><crpname>Rush, Bobby L</crpname><party>D</party><distid>IL01</distid><feccid>H2IL01042</feccid>
+</member><member><cid>N00004905</cid><crpname>Manzullo, Don</crpname><party>R</party><distid>IL16</distid><feccid>H0IL16085</feccid>
+</member><member><cid>N00003844</cid><crpname>Souder, Mark E</crpname><party>R</party><distid>IN03</distid><feccid>H4IN04099</feccid>
+</member><member><cid>N00003875</cid><crpname>Hill, Baron</crpname><party>D</party><distid>IN09</distid><feccid>H8IN09032</feccid>
+</member><member><cid>N00003924</cid><crpname>Buyer, Steve</crpname><party>R</party><distid>IN04</distid><feccid>H2IN05025</feccid>
+</member><member><cid>N00003950</cid><crpname>Levin, Sander</crpname><party>D</party><distid>MI12</distid><feccid>H2MI17023</feccid>
+</member><member><cid>N00004005</cid><crpname>Kilpatrick, Carolyn Cheeks</crpname><party>D</party><distid>MI13</distid><feccid>H6MI15127</feccid>
+</member><member><cid>N00004029</cid><crpname>Conyers, John Jr</crpname><party>D</party><distid>MI14</distid><feccid>H6MI01028</feccid>
+</member><member><cid>N00004045</cid><crpname>Knollenberg, Joe</crpname><party>R</party><distid>MI09</distid><feccid>H2MI11042</feccid>
+</member><member><cid>N00004070</cid><crpname>Kildee, Dale E</crpname><party>D</party><distid>MI05</distid><feccid>H6MI07108</feccid>
+</member><member><cid>N00004092</cid><crpname>Proctor, Ken</crpname><party>L</party><distid>MI07</distid><feccid>H2MI07073</feccid>
+</member><member><cid>N00004133</cid><crpname>Upton, Fred</crpname><party>R</party><distid>MI06</distid><feccid>H6MI04113</feccid>
+</member><member><cid>N00004155</cid><crpname>Hoekstra, Peter</crpname><party>R</party><distid>MI02</distid><feccid>H2MI02066</feccid>
+</member><member><cid>N00004166</cid><crpname>Ehlers, Vernon J</crpname><party>R</party><distid>MI03</distid><feccid>H4MI03045</feccid>
+</member><member><cid>N00004172</cid><crpname>Haas, Erwin</crpname><party>L</party><distid>MI03</distid><feccid>H6MI03123</feccid>
+</member><member><cid>N00004196</cid><crpname>Stupak, Bart</crpname><party>D</party><distid>MI01</distid><feccid>H2MI01068</feccid>
+</member><member><cid>N00004207</cid><crpname>Harkin, Tom</crpname><party>D</party><distid>IAS2</distid><feccid>S4IA00020</feccid>
+</member><member><cid>N00004208</cid><crpname>Boswell, Leonard L</crpname><party>D</party><distid>IA03</distid><feccid>H6IA03144</feccid>
+</member><member><cid>N00004227</cid><crpname>Latham, Tom</crpname><party>R</party><distid>IA04</distid><feccid>H4IA05102</feccid>
+</member><member><cid>N00004291</cid><crpname>Sensenbrenner, F James Jr</crpname><party>R</party><distid>WI05</distid><feccid>H8WI09050</feccid>
+</member><member><cid>N00004357</cid><crpname>Ryan, Paul</crpname><party>R</party><distid>WI01</distid><feccid>H8WI01024</feccid>
+</member><member><cid>N00004367</cid><crpname>Baldwin, Tammy</crpname><party>D</party><distid>WI02</distid><feccid>H8WI00018</feccid>
+</member><member><cid>N00003288</cid><crpname>Thompson, Bennie G</crpname><party>D</party><distid>MS02</distid><feccid>H4MS02068</feccid>
+</member><member><cid>N00003328</cid><crpname>Cochran, Thad</crpname><party>R</party><distid>MSS1</distid><feccid>S8MS00055</feccid>
+</member><member><cid>N00003350</cid><crpname>Taylor, Gene</crpname><party>D</party><distid>MS04</distid><feccid>H8MS05047</feccid>
+</member><member><cid>N00003389</cid><crpname>McConnell, Mitch</crpname><party>R</party><distid>KYS1</distid><feccid>S2KY00012</feccid>
+</member><member><cid>N00003392</cid><crpname>Northup, Anne M</crpname><party>R</party><distid>KY03</distid><feccid>H6KY03090</feccid>
+</member><member><cid>N00003467</cid><crpname>Whitfield, Ed</crpname><party>R</party><distid>KY01</distid><feccid>H4KY01040</feccid>
+</member><member><cid>N00003473</cid><crpname>Rogers, Hal</crpname><party>R</party><distid>KY05</distid><feccid>H0KY05015</feccid>
+</member><member><cid>N00003522</cid><crpname>Kaptur, Marcy</crpname><party>D</party><distid>OH09</distid><feccid>H2OH09031</feccid>
+</member><member><cid>N00003528</cid><crpname>Wilson, Charlie</crpname><party>D</party><distid>OH06</distid><feccid>H6OH06095</feccid>
+</member><member><cid>N00003545</cid><crpname>LaTourette, Steven C</crpname><party>R</party><distid>OH14</distid><feccid>H4OH19036</feccid>
+</member><member><cid>N00026106</cid><crpname>Schultz, Debbie Wasserman</crpname><party>D</party><distid>FL20</distid><feccid>H4FL20023</feccid>
+</member><member><cid>N00003572</cid><crpname>Kucinich, Dennis J</crpname><party>D</party><distid>OH10</distid><feccid>H6OH23033</feccid>
+</member><member><cid>N00003675</cid><crpname>Boehner, John</crpname><party>R</party><distid>OH08</distid><feccid>H0OH08029</feccid>
+</member><member><cid>N00003689</cid><crpname>Chabot, Steve</crpname><party>R</party><distid>OH01</distid><feccid>H8OH01043</feccid>
+</member><member><cid>N00003754</cid><crpname>Holland, George Thomas</crpname><party>L</party><distid>IN06</distid><feccid>H6IN06024</feccid>
+</member><member><cid>N00003765</cid><crpname>Pence, Mike</crpname><party>R</party><distid>IN06</distid><feccid>H8IN02060</feccid>
+</member><member><cid>N00003796</cid><crpname>Leyva, Mark J</crpname><party>R</party><distid>IN01</distid><feccid>H8IN01096</feccid>
+</member><member><cid>N00003813</cid><crpname>Visclosky, Pete</crpname><party>D</party><distid>IN01</distid><feccid>H4IN01012</feccid>
+</member><member><cid>N00002743</cid><crpname>Boyd, Allen</crpname><party>D</party><distid>FL02</distid><feccid>H6FL00046</feccid>
+</member><member><cid>N00002782</cid><crpname>Stearns, Cliff</crpname><party>R</party><distid>FL06</distid><feccid>H8FL06056</feccid>
+</member><member><cid>N00002793</cid><crpname>Mica, John L</crpname><party>R</party><distid>FL07</distid><feccid>H2FL08055</feccid>
+</member><member><cid>N00002836</cid><crpname>Graber, Ben</crpname><party>I</party><distid>FL19</distid><feccid>H6FL19046</feccid>
+</member><member><cid>N00002858</cid><crpname>Ros-Lehtinen, Ileana</crpname><party>R</party><distid>FL18</distid><feccid>H0FL18025</feccid>
+</member><member><cid>N00002872</cid><crpname>Diaz-Balart, Lincoln</crpname><party>R</party><distid>FL21</distid><feccid>H2FL19037</feccid>
+</member><member><cid>N00002884</cid><crpname>Hastings, Alcee L</crpname><party>D</party><distid>FL23</distid><feccid>H2FL23021</feccid>
+</member><member><cid>N00002905</cid><crpname>Wexler, Robert</crpname><party>D</party><distid>FL19</distid><feccid>H6FL19038</feccid>
+</member><member><cid>N00003028</cid><crpname>Aderholt, Robert B</crpname><party>R</party><distid>AL04</distid><feccid>H6AL04098</feccid>
+</member><member><cid>N00003045</cid><crpname>Parker, Wayne</crpname><party>R</party><distid>AL05</distid><feccid>H4AL05025</feccid>
+</member><member><cid>N00003062</cid><crpname>Sessions, Jeff</crpname><party>R</party><distid>ALS1</distid><feccid>S6AL00195</feccid>
+</member><member><cid>N00003105</cid><crpname>Blackburn, Marsha</crpname><party>R</party><distid>TN07</distid><feccid>H2TN06030</feccid>
+</member><member><cid>N00003126</cid><crpname>Gordon, Bart</crpname><party>D</party><distid>TN06</distid><feccid>H4TN04015</feccid>
+</member><member><cid>N00003132</cid><crpname>Cooper, Jim</crpname><party>D</party><distid>TN05</distid><feccid>H2TN05131</feccid>
+</member><member><cid>N00003159</cid><crpname>Wamp, Zach</crpname><party>R</party><distid>TN03</distid><feccid>H2TN03052</feccid>
+</member><member><cid>N00003209</cid><crpname>Duncan, John J Jr</crpname><party>R</party><distid>TN02</distid><feccid>H8TN02069</feccid>
+</member><member><cid>N00003225</cid><crpname>Cohen, Stephen Ira</crpname><party>D</party><distid>TN09</distid><feccid>H6TN09068</feccid>
+</member><member><cid>N00003254</cid><crpname>Tanner, John</crpname><party>D</party><distid>TN08</distid><feccid>H8TN08033</feccid>
+</member><member><cid>N00003264</cid><crpname>Davis, Lincoln</crpname><party>D</party><distid>TN04</distid><feccid>H4TN06051</feccid>
+</member><member><cid>N00003280</cid><crpname>Wicker, Roger</crpname><party>R</party><distid>MSS2</distid><feccid>S8MS00196</feccid>
+</member><member><cid>N00002214</cid><crpname>Mollohan, Alan B</crpname><party>D</party><distid>WV01</distid><feccid>H2WV01029</feccid>
+</member><member><cid>N00002247</cid><crpname>Coble, Howard</crpname><party>R</party><distid>NC06</distid><feccid>H4NC06011</feccid>
+</member><member><cid>N00002260</cid><crpname>Price, David</crpname><party>D</party><distid>NC04</distid><feccid>H6NC04037</feccid>
+</member><member><cid>N00002269</cid><crpname>Etheridge, Bob</crpname><party>D</party><distid>NC02</distid><feccid>H6NC02080</feccid>
+</member><member><cid>N00002299</cid><crpname>Jones, Walter B Jr</crpname><party>R</party><distid>NC03</distid><feccid>H2NC01081</feccid>
+</member><member><cid>N00002315</cid><crpname>Hayes, Robin</crpname><party>R</party><distid>NC08</distid><feccid>H8NC08042</feccid>
+</member><member><cid>N00002327</cid><crpname>Myrick, Sue</crpname><party>R</party><distid>NC09</distid><feccid>H4NC09106</feccid>
+</member><member><cid>N00002328</cid><crpname>Watt, Melvin L</crpname><party>D</party><distid>NC12</distid><feccid>H2NC12021</feccid>
+</member><member><cid>N00002356</cid><crpname>McIntyre, Mike</crpname><party>D</party><distid>NC07</distid><feccid>H8NC07044</feccid>
+</member><member><cid>N00002408</cid><crpname>Clyburn, James E</crpname><party>D</party><distid>SC06</distid><feccid>H2SC02042</feccid>
+</member><member><cid>N00002428</cid><crpname>Brown, Henry</crpname><party>R</party><distid>SC01</distid><feccid>H0SC01071</feccid>
+</member><member><cid>N00002460</cid><crpname>Inglis, Bob</crpname><party>R</party><distid>SC04</distid><feccid>H2SC04022</feccid>
+</member><member><cid>N00002492</cid><crpname>Spratt, John M Jr</crpname><party>D</party><distid>SC05</distid><feccid>H2SC05052</feccid>
+</member><member><cid>N00002511</cid><crpname>McKinney, Cynthia</crpname><party>3</party><distid>PRES</distid><feccid>P80004930</feccid>
+</member><member><cid>N00002526</cid><crpname>Barr, Bob</crpname><party>L</party><distid>PRES</distid><feccid>P80005580</feccid>
+</member><member><cid>N00002577</cid><crpname>Lewis, John</crpname><party>D</party><distid>GA05</distid><feccid>H6GA05217</feccid>
+</member><member><cid>N00002599</cid><crpname>Linder, John</crpname><party>R</party><distid>GA07</distid><feccid>H0GA04023</feccid>
+</member><member><cid>N00002610</cid><crpname>Deal, Nathan</crpname><party>R</party><distid>GA09</distid><feccid>H2GA09036</feccid>
+</member><member><cid>N00002656</cid><crpname>Kingston, Jack</crpname><party>R</party><distid>GA01</distid><feccid>H2GA01157</feccid>
+</member><member><cid>N00002674</cid><crpname>Bishop, Sanford D Jr</crpname><party>D</party><distid>GA02</distid><feccid>H2GA02031</feccid>
+</member><member><cid>N00002685</cid><crpname>Chambliss, Saxby</crpname><party>R</party><distid>GAS1</distid><feccid>S2GA00118</feccid>
+</member><member><cid>N00002713</cid><crpname>Brown, Corrine</crpname><party>D</party><distid>FL03</distid><feccid>H2FL03056</feccid>
+</member><member><cid>N00000575</cid><crpname>Larson, John B</crpname><party>D</party><distid>CT01</distid><feccid>H8CT01046</feccid>
+</member><member><cid>N00000615</cid><crpname>DeLauro, Rosa L</crpname><party>D</party><distid>CT03</distid><feccid>H0CT03072</feccid>
+</member><member><cid>N00000652</cid><crpname>Shays, Christopher</crpname><party>R</party><distid>CT04</distid><feccid>H8CT04057</feccid>
+</member><member><cid>N00000659</cid><crpname>Lautenberg, Frank R</crpname><party>D</party><distid>NJS2</distid><feccid>S2NJ00080</feccid>
+</member><member><cid>N00025023</cid><crpname>Craig, Kevin</crpname><party>L</party><distid>MO07</distid><feccid>H4MO07107</feccid>
+</member><member><cid>N00000684</cid><crpname>Frelinghuysen, Rodney</crpname><party>R</party><distid>NJ11</distid><feccid>H2NJ05014</feccid>
+</member><member><cid>N00000716</cid><crpname>Payne, Donald M</crpname><party>D</party><distid>NJ10</distid><feccid>H0NJ10026</feccid>
+</member><member><cid>N00000725</cid><crpname>Vernotico, Louis</crpname><party>I</party><distid>NJ13</distid><feccid>H8NJ13122</feccid>
+</member><member><cid>N00000743</cid><crpname>Garrett, Scott</crpname><party>R</party><distid>NJ05</distid><feccid>H8NJ05052</feccid>
+</member><member><cid>N00000751</cid><crpname>Pascrell, Bill Jr</crpname><party>D</party><distid>NJ08</distid><feccid>H6NJ08118</feccid>
+</member><member><cid>N00000758</cid><crpname>Perrone Jr, Michael</crpname><party>I</party><distid>NJ09</distid><feccid>H8NJ09112</feccid>
+</member><member><cid>N00000781</cid><crpname>Pallone, Frank Jr</crpname><party>D</party><distid>NJ06</distid><feccid>H8NJ03073</feccid>
+</member><member><cid>N00000812</cid><crpname>Adler, John H</crpname><party>D</party><distid>NJ03</distid><feccid>H8NJ03156</feccid>
+</member><member><cid>N00000826</cid><crpname>Andrews, Robert E</crpname><party>D</party><distid>NJ01</distid><feccid>H0NJ01066</feccid>
+</member><member><cid>N00000851</cid><crpname>LoBiondo, Frank A</crpname><party>R</party><distid>NJ02</distid><feccid>H2NJ02037</feccid>
+</member><member><cid>N00000860</cid><crpname>Holt, Rush</crpname><party>D</party><distid>NJ12</distid><feccid>H6NJ12144</feccid>
+</member><member><cid>N00000898</cid><crpname>Lance, Leonard</crpname><party>R</party><distid>NJ07</distid><feccid>H6NJ12136</feccid>
+</member><member><cid>N00000939</cid><crpname>Nadler, Jerrold</crpname><party>D</party><distid>NY08</distid><feccid>H2NY17071</feccid>
+</member><member><cid>N00000964</cid><crpname>Rangel, Charles B</crpname><party>D</party><distid>NY15</distid><feccid>H6NY19029</feccid>
+</member><member><cid>N00001003</cid><crpname>Engel, Eliot L</crpname><party>D</party><distid>NY17</distid><feccid>H8NY19058</feccid>
+</member><member><cid>N00001024</cid><crpname>Lowey, Nita M</crpname><party>D</party><distid>NY18</distid><feccid>H8NY20056</feccid>
+</member><member><cid>N00001082</cid><crpname>Towns, Edolphus</crpname><party>D</party><distid>NY10</distid><feccid>H2NY11017</feccid>
+</member><member><cid>N00001102</cid><crpname>Velazquez, Nydia M</crpname><party>D</party><distid>NY12</distid><feccid>H2NY00010</feccid>
+</member><member><cid>N00001110</cid><crpname>Weiner, Anthony D</crpname><party>D</party><distid>NY09</distid><feccid>H8NY09091</feccid>
+</member><member><cid>N00001127</cid><crpname>Crowley, Joseph</crpname><party>D</party><distid>NY07</distid><feccid>H8NY07046</feccid>
+</member><member><cid>N00001143</cid><crpname>Ackerman, Gary</crpname><party>D</party><distid>NY05</distid><feccid>H4NY07011</feccid>
+</member><member><cid>N00001148</cid><crpname>McCarthy, Carolyn</crpname><party>D</party><distid>NY04</distid><feccid>H6NY04112</feccid>
+</member><member><cid>N00001171</cid><crpname>Meeks, Gregory W</crpname><party>D</party><distid>NY06</distid><feccid>H8NY06048</feccid>
+</member><member><cid>N00001193</cid><crpname>King, Pete</crpname><party>R</party><distid>NY03</distid><feccid>H2NY03089</feccid>
+</member><member><cid>N00001222</cid><crpname>Hinchey, Maurice</crpname><party>D</party><distid>NY22</distid><feccid>H2NY26080</feccid>
+</member><member><cid>N00001276</cid><crpname>McHugh, John M</crpname><party>R</party><distid>NY23</distid><feccid>H2NY24036</feccid>
+</member><member><cid>N00001311</cid><crpname>Slaughter, Louise M</crpname><party>D</party><distid>NY28</distid><feccid>H6NY03031</feccid>
+</member><member><cid>N00001373</cid><crpname>Doyle, Mike</crpname><party>D</party><distid>PA14</distid><feccid>H4PA18131</feccid>
+</member><member><cid>N00001408</cid><crpname>Murtha, John P</crpname><party>D</party><distid>PA12</distid><feccid>H6PA12030</feccid>
+</member><member><cid>N00001427</cid><crpname>English, Phil</crpname><party>R</party><distid>PA03</distid><feccid>H4PA21051</feccid>
+</member><member><cid>N00001469</cid><crpname>Holden, Tim</crpname><party>D</party><distid>PA17</distid><feccid>H2PA06080</feccid>
+</member><member><cid>N00001509</cid><crpname>Kanjorski, Paul E</crpname><party>D</party><distid>PA11</distid><feccid>H0PA11050</feccid>
+</member><member><cid>N00001518</cid><crpname>Lingenfelter, Thomas A</crpname><party>I</party><distid>PA08</distid><feccid>H6PA08160</feccid>
+</member><member><cid>N00001543</cid><crpname>Ducey, Susan G</crpname><party>3</party><distid>KS04</distid><feccid>H8KS04070</feccid>
+</member><member><cid>N00001579</cid><crpname>Schwartz, Allyson</crpname><party>D</party><distid>PA13</distid><feccid>H4PA13124</feccid>
+</member><member><cid>N00001619</cid><crpname>Brady, Robert A</crpname><party>D</party><distid>PA01</distid><feccid>H8PA01153</feccid>
+</member><member><cid>N00001633</cid><crpname>Pitts, Joe</crpname><party>R</party><distid>PA16</distid><feccid>H6PA16197</feccid>
+</member><member><cid>N00001669</cid><crpname>Biden, Joseph R Jr</crpname><party>D</party><distid>DES2</distid><feccid>S8DE00012</feccid>
+</member><member><cid>N00001685</cid><crpname>Rockefeller, Jay</crpname><party>D</party><distid>WVS2</distid><feccid>S4WV00027</feccid>
+</member><member><cid>N00001691</cid><crpname>Levin, Carl</crpname><party>D</party><distid>MIS1</distid><feccid>S8MI00158</feccid>
+</member><member><cid>N00001692</cid><crpname>Norton, Eleanor Holmes</crpname><party>D</party><distid>DC00</distid><feccid>H0DC00058</feccid>
+</member><member><cid>N00001725</cid><crpname>Inslee, Jay R</crpname><party>D</party><distid>WA01</distid><feccid>H2WA04090</feccid>
+</member><member><cid>N00001746</cid><crpname>Fattah, Chaka</crpname><party>D</party><distid>PA02</distid><feccid>H2PA02055</feccid>
+</member><member><cid>N00001783</cid><crpname>Dingell, John D</crpname><party>D</party><distid>MI15</distid><feccid>H6MI16034</feccid>
+</member><member><cid>N00001806</cid><crpname>Oberstar, James L</crpname><party>D</party><distid>MN08</distid><feccid>H6MN08047</feccid>
+</member><member><cid>N00001811</cid><crpname>Smith, Lamar</crpname><party>R</party><distid>TX21</distid><feccid>H6TX21012</feccid>
+</member><member><cid>N00001813</cid><crpname>Serrano, Jose E</crpname><party>D</party><distid>NY16</distid><feccid>H0NY18065</feccid>
+</member><member><cid>N00001817</cid><crpname>Young, C W Bill</crpname><party>R</party><distid>FL10</distid><feccid>H6FL06035</feccid>
+</member><member><cid>N00001821</cid><crpname>Hoyer, Steny H</crpname><party>D</party><distid>MD05</distid><feccid>H2MD05155</feccid>
+</member><member><cid>N00001856</cid><crpname>Vollmer, Deborah A</crpname><party>I</party><distid>MD08</distid><feccid>H8MD08149</feccid>
+</member><member><cid>N00001861</cid><crpname>Waxman, Henry A</crpname><party>D</party><distid>CA30</distid><feccid>H6CA24048</feccid>
+</member><member><cid>N00001971</cid><crpname>Cummings, Elijah E</crpname><party>D</party><distid>MD07</distid><feccid>H6MD07160</feccid>
+</member><member><cid>N00002017</cid><crpname>Bartlett, Roscoe G</crpname><party>R</party><distid>MD06</distid><feccid>H2MD06054</feccid>
+</member><member><cid>N00002073</cid><crpname>Wolf, Frank R</crpname><party>R</party><distid>VA10</distid><feccid>H6VA10050</feccid>
+</member><member><cid>N00002079</cid><crpname>LaRocco, Larry</crpname><party>D</party><distid>IDS1</distid><feccid>S8ID00076</feccid>
+</member><member><cid>N00002083</cid><crpname>Moran, Jim</crpname><party>D</party><distid>VA08</distid><feccid>H0VA08040</feccid>
+</member><member><cid>N00002097</cid><crpname>Warner, Mark</crpname><party>D</party><distid>VAS2</distid><feccid>S6VA00093</feccid>
+</member><member><cid>N00002147</cid><crpname>Scott, Robert C</crpname><party>D</party><distid>VA03</distid><feccid>H6VA01117</feccid>
+</member><member><cid>N00002167</cid><crpname>Goode, Virgil H Jr</crpname><party>R</party><distid>VA05</distid><feccid>H6VA05068</feccid>
+</member><member><cid>N00002171</cid><crpname>Boucher, Rick</crpname><party>D</party><distid>VA09</distid><feccid>H2VA09010</feccid>
+</member><member><cid>N00002198</cid><crpname>Rahall, Nick</crpname><party>D</party><distid>WV03</distid><feccid>H6WV04057</feccid>
+</member><member><cid>N00012539</cid><crpname>Kirk, Mark</crpname><party>R</party><distid>IL10</distid><feccid>H0IL10120</feccid>
+</member><member><cid>N00012560</cid><crpname>Porter, Jon</crpname><party>R</party><distid>NV03</distid><feccid>H0NV01078</feccid>
+</member><member><cid>N00025105</cid><crpname>Claytor, Christopher J</crpname><party>L</party><distid>TX03</distid><feccid>H2TX27117</feccid>
+</member><member><cid>N00012611</cid><crpname>Honda, Mike</crpname><party>D</party><distid>CA15</distid><feccid>H0CA15148</feccid>
+</member><member><cid>N00029018</cid><crpname>Rooney, Tom</crpname><party>R</party><distid>FL16</distid><feccid>H8FL16022</feccid>
+</member><member><cid>N00012672</cid><crpname>Pearce, Steve</crpname><party>R</party><distid>NMS2</distid><feccid>S0NM00041</feccid>
+</member><member><cid>N00012739</cid><crpname>Crenshaw, Ander </crpname><party>R</party><distid>FL04</distid><feccid>H0FL04066</feccid>
+</member><member><cid>N00012760</cid><crpname>Smith, Charles U </crpname><party>I</party><distid>MD07</distid><feccid>H0MD07056</feccid>
+</member><member><cid>N00012812</cid><crpname>Sand, Duane</crpname><party>R</party><distid>ND01</distid><feccid>H4ND00038</feccid>
+</member><member><cid>N00013540</cid><crpname>Tingle, Robert G</crpname><party>R</party><distid>RIS2</distid><feccid>S2RI00063</feccid>
+</member><member><cid>N00026425</cid><crpname>Mack, Connie</crpname><party>R</party><distid>FL14</distid><feccid>H4FL14059</feccid>
+</member><member><cid>N00026720</cid><crpname>Vaden, William Ross</crpname><party>R</party><distid>TX27</distid><feccid>H4TX27030</feccid>
+</member><member><cid>N00026782</cid><crpname>Neeld, Robert M Jr</crpname><party>D</party><distid>FL14</distid><feccid>H4FL14091</feccid>
+</member><member><cid>N00026790</cid><crpname>Cleaver, Emanuel</crpname><party>D</party><distid>MO05</distid><feccid>H4MO05234</feccid>
+</member><member><cid>N00026829</cid><crpname>Jennings, Christine</crpname><party>D</party><distid>FL13</distid><feccid>H4FL13069</feccid>
+</member><member><cid>N00026926</cid><crpname>McNerney, Jerry</crpname><party>D</party><distid>CA11</distid><feccid>H4CA11081</feccid>
+</member><member><cid>N00027006</cid><crpname>Ferrucci, Ralph</crpname><party>3</party><distid>CT03</distid><feccid>H4CT03074</feccid>
+</member><member><cid>N00027026</cid><crpname>Babcock, Kevin C</crpname><party>L</party><distid>MO03</distid><feccid>H4MO03155</feccid>
+</member><member><cid>N00027035</cid><crpname>Butterfield, G K</crpname><party>D</party><distid>NC01</distid><feccid>H4NC01046</feccid>
+</member><member><cid>N00027048</cid><crpname>Hodes, Paul W</crpname><party>D</party><distid>NH02</distid><feccid>H4NH02175</feccid>
+</member><member><cid>N00027060</cid><crpname>Higgins, Brian M</crpname><party>D</party><distid>NY27</distid><feccid>H4NY27076</feccid>
+</member><member><cid>N00027067</cid><crpname>Spencer, Albert Franklin</crpname><party>R</party><distid>SC05</distid><feccid>H4SC05041</feccid>
+</member><member><cid>N00012841</cid><crpname>Peters, Herb</crpname><party>L</party><distid>CA35</distid><feccid>H8CA35107</feccid>
+</member><member><cid>N00012869</cid><crpname>Benoit, Michael</crpname><party>L</party><distid>CA52</distid><feccid>H0CA52018</feccid>
+</member><member><cid>N00012890</cid><crpname>Johnson, Timothy V</crpname><party>R</party><distid>IL15</distid><feccid>H0IL15053</feccid>
+</member><member><cid>N00012942</cid><crpname>McCollum, Betty</crpname><party>D</party><distid>MN04</distid><feccid>H0MN04049</feccid>
+</member><member><cid>N00012974</cid><crpname>Stevenson, Richard L</crpname><party>I</party><distid>OH01</distid><feccid>H0OH01065</feccid>
+</member><member><cid>N00013032</cid><crpname>Curnock, Rob</crpname><party>R</party><distid>TX17</distid><feccid>H8TX17107</feccid>
+</member><member><cid>N00027160</cid><crpname>Gammill, Powell</crpname><party>L</party><distid>AZ02</distid><feccid>H4AZ02119</feccid>
+</member><member><cid>N00013103</cid><crpname>Menze, Glen</crpname><party>R</party><distid>MN07</distid><feccid>H0MN07034</feccid>
+</member><member><cid>N00013131</cid><crpname>Cantor, Eric</crpname><party>R</party><distid>VA07</distid><feccid>H0VA07042</feccid>
+</member><member><cid>N00013232</cid><crpname>Haas, William C</crpname><party>D</party><distid>MO02</distid><feccid>H8MO02158</feccid>
+</member><member><cid>N00026595</cid><crpname>Boustany, Charles W Jr</crpname><party>R</party><distid>LA07</distid><feccid>H4LA07029</feccid>
+</member><member><cid>N00026619</cid><crpname>Parnell, Jeff</crpname><party>R</party><distid>MO04</distid><feccid>H4MO04088</feccid>
+</member><member><cid>N00026627</cid><crpname>McHenry, Patrick</crpname><party>R</party><distid>NC10</distid><feccid>H4NC10047</feccid>
+</member><member><cid>N00026631</cid><crpname>Fortenberry, Jeffrey Lane</crpname><party>R</party><distid>NE01</distid><feccid>H4NE01064</feccid>
+</member><member><cid>N00026641</cid><crpname>Mitakides, Jane</crpname><party>D</party><distid>OH03</distid><feccid>H4OH03055</feccid>
+</member><member><cid>N00013318</cid><crpname>Knapp, Thomas L</crpname><party>L</party><distid>MO02</distid><feccid>H8MO02182</feccid>
+</member><member><cid>N00013323</cid><crpname>Graves, Sam</crpname><party>R</party><distid>MO06</distid><feccid>H0MO06073</feccid>
+</member><member><cid>N00013336</cid><crpname>Rozzo, Costantino</crpname><party>3</party><distid>NJ02</distid><feccid>H0NJ02098</feccid>
+</member><member><cid>N00013345</cid><crpname>Israel, Steve</crpname><party>D</party><distid>NY02</distid><feccid>H0NY02085</feccid>
+</member><member><cid>N00013521</cid><crpname>Gore, Cartrell</crpname><party>3</party><distid>NY11</distid><feccid>H0NY11060</feccid>
+</member><member><cid>N00013532</cid><crpname>Hawkins, Howie</crpname><party>3</party><distid>NY25</distid><feccid>H0NY25037</feccid>
+</member><member><cid>N00026686</cid><crpname>Green, Al</crpname><party>D</party><distid>TX09</distid><feccid>H4TX09095</feccid>
+</member><member><cid>N00026710</cid><crpname>Marchant, Kenny Ewell</crpname><party>R</party><distid>TX24</distid><feccid>H4TX24094</feccid>
+</member><member><cid>N00013593</cid><crpname>Warner, Jack</crpname><party>L</party><distid>KS01</distid><feccid>H0KS01081</feccid>
+</member><member><cid>N00013656</cid><crpname>Carter, J M</crpname><party>3</party><distid>NJS2</distid><feccid>S8NJ00145</feccid>
+</member><member><cid>N00026160</cid><crpname>Price, Tom</crpname><party>R</party><distid>GA06</distid><feccid>H4GA06087</feccid>
+</member><member><cid>N00014035</cid><crpname>Ackerson, Nels</crpname><party>D</party><distid>IN04</distid><feccid>H8IN04108</feccid>
+</member><member><cid>N00026251</cid><crpname>Gianoutsos, Ted</crpname><party>3</party><distid>AKS1</distid><feccid>S4AK00115</feccid>
+</member><member><cid>N00016592</cid><crpname>Donohue, Alfred</crpname><party>3</party><distid>NY09</distid><feccid>H2NY09078</feccid>
+</member><member><cid>N00026163</cid><crpname>Westmoreland, Lynn A</crpname><party>R</party><distid>GA03</distid><feccid>H4GA08067</feccid>
+</member><member><cid>N00021580</cid><crpname>Pekarek, Thomas</crpname><party>R</party><distid>OH11</distid><feccid>H8OH11133</feccid>
+</member><member><cid>N00026148</cid><crpname>Gohmert, Louis B Jr</crpname><party>R</party><distid>TX01</distid><feccid>H4TX04039</feccid>
+</member><member><cid>N00026166</cid><crpname>Foxx, Virginia</crpname><party>R</party><distid>NC05</distid><feccid>H4NC05146</feccid>
+</member><member><cid>N00028983</cid><crpname>Lord, Bob</crpname><party>D</party><distid>AZ03</distid><feccid>H8AZ03092</feccid>
+</member><member><cid>N00024753</cid><crpname>Coffman, Mike</crpname><party>R</party><distid>CO06</distid><feccid>H8CO06138</feccid>
+</member><member><cid>N00022725</cid><crpname>Scott, Robert R</crpname><party>D</party><distid>TN02</distid><feccid>H8TN02028</feccid>
+</member><member><cid>N00026230</cid><crpname>Policarpio, Gonzalo Manalo</crpname><party>3</party><distid>NY05</distid><feccid>H4NY05064</feccid>
+</member><member><cid>N00026233</cid><crpname>Porter, Steve</crpname><party>I</party><distid>PA03</distid><feccid>H4PA03075</feccid>
+</member><member><cid>N00024758</cid><crpname>Roberts, Vic</crpname><party>3</party><distid>IL19</distid><feccid>H6IL19086</feccid>
+</member><member><cid>N00024759</cid><crpname>Rogers, Mike D</crpname><party>R</party><distid>AL03</distid><feccid>H2AL03032</feccid>
+</member><member><cid>N00024760</cid><crpname>Gingrey, Phil</crpname><party>R</party><distid>GA11</distid><feccid>H2GA11149</feccid>
+</member><member><cid>N00024770</cid><crpname>Michaud, Mike</crpname><party>D</party><distid>ME02</distid><feccid>H2ME02097</feccid>
+</member><member><cid>N00024773</cid><crpname>Herseth Sandlin, Stephanie</crpname><party>D</party><distid>SD01</distid><feccid>H2SD00092</feccid>
+</member><member><cid>N00024777</cid><crpname>Brown-Waite, Ginny</crpname><party>R</party><distid>FL05</distid><feccid>H2FL05127</feccid>
+</member><member><cid>N00026314</cid><crpname>McMorris, Cathy</crpname><party>R</party><distid>WA05</distid><feccid>H4WA05077</feccid>
+</member><member><cid>N00024790</cid><crpname>Shaheen, Jeanne</crpname><party>D</party><distid>NHS2</distid><feccid>S0NH00219</feccid>
+</member><member><cid>N00024809</cid><crpname>Wilson, Joe</crpname><party>R</party><distid>SC02</distid><feccid>H2SC02059</feccid>
+</member><member><cid>N00024813</cid><crpname>Emanuel, Rahm</crpname><party>D</party><distid>IL05</distid><feccid>H2IL05092</feccid>
+</member><member><cid>N00026368</cid><crpname>Walberg, Tim</crpname><party>R</party><distid>MI07</distid><feccid>H4MI07103</feccid>
+</member><member><cid>N00024842</cid><crpname>Courtney, Joe</crpname><party>D</party><distid>CT02</distid><feccid>H2CT02112</feccid>
+</member><member><cid>N00024851</cid><crpname>Feeney, Tom</crpname><party>R</party><distid>FL24</distid><feccid>H2FL00250</feccid>
+</member><member><cid>N00024852</cid><crpname>Cornyn, John</crpname><party>R</party><distid>TXS1</distid><feccid>S2TX00106</feccid>
+</member><member><cid>N00026434</cid><crpname>Boyda, Nancy E</crpname><party>D</party><distid>KS02</distid><feccid>H4KS02107</feccid>
+</member><member><cid>N00026457</cid><crpname>Poe, Ted</crpname><party>R</party><distid>TX02</distid><feccid>H4TX02108</feccid>
+</member><member><cid>N00026460</cid><crpname>McCaul, Michael</crpname><party>R</party><distid>TX10</distid><feccid>H4TX10093</feccid>
+</member><member><cid>N00024862</cid><crpname>Davis, Geoff</crpname><party>R</party><distid>KY04</distid><feccid>H2KY04071</feccid>
+</member><member><cid>N00024866</cid><crpname>Bordallo, Madeleine Z</crpname><party>D</party><distid>GU00</distid><feccid>H2GU00033</feccid>
+</member><member><cid>N00024867</cid><crpname>Hay, Sydney</crpname><party>R</party><distid>AZ01</distid><feccid>H2AZ01149</feccid>
+</member><member><cid>N00024870</cid><crpname>Sanchez, Linda</crpname><party>D</party><distid>CA39</distid><feccid>H2CA39078</feccid>
+</member><member><cid>N00024871</cid><crpname>Scott, David</crpname><party>D</party><distid>GA13</distid><feccid>H2GA13012</feccid>
+</member><member><cid>N00024874</cid><crpname>Cardoza, Dennis</crpname><party>D</party><distid>CA18</distid><feccid>H2CA18056</feccid>
+</member><member><cid>N00024875</cid><crpname>Bean, Melissa</crpname><party>D</party><distid>IL08</distid><feccid>H2IL08088</feccid>
+</member><member><cid>N00026508</cid><crpname>Holtz, Brian</crpname><party>L</party><distid>CA14</distid><feccid>H4CA14085</feccid>
+</member><member><cid>N00026510</cid><crpname>Smolen, Joel</crpname><party>L</party><distid>CA06</distid><feccid>H8CA06066</feccid>
+</member><member><cid>N00026542</cid><crpname>Lash, Tom</crpname><party>3</party><distid>CA46</distid><feccid>H4CA46095</feccid>
+</member><member><cid>N00024894</cid><crpname>Oberweis, James D</crpname><party>R</party><distid>IL14</distid><feccid>H8IL14083</feccid>
+</member><member><cid>N00026545</cid><crpname>Grossmith, Lars R</crpname><party>L</party><distid>CA49</distid><feccid>H4CA49081</feccid>
+</member><member><cid>N00026591</cid><crpname>Chandler, Ben</crpname><party>D</party><distid>KY06</distid><feccid>H4KY06072</feccid>
+</member><member><cid>N00026751</cid><crpname>Buckley, Allen</crpname><party>L</party><distid>GAS1</distid><feccid>S4GA11103</feccid>
+</member><member><cid>N00026756</cid><crpname>Bly, Ray</crpname><party>I</party><distid>MD07</distid><feccid>H8MD07042</feccid>
+</member><member><cid>N00024922</cid><crpname>Hensarling, Jeb</crpname><party>R</party><distid>TX05</distid><feccid>H2TX05121</feccid>
+</member><member><cid>N00026823</cid><crpname>Kennedy, John Neely</crpname><party>R</party><distid>LAS1</distid><feccid>S4LA00065</feccid>
+</member><member><cid>N00026840</cid><crpname>Melancon, Charles J</crpname><party>D</party><distid>LA03</distid><feccid>H4LA03028</feccid>
+</member><member><cid>N00026852</cid><crpname>Larrick, Steven</crpname><party>3</party><distid>NES2</distid><feccid>S8NE00166</feccid>
+</member><member><cid>N00026885</cid><crpname>Reichert, Dave</crpname><party>R</party><distid>WA08</distid><feccid>H4WA08071</feccid>
+</member><member><cid>N00026895</cid><crpname>Summers, Scott</crpname><party>3</party><distid>IL16</distid><feccid>H8IL16070</feccid>
+</member><member><cid>N00026914</cid><crpname>Moore, Gwen</crpname><party>D</party><distid>WI04</distid><feccid>H4WI04183</feccid>
+</member><member><cid>N00026931</cid><crpname>Thorpe, Marion</crpname><party>R</party><distid>FL23</distid><feccid>H4FL23050</feccid>
+</member><member><cid>N00026961</cid><crpname>Clarke, Yvette D</crpname><party>D</party><distid>NY11</distid><feccid>H4NY11138</feccid>
+</member><member><cid>N00026975</cid><crpname>Howard-Hill, Jean</crpname><party>I</party><distid>TN03</distid><feccid>H4TN03165</feccid>
+</member><member><cid>N00026976</cid><crpname>Vandagriff, Doug</crpname><party>D</party><distid>TN03</distid><feccid>H4TN03173</feccid>
+</member><member><cid>N00026987</cid><crpname>Gearheart, Gary Martin</crpname><party>R</party><distid>WV03</distid><feccid>H4WV03062</feccid>
+</member><member><cid>N00027019</cid><crpname>Alexander, Bob</crpname><party>D</party><distid>MI08</distid><feccid>H4MI08085</feccid>
+</member><member><cid>N00027126</cid><crpname>Wickson, Raymond</crpname><party>R</party><distid>OK02</distid><feccid>H4OK02139</feccid>
+</member><member><cid>N00027409</cid><crpname>Rucker, Walter</crpname><party>I</party><distid>NCS1</distid><feccid>S4NC00121</feccid>
+</member><member><cid>N00027413</cid><crpname>Koppel, Martin</crpname><party>3</party><distid>NY15</distid><feccid>H8NY15130</feccid>
+</member><member><cid>N00027415</cid><crpname>Brownlow, David</crpname><party>3</party><distid>ORS1</distid><feccid>S4OR00149</feccid>
+</member><member><cid>N00027421</cid><crpname>White, Will Tyler</crpname><party>L</party><distid>MI08</distid><feccid>H4MI08093</feccid>
+</member><member><cid>N00027428</cid><crpname>Raymond, Robert R</crpname><party>I</party><distid>WI05</distid><feccid>H8WI05124</feccid>
+</member><member><cid>N00027631</cid><crpname>Young, Steve</crpname><party>D</party><distid>CA48</distid><feccid>H6CA48070</feccid>
+</member><member><cid>N00027781</cid><crpname>Fallin, Mary</crpname><party>R</party><distid>OK05</distid><feccid>H6OK05160</feccid>
+</member><member><cid>N00027787</cid><crpname>Melancon, Glenn</crpname><party>D</party><distid>TX04</distid><feccid>H6TX04083</feccid>
+</member><member><cid>N00027791</cid><crpname>Story, Eric</crpname><party>R</party><distid>TX29</distid><feccid>H6TX29049</feccid>
+</member><member><cid>N00027793</cid><crpname>Trauner, Gary</crpname><party>D</party><distid>WY01</distid><feccid>H6WY01025</feccid>
+</member><member><cid>N00027798</cid><crpname>Warner, Russell</crpname><party>D</party><distid>CA26</distid><feccid>H6CA26183</feccid>
+</member><member><cid>N00027804</cid><crpname>Mahoney, Tim</crpname><party>D</party><distid>FL16</distid><feccid>H6FL16059</feccid>
+</member><member><cid>N00027810</cid><crpname>Welsh, Barry</crpname><party>D</party><distid>IN06</distid><feccid>H6IN06149</feccid>
+</member><member><cid>N00027820</cid><crpname>Brown, Charles D</crpname><party>D</party><distid>CA04</distid><feccid>H6CA04123</feccid>
+</member><member><cid>N00027644</cid><crpname>Sali, William T</crpname><party>R</party><distid>ID01</distid><feccid>H6ID01177</feccid>
+</member><member><cid>N00027654</cid><crpname>Weber, Craig Peter</crpname><party>D</party><distid>NC03</distid><feccid>H6NC03120</feccid>
+</member><member><cid>N00027658</cid><crpname>Gillibrand, Kirsten E</crpname><party>D</party><distid>NY20</distid><feccid>H6NY20167</feccid>
+</member><member><cid>N00027664</cid><crpname>Altmire, Jason</crpname><party>D</party><distid>PA04</distid><feccid>H6PA04110</feccid>
+</member><member><cid>N00027823</cid><crpname>Thrasher, John</crpname><party>D</party><distid>AZ02</distid><feccid>H6AZ02155</feccid>
+</member><member><cid>N00027829</cid><crpname>Giffords, Gabrielle</crpname><party>D</party><distid>AZ08</distid><feccid>H6AZ08038</feccid>
+</member><member><cid>N00027843</cid><crpname>Adams, Eddie</crpname><party>R</party><distid>FL11</distid><feccid>H6FL11175</feccid>
+</member><member><cid>N00027848</cid><crpname>Johnson, Hank</crpname><party>D</party><distid>GA04</distid><feccid>H6GA04129</feccid>
+</member><member><cid>N00027239</cid><crpname>Lipinski, Daniel</crpname><party>D</party><distid>IL03</distid><feccid>H4IL03077</feccid>
+</member><member><cid>N00027266</cid><crpname>Mohamed, Ali</crpname><party>R</party><distid>NY16</distid><feccid>H4NY16053</feccid>
+</member><member><cid>N00027281</cid><crpname>Drake, Thelma</crpname><party>R</party><distid>VA02</distid><feccid>H4VA02037</feccid>
+</member><member><cid>N00027284</cid><crpname>Oddo, Joseph P</crpname><party>3</party><distid>VA11</distid><feccid>H4VA11053</feccid>
+</member><member><cid>N00027365</cid><crpname>Lobman, Sara J</crpname><party>3</party><distid>NJS2</distid><feccid>S8NJ00426</feccid>
+</member><member><cid>N00027366</cid><crpname>Brooks, Daryl Mikell</crpname><party>3</party><distid>NJS2</distid><feccid>S6NJ00313</feccid>
+</member><member><cid>N00027368</cid><crpname>Duensing, Jim</crpname><party>L</party><distid>NV01</distid><feccid>H4NV01138</feccid>
+</member><member><cid>N00027370</cid><crpname>Silvestri, Joseph P</crpname><party>L</party><distid>NV03</distid><feccid>H4NV03076</feccid>
+</member><member><cid>N00027434</cid><crpname>Ericson, Cris</crpname><party>I</party><distid>VT01</distid><feccid>H8VT00141</feccid>
+</member><member><cid>N00027437</cid><crpname>Cloud, Doug</crpname><party>R</party><distid>WA06</distid><feccid>H4WA06067</feccid>
+</member><member><cid>N00027891</cid><crpname>Maffei, Dan</crpname><party>D</party><distid>NY25</distid><feccid>H6NY25125</feccid>
+</member><member><cid>N00027901</cid><crpname>Sutton, Betty Sue</crpname><party>D</party><distid>OH13</distid><feccid>H6OH13133</feccid>
+</member><member><cid>N00028049</cid><crpname>Sestak, Joe</crpname><party>D</party><distid>PA07</distid><feccid>H6PA07105</feccid>
+</member><member><cid>N00028173</cid><crpname>Halliwell, Mike</crpname><party>R</party><distid>CA06</distid><feccid>H6CA06193</feccid>
+</member><member><cid>N00028175</cid><crpname>McConnell, Camden</crpname><party>L</party><distid>CA07</distid><feccid>H6CA07118</feccid>
+</member><member><cid>N00028181</cid><crpname>Winston, Charel</crpname><party>R</party><distid>CA16</distid><feccid>H6CA16127</feccid>
+</member><member><cid>N00028183</cid><crpname>Lopez, James</crpname><party>R</party><distid>CA20</distid><feccid>H6CA20137</feccid>
+</member><member><cid>N00028202</cid><crpname>Gibson, Brian</crpname><party>R</party><distid>CA36</distid><feccid>H6CA36125</feccid>
+</member><member><cid>N00028294</cid><crpname>Micco, Vincent</crpname><party>R</party><distid>NJ09</distid><feccid>H6NJ09215</feccid>
+</member><member><cid>N00028296</cid><crpname>Wyka, Tom</crpname><party>D</party><distid>NJ11</distid><feccid>H6NJ11112</feccid>
+</member><member><cid>N00028313</cid><crpname>Stobbs, Richard D</crpname><party>R</party><distid>OH06</distid><feccid>H6OH06137</feccid>
+</member><member><cid>N00028316</cid><crpname>Leavitt, Bradley S</crpname><party>R</party><distid>OH09</distid><feccid>H6OH09081</feccid>
+</member><member><cid>N00028333</cid><crpname>Erickson, Mike</crpname><party>R</party><distid>OR05</distid><feccid>H6OR05119</feccid>
+</member><member><cid>N00028343</cid><crpname>Goodman, Joel</crpname><party>I</party><distid>TN01</distid><feccid>H6TN01321</feccid>
+</member><member><cid>N00028359</cid><crpname>Noorlander, Jim</crpname><party>3</party><distid>UT03</distid><feccid>H6UT03141</feccid>
+</member><member><cid>N00028383</cid><crpname>Berg, Philip Zimt</crpname><party>L</party><distid>CA08</distid><feccid>H6CA08173</feccid>
+</member><member><cid>N00030320</cid><crpname>Shoen, Michael</crpname><party>L</party><distid>AZ03</distid><feccid>H8AZ03134</feccid>
+</member><member><cid>N00028402</cid><crpname>Murphy, John Andrew</crpname><party>I</party><distid>PA16</distid><feccid>H6PA16288</feccid>
+</member><member><cid>N00028537</cid><crpname>Padilla, Dina</crpname><party>3</party><distid>CA03</distid><feccid>H8CA03162</feccid>
+</member><member><cid>N00028541</cid><crpname>Hartley-Nagle, Karen</crpname><party>D</party><distid>DE01</distid><feccid>H6DE00180</feccid>
+</member><member><cid>N00028444</cid><crpname>Turk, Jacob</crpname><party>R</party><distid>MO05</distid><feccid>H6MO05189</feccid>
+</member><member><cid>N00028450</cid><crpname>McCullough, Branden C</crpname><party>L</party><distid>MO08</distid><feccid>H6MO08118</feccid>
+</member><member><cid>N00028453</cid><crpname>Prunier, David Ellis</crpname><party>I</party><distid>NY18</distid><feccid>H6NY18146</feccid>
+</member><member><cid>N00028463</cid><crpname>Roe, David Philip</crpname><party>R</party><distid>TN01</distid><feccid>H6TN01388</feccid>
+</member><member><cid>N00028478</cid><crpname>Morris, Randy</crpname><party>D</party><distid>TN07</distid><feccid>H6TN07096</feccid>
+</member><member><cid>N00028494</cid><crpname>Beren, Steve</crpname><party>R</party><distid>WA07</distid><feccid>H6WA07391</feccid>
+</member><member><cid>N00028511</cid><crpname>Choate, Ed</crpname><party>I</party><distid>TN03</distid><feccid>H8TN03182</feccid>
+</member><member><cid>N00028512</cid><crpname>Gatchell, David</crpname><party>I</party><distid>TNS2</distid><feccid>S6TN00299</feccid>
+</member><member><cid>N00028514</cid><crpname>Lugo, Chris</crpname><party>I</party><distid>TNS2</distid><feccid>S6TN00315</feccid>
+</member><member><cid>N00028521</cid><crpname>Reeves, James W</crpname><party>I</party><distid>TN01</distid><feccid>H6TN01479</feccid>
+</member><member><cid>N00028598</cid><crpname>Patterson, Douglas</crpname><party>3</party><distid>OR05</distid><feccid>H6OR05135</feccid>
+</member><member><cid>N00028618</cid><crpname>Schwartz, Leonard</crpname><party>L</party><distid>MI05</distid><feccid>H8MI05108</feccid>
+</member><member><cid>N00028660</cid><crpname>Capalbo, Kenneth A</crpname><party>I</party><distid>RI01</distid><feccid>H6RI01104</feccid>
+</member><member><cid>N00028663</cid><crpname>Nigam, Neeraj C</crpname><party>I</party><distid>VA10</distid><feccid>H6VA10191</feccid>
+</member><member><cid>N00028664</cid><crpname>Ishmael, Larry Wayne</crpname><party>R</party><distid>WA01</distid><feccid>H6WA01162</feccid>
+</member><member><cid>N00013846</cid><crpname>Miller, Jeff</crpname><party>R</party><distid>FL01</distid><feccid>H2FL01100</feccid>
+</member><member><cid>N00013847</cid><crpname>Sullivan, John</crpname><party>R</party><distid>OK01</distid><feccid>H2OK01093</feccid>
+</member><member><cid>N00013855</cid><crpname>Lynch, Stephen F</crpname><party>D</party><distid>MA09</distid><feccid>H2MA09072</feccid>
+</member><member><cid>N00013869</cid><crpname>Sodrel, Michael E</crpname><party>R</party><distid>IN09</distid><feccid>H2IN09084</feccid>
+</member><member><cid>N00013870</cid><crpname>Coleman, Norm</crpname><party>R</party><distid>MNS1</distid><feccid>S2MN00126</feccid>
+</member><member><cid>N00013873</cid><crpname>Boozman, John</crpname><party>R</party><distid>AR03</distid><feccid>H2AR03176</feccid>
+</member><member><cid>N00013817</cid><crpname>Pingree, Chellie</crpname><party>D</party><distid>ME01</distid><feccid>H8ME01120</feccid>
+</member><member><cid>N00013820</cid><crpname>Van Hollen, Chris</crpname><party>D</party><distid>MD08</distid><feccid>H2MD08126</feccid>
+</member><member><cid>N00013823</cid><crpname>Pryor, Mark</crpname><party>D</party><distid>ARS1</distid><feccid>S0AR00028</feccid>
+</member><member><cid>N00013837</cid><crpname>Barrett, Gresham</crpname><party>R</party><distid>SC03</distid><feccid>H2SC03057</feccid>
+</member><member><cid>N00013744</cid><crpname>Watson, Diane E</crpname><party>D</party><distid>CA33</distid><feccid>H2CA32099</feccid>
+</member><member><cid>N00013770</cid><crpname>Shuster, Bill</crpname><party>R</party><distid>PA09</distid><feccid>H2PA09035</feccid>
+</member><member><cid>N00013799</cid><crpname>Forbes, J Randy</crpname><party>R</party><distid>VA04</distid><feccid>H2VA04052</feccid>
+</member><member><cid>N00013808</cid><crpname>McCotter, Thad</crpname><party>R</party><distid>MI11</distid><feccid>H2MI00037</feccid>
+</member><member><cid>N00013685</cid><crpname>Graeser, Ronald E</crpname><party>3</party><distid>MI02</distid><feccid>H0MI02086</feccid>
+</member><member><cid>N00013688</cid><crpname>Emerick, John</crpname><party>3</party><distid>MI04</distid><feccid>H0MI04082</feccid>
+</member><member><cid>N00013722</cid><crpname>Perasso, Jacob J</crpname><party>3</party><distid>GA04</distid><feccid>H8GA04091</feccid>
+</member><member><cid>N00025413</cid><crpname>Bishop, Timothy H</crpname><party>D</party><distid>NY01</distid><feccid>H2NY01067</feccid>
+</member><member><cid>N00025429</cid><crpname>Larsen, William</crpname><party>L</party><distid>IN03</distid><feccid>H2IN03145</feccid>
+</member><member><cid>N00025314</cid><crpname>Schneider, Jan</crpname><party>I</party><distid>FL13</distid><feccid>H2FL13139</feccid>
+</member><member><cid>N00025330</cid><crpname>Bonner, Jo</crpname><party>R</party><distid>AL01</distid><feccid>H2AL01077</feccid>
+</member><member><cid>N00025335</cid><crpname>Wright, Ishah L</crpname><party>3</party><distid>VAS2</distid><feccid>S8VA00222</feccid>
+</member><member><cid>N00025337</cid><crpname>Diaz-Balart, Mario</crpname><party>R</party><distid>FL25</distid><feccid>H2FL25018</feccid>
+</member><member><cid>N00025284</cid><crpname>Grijalva, Raul M</crpname><party>D</party><distid>AZ07</distid><feccid>H2AZ07070</feccid>
+</member><member><cid>N00025292</cid><crpname>Bishop, Rob</crpname><party>R</party><distid>UT01</distid><feccid>H2UT01094</feccid>
+</member><member><cid>N00025237</cid><crpname>King, Steven A</crpname><party>R</party><distid>IA05</distid><feccid>H2IA05072</feccid>
+</member><member><cid>N00025261</cid><crpname>Tinsley, Edward R</crpname><party>R</party><distid>NM02</distid><feccid>H8NM02040</feccid>
+</member><member><cid>N00025280</cid><crpname>Ryan, Tim</crpname><party>D</party><distid>OH17</distid><feccid>H2OH17109</feccid>
+</member><member><cid>N00025219</cid><crpname>Burgess, Michael</crpname><party>R</party><distid>TX26</distid><feccid>H2TX26093</feccid>
+</member><member><cid>N00025221</cid><crpname>Williams, Anthony W</crpname><party>R</party><distid>IL02</distid><feccid>H2IL02107</feccid>
+</member><member><cid>N00025175</cid><crpname>Turner, Michael R</crpname><party>R</party><distid>OH03</distid><feccid>H2OH03067</feccid>
+</member><member><cid>N00025178</cid><crpname>Wood, Fred Anderson</crpname><party>R</party><distid>TX30</distid><feccid>H6TX30104</feccid>
+</member><member><cid>N00025025</cid><crpname>Gerlach, Jim</crpname><party>R</party><distid>PA06</distid><feccid>H2PA06114</feccid>
+</member><member><cid>N00025054</cid><crpname>Musgrave, Marilyn</crpname><party>R</party><distid>CO04</distid><feccid>H2CO04045</feccid>
+</member><member><cid>N00025059</cid><crpname>Bradley, Jeb</crpname><party>R</party><distid>NH01</distid><feccid>H2NH01130</feccid>
+</member><member><cid>N00025093</cid><crpname>Miller, Brad</crpname><party>D</party><distid>NC13</distid><feccid>H2NC13029</feccid>
+</member><member><cid>N00025095</cid><crpname>Carter, John</crpname><party>R</party><distid>TX31</distid><feccid>H2TX31044</feccid>
+</member><member><cid>N00028859</cid><crpname>Kissell, Larry</crpname><party>D</party><distid>NC08</distid><feccid>H6NC08111</feccid>
+</member><member><cid>N00028929</cid><crpname>Hubler, Rob</crpname><party>D</party><distid>IA05</distid><feccid>H8IA05053</feccid>
+</member><member><cid>N00028952</cid><crpname>Collins, Loren</crpname><party>3</party><distid>GA04</distid><feccid>H6GA04145</feccid>
+</member><member><cid>N00024978</cid><crpname>Cuellar, Henry</crpname><party>D</party><distid>TX28</distid><feccid>H2TX23082</feccid>
+</member><member><cid>N00024992</cid><crpname>Murphy, Tim</crpname><party>R</party><distid>PA18</distid><feccid>H2PA18143</feccid>
+</member><member><cid>N00025010</cid><crpname>Eyer, Jim</crpname><party>L</party><distid>CA09</distid><feccid>H2CA09097</feccid>
+</member><member><cid>N00026171</cid><crpname>Dent, Charlie</crpname><party>R</party><distid>PA15</distid><feccid>H4PA15087</feccid>
+</member><member><cid>N00025685</cid><crpname>Karg, Don</crpname><party>R</party><distid>AZ04</distid><feccid>H2AZ04101</feccid>
+</member><member><cid>N00026341</cid><crpname>Costa, Jim</crpname><party>D</party><distid>CA20</distid><feccid>H4CA20082</feccid>
+</member><member><cid>N00026350</cid><crpname>Lohmiller, Bruce E</crpname><party>3</party><distid>COS2</distid><feccid>S8CO00230</feccid>
+</member><member><cid>N00025464</cid><crpname>Alexander, Rodney</crpname><party>R</party><distid>LA05</distid><feccid>H2LA05084</feccid>
+</member><member><cid>N00025482</cid><crpname>Ruppersberger, Dutch</crpname><party>D</party><distid>MD02</distid><feccid>H2MD02160</feccid>
+</member><member><cid>N00025489</cid><crpname>Fenner, Christopher G</crpname><party>I</party><distid>TNS2</distid><feccid>S2TN00090</feccid>
+</member><member><cid>N00025495</cid><crpname>Barletta, Louis J</crpname><party>R</party><distid>PA11</distid><feccid>H2PA11098</feccid>
+</member><member><cid>N00025692</cid><crpname>Meek, Kendrick B</crpname><party>D</party><distid>FL17</distid><feccid>H2FL17056</feccid>
+</member><member><cid>N00025726</cid><crpname>Cole, Tom</crpname><party>R</party><distid>OK04</distid><feccid>H2OK04055</feccid>
+</member><member><cid>N00026418</cid><crpname>Wegner, Ken</crpname><party>R</party><distid>NV01</distid><feccid>H6NV01158</feccid>
+</member><member><cid>N00026431</cid><crpname>Salazar, John</crpname><party>D</party><distid>CO03</distid><feccid>H4CO03167</feccid>
+</member><member><cid>N00026481</cid><crpname>Boren, Dan</crpname><party>D</party><distid>OK02</distid><feccid>H4OK02089</feccid>
+</member><member><cid>N00025752</cid><crpname>Pasayan, Andrew</crpname><party>I</party><distid>FL09</distid><feccid>H2FL09095</feccid>
+</member><member><cid>N00025775</cid><crpname>Mikkelson, Harley G</crpname><party>3</party><distid>MIS1</distid><feccid>S8MI00331</feccid>
+</member><member><cid>N00025776</cid><crpname>Mikkelson, Gregory Dennis</crpname><party>3</party><distid>MN01</distid><feccid>H2MN01124</feccid>
+</member><member><cid>N00025789</cid><crpname>Abrams, Thomas D</crpname><party>I</party><distid>NJ07</distid><feccid>H6NJ07136</feccid>
+</member><member><cid>N00025824</cid><crpname>Newton, Jane</crpname><party>3</party><distid>VT01</distid><feccid>H2VT00094</feccid>
+</member><member><cid>N00026505</cid><crpname>Hermanson, Barry</crpname><party>3</party><distid>CA12</distid><feccid>H4CA12089</feccid>
+</member><member><cid>N00026561</cid><crpname>Hostetter, Margaret</crpname><party>I</party><distid>FL20</distid><feccid>H4FL20031</feccid>
+</member><member><cid>N00026586</cid><crpname>Donnelly, Joe</crpname><party>D</party><distid>IN02</distid><feccid>H4IN02101</feccid>
+</member><member><cid>N00026818</cid><crpname>Russell, John Timothy</crpname><party>D</party><distid>FL05</distid><feccid>H4FL05032</feccid>
+</member><member><cid>N00027703</cid><crpname>Carney, Chris</crpname><party>D</party><distid>PA10</distid><feccid>H6PA10109</feccid>
+</member><member><cid>N00027740</cid><crpname>Honeycutt, Deborah Travis</crpname><party>R</party><distid>GA13</distid><feccid>H6GA13013</feccid>
+</member><member><cid>N00027741</cid><crpname>Loebsack, David</crpname><party>D</party><distid>IA02</distid><feccid>H6IA02146</feccid>
+</member><member><cid>N00027751</cid><crpname>Sarbanes, John</crpname><party>D</party><distid>MD03</distid><feccid>H6MD03292</feccid>
+</member><member><cid>N00027757</cid><crpname>Esch, Jim</crpname><party>D</party><distid>NE02</distid><feccid>H6NE02117</feccid>
+</member><member><cid>N00027763</cid><crpname>Derby, Jill T</crpname><party>D</party><distid>NV02</distid><feccid>H6NV02180</feccid>
+</member><member><cid>N00027769</cid><crpname>Mitchell, Bill</crpname><party>D</party><distid>FL09</distid><feccid>H6FL09096</feccid>
+</member><member><cid>N00027778</cid><crpname>Kilroy, Mary Jo</crpname><party>D</party><distid>OH15</distid><feccid>H6OH15104</feccid>
+</member><member><cid>N00027655</cid><crpname>Shuler, Heath</crpname><party>D</party><distid>NC11</distid><feccid>H6NC11172</feccid>
+</member><member><cid>N00027618</cid><crpname>Kagen, Steve</crpname><party>D</party><distid>WI08</distid><feccid>H6WI08122</feccid>
+</member><member><cid>N00027623</cid><crpname>Smith, Adrian</crpname><party>R</party><distid>NE03</distid><feccid>H6NE03115</feccid>
+</member><member><cid>N00027626</cid><crpname>Buchanan, Vernon</crpname><party>R</party><distid>FL13</distid><feccid>H6FL13148</feccid>
+</member><member><cid>N00027566</cid><crpname>Murphy, Chris</crpname><party>D</party><distid>CT05</distid><feccid>H6CT05124</feccid>
+</member><member><cid>N00027575</cid><crpname>Ellsworth, Brad</crpname><party>D</party><distid>IN08</distid><feccid>H6IN08210</feccid>
+</member><member><cid>N00027583</cid><crpname>Wulsin, Victoria Wells</crpname><party>D</party><distid>OH02</distid><feccid>H6OH02151</feccid>
+</member><member><cid>N00027594</cid><crpname>Murphy, Patrick J</crpname><party>D</party><distid>PA08</distid><feccid>H6PA08194</feccid>
+</member><member><cid>N00027600</cid><crpname>Burner, Darcy</crpname><party>D</party><distid>WA08</distid><feccid>H6WA08068</feccid>
+</member><member><cid>N00027548</cid><crpname>Tinklenberg, Elwyn</crpname><party>D</party><distid>MN06</distid><feccid>H6MN06124</feccid>
+</member><member><cid>N00027550</cid><crpname>Massa, Eric</crpname><party>D</party><distid>NY29</distid><feccid>H6NY29168</feccid>
+</member><member><cid>N00027558</cid><crpname>Gard, John</crpname><party>R</party><distid>WI08</distid><feccid>H6WI08114</feccid>
+</member><member><cid>N00027514</cid><crpname>Castor, Kathy</crpname><party>D</party><distid>FL11</distid><feccid>H6FL11126</feccid>
+</member><member><cid>N00027515</cid><crpname>Klein, Ron</crpname><party>D</party><distid>FL22</distid><feccid>H6FL22040</feccid>
+</member><member><cid>N00027522</cid><crpname>Heller, Dean</crpname><party>R</party><distid>NV02</distid><feccid>H6NV02164</feccid>
+</member><member><cid>N00027523</cid><crpname>Sires, Albio</crpname><party>D</party><distid>NJ13</distid><feccid>H6NJ13191</feccid>
+</member><member><cid>N00027526</cid><crpname>Schmidt, Jean</crpname><party>R</party><distid>OH02</distid><feccid>H6OH02086</feccid>
+</member><member><cid>N00027493</cid><crpname>Bachmann, Michele Marie</crpname><party>R</party><distid>MN06</distid><feccid>H6MN06074</feccid>
+</member><member><cid>N00027462</cid><crpname>Bilirakis, Gus</crpname><party>R</party><distid>FL09</distid><feccid>H6FL09070</feccid>
+</member><member><cid>N00027464</cid><crpname>Braley, Bruce</crpname><party>D</party><distid>IA01</distid><feccid>H6IA01098</feccid>
+</member><member><cid>N00027467</cid><crpname>Walz, Timothy J</crpname><party>D</party><distid>MN01</distid><feccid>H6MN01174</feccid>
+</member><member><cid>N00027565</cid><crpname>Campbell, John</crpname><party>R</party><distid>CA48</distid><feccid>H6CA48039</feccid>
+</member><member><cid>N00027866</cid><crpname>Seals, Dan</crpname><party>D</party><distid>IL10</distid><feccid>H6IL10119</feccid>
+</member><member><cid>N00027884</cid><crpname>Stender, Linda D</crpname><party>D</party><distid>NJ07</distid><feccid>H6NJ07128</feccid>
+</member><member><cid>N00027888</cid><crpname>Hall, John</crpname><party>D</party><distid>NY19</distid><feccid>H6NY19144</feccid>
+</member><member><cid>N00027890</cid><crpname>Arcuri, Michael</crpname><party>D</party><distid>NY24</distid><feccid>H6NY24128</feccid>
+</member><member><cid>N00027894</cid><crpname>Jordan, James D</crpname><party>R</party><distid>OH04</distid><feccid>H6OH04082</feccid>
+</member><member><cid>N00027902</cid><crpname>Space, Zachary T</crpname><party>D</party><distid>OH18</distid><feccid>H6OH18157</feccid>
+</member><member><cid>N00027908</cid><crpname>Avillo, Philip J Jr</crpname><party>D</party><distid>PA19</distid><feccid>H6PA19126</feccid>
+</member><member><cid>N00027911</cid><crpname>Owen, Roger L</crpname><party>I</party><distid>TX01</distid><feccid>H6TX01196</feccid>
+</member><member><cid>N00027929</cid><crpname>Osborne, Gardner</crpname><party>L</party><distid>TX17</distid><feccid>H6TX12128</feccid>
+</member><member><cid>N00027930</cid><crpname>Waun, Roger J</crpname><party>D</party><distid>TX13</distid><feccid>H6TX13100</feccid>
+</member><member><cid>N00027934</cid><crpname>Zamora, Edward Jr</crpname><party>R</party><distid>TX15</distid><feccid>H6TX15113</feccid>
+</member><member><cid>N00027935</cid><crpname>Bischoff, Alex</crpname><party>L</party><distid>TX32</distid><feccid>H8TX32049</feccid>
+</member><member><cid>N00027936</cid><crpname>Mendoza, Ben</crpname><party>I</party><distid>TX16</distid><feccid>H6TX16111</feccid>
+</member><member><cid>N00027943</cid><crpname>Strohm, James Arthur</crpname><party>L</party><distid>TX21</distid><feccid>H6TX21178</feccid>
+</member><member><cid>N00027957</cid><crpname>Powell, Robert</crpname><party>L</party><distid>TX27</distid><feccid>H6TX27050</feccid>
+</member><member><cid>N00027972</cid><crpname>Feder, Judith</crpname><party>D</party><distid>VA10</distid><feccid>H6VA10183</feccid>
+</member><member><cid>N00027990</cid><crpname>Fleming, Erik</crpname><party>D</party><distid>MSS1</distid><feccid>S6MS00059</feccid>
+</member><member><cid>N00028030</cid><crpname>Avila, Rosie</crpname><party>R</party><distid>CA47</distid><feccid>H6CA47031</feccid>
+</member><member><cid>N00028073</cid><crpname>Yarmuth, John A</crpname><party>D</party><distid>KY03</distid><feccid>H6KY03124</feccid>
+</member><member><cid>N00028091</cid><crpname>Shea-Porter, Carol</crpname><party>D</party><distid>NH01</distid><feccid>H6NH01230</feccid>
+</member><member><cid>N00028113</cid><crpname>Ford, Joe Jr</crpname><party>I</party><distid>TN09</distid><feccid>H6TN09290</feccid>
+</member><member><cid>N00028118</cid><crpname>Durston, Bill</crpname><party>D</party><distid>CA03</distid><feccid>H6CA03091</feccid>
+</member><member><cid>N00028121</cid><crpname>Brouillet, Carol Liane</crpname><party>3</party><distid>CA14</distid><feccid>H6CA14098</feccid>
+</member><member><cid>N00028133</cid><crpname>Lamborn, Douglas L</crpname><party>R</party><distid>CO05</distid><feccid>H6CO05159</feccid>
+</member><member><cid>N00028139</cid><crpname>Hirono, Mazie K</crpname><party>D</party><distid>HI02</distid><feccid>H6HI02251</feccid>
+</member><member><cid>N00028162</cid><crpname>Mitchell, Harry E</crpname><party>D</party><distid>AZ05</distid><feccid>H6AZ05067</feccid>
+</member><member><cid>N00028152</cid><crpname>McCarthy, Kevin</crpname><party>R</party><distid>CA22</distid><feccid>H6CA22125</feccid>
+</member><member><cid>N00028418</cid><crpname>Grayson, Alan Mark</crpname><party>D</party><distid>FL08</distid><feccid>H6FL08213</feccid>
+</member><member><cid>N00028213</cid><crpname>Litwin, Dan</crpname><party>L</party><distid>CA51</distid><feccid>H6CA51058</feccid>
+</member><member><cid>N00028431</cid><crpname>Schansberg, Eric</crpname><party>L</party><distid>IN09</distid><feccid>H6IN09119</feccid>
+</member><member><cid>N00028234</cid><crpname>Hare, Philip G</crpname><party>D</party><distid>IL17</distid><feccid>H6IL17155</feccid>
+</member><member><cid>N00028433</cid><crpname>Beatty, Jeff</crpname><party>R</party><distid>MAS2</distid><feccid>S8MA00219</feccid>
+</member><member><cid>N00028249</cid><crpname>Edwards, Donna</crpname><party>D</party><distid>MD04</distid><feccid>H6MD04183</feccid>
+</member><member><cid>N00028257</cid><crpname>Ellison, Keith</crpname><party>D</party><distid>MN05</distid><feccid>H6MN05183</feccid>
+</member><member><cid>N00028274</cid><crpname>Mansell, Dan</crpname><party>R</party><distid>NC02</distid><feccid>H6NC02106</feccid>
+</member><member><cid>N00028439</cid><crpname>Cunningham, Robb E</crpname><party>L</party><distid>MO01</distid><feccid>H6MO01246</feccid>
+</member><member><cid>N00025861</cid><crpname>Crum, William</crpname><party>3</party><distid>AZ02</distid><feccid>H6AZ00027</feccid>
+</member><member><cid>N00025863</cid><crpname>Severin, Warren</crpname><party>L</party><distid>AZ05</distid><feccid>H2AZ05124</feccid>
+</member><member><cid>N00025867</cid><crpname>Lilly, George C</crpname><party>R</party><distid>CO01</distid><feccid>H2CO01108</feccid>
+</member><member><cid>N00025938</cid><crpname>Stempfle, Gregory</crpname><party>L</party><distid>MI15</distid><feccid>H2MI15092</feccid>
+</member><member><cid>N00025964</cid><crpname>McDermott, John</crpname><party>3</party><distid>PA13</distid><feccid>H2PA13102</feccid>
+</member><member><cid>N00025982</cid><crpname>Campbell, Douglas 'Dayhorse'</crpname><party>3</party><distid>COS2</distid><feccid>S2CO00142</feccid>
+</member><member><cid>N00027429</cid><crpname>Fontanesi, Richard M</crpname><party>L</party><distid>LAS1</distid><feccid>S4LA00081</feccid>
+</member><member><cid>N00026020</cid><crpname>Garcia, Eleanor</crpname><party>3</party><distid>GAS1</distid><feccid>S2GA00142</feccid>
+</member><member><cid>N00027459</cid><crpname>Matsui, Doris O</crpname><party>D</party><distid>CA05</distid><feccid>H6CA05195</feccid>
+</member><member><cid>N00027483</cid><crpname>Layfield, Mark Edwin</crpname><party>I</party><distid>AL03</distid><feccid>H6AL03132</feccid>
+</member><member><cid>N00027510</cid><crpname>Perlmutter, Edwin G</crpname><party>D</party><distid>CO07</distid><feccid>H6CO07023</feccid>
+</member><member><cid>N00027759</cid><crpname>Kleeb, Scott</crpname><party>D</party><distid>NES2</distid><feccid>S8NE00133</feccid>
+</member><member><cid>N00028361</cid><crpname>Ellmore, Mark W</crpname><party>R</party><distid>VA08</distid><feccid>H6VA08211</feccid>
+</member><member><cid>N00028556</cid><crpname>Tucker, Roger D</crpname><party>3</party><distid>KS03</distid><feccid>H6KS02235</feccid>
+</member><member><cid>N00028565</cid><crpname>Warner, Joshua</crpname><party>3</party><distid>MI01</distid><feccid>H6MI01192</feccid>
+</member><member><cid>N00028570</cid><crpname>Denison, Robert</crpname><party>D</party><distid>MI10</distid><feccid>H6MI10136</feccid>
+</member><member><cid>N00028573</cid><crpname>Townsend, Lester I</crpname><party>3</party><distid>MI12</distid><feccid>H6MI12231</feccid>
+</member><member><cid>N00026041</cid><crpname>Conaway, Mike</crpname><party>R</party><distid>TX11</distid><feccid>H4TX19136</feccid>
+</member><member><cid>N00026043</cid><crpname>Neugebauer, Randy</crpname><party>R</party><distid>TX19</distid><feccid>H4TX19102</feccid>
+</member><member><cid>N00028599</cid><crpname>Barr, Tony</crpname><party>D</party><distid>PA09</distid><feccid>H6PA09093</feccid>
+</member><member><cid>N00028710</cid><crpname>Kahn, Gregory</crpname><party>L</party><distid>LA02</distid><feccid>H6LA02207</feccid>
+</member><member><cid>N00028714</cid><crpname>Kelley, Chester T</crpname><party>I</party><distid>LA04</distid><feccid>H6LA04088</feccid>
+</member><member><cid>N00028721</cid><crpname>Hren, Allitta</crpname><party>L</party><distid>MI04</distid><feccid>H6MI04154</feccid>
+</member><member><cid>N00028726</cid><crpname>Goodman, Adam</crpname><party>L</party><distid>MI09</distid><feccid>H6MI09161</feccid>
+</member><member><cid>N00028727</cid><crpname>Tatar, John J</crpname><party>L</party><distid>MI11</distid><feccid>H8MI11247</feccid>
+</member><member><cid>N00026080</cid><crpname>Barrow, John</crpname><party>D</party><distid>GA12</distid><feccid>H4GA12010</feccid>
+</member><member><cid>N00026087</cid><crpname>Kuhl, John R Jr</crpname><party>R</party><distid>NY29</distid><feccid>H4NY29080</feccid>
+</member><member><cid>N00028830</cid><crpname>Trudell, Jerry</crpname><party>3</party><distid>VT01</distid><feccid>H6VT00228</feccid>
+</member><member><cid>N00028845</cid><crpname>Cobb, Joe</crpname><party>L</party><distid>AZ04</distid><feccid>H8AZ04124</feccid>
+</member><member><cid>N00028986</cid><crpname>Broun, Paul Jr</crpname><party>R</party><distid>GA10</distid><feccid>H8GA10049</feccid>
+</member><member><cid>N00028987</cid><crpname>Balam, Joel</crpname><party>I</party><distid>KS03</distid><feccid>H8KS03056</feccid>
+</member><member><cid>N00028991</cid><crpname>Rasoul, Sam</crpname><party>D</party><distid>VA06</distid><feccid>H8VA06047</feccid>
+</member><member><cid>N00029016</cid><crpname>Franken, Al</crpname><party>D</party><distid>MNS1</distid><feccid>S8MN00438</feccid>
+</member><member><cid>N00026126</cid><crpname>Peterson, Richard</crpname><party>L</party><distid>TX19</distid><feccid>H4TX19235</feccid>
+</member><member><cid>N00029026</cid><crpname>Tsongas, Niki</crpname><party>D</party><distid>MA05</distid><feccid>H8MA05143</feccid>
+</member><member><cid>N00029050</cid><crpname>Bennett, Siobhan L</crpname><party>D</party><distid>PA15</distid><feccid>H8PA15153</feccid>
+</member><member><cid>N00029109</cid><crpname>Andal, Dean F</crpname><party>R</party><distid>CA11</distid><feccid>H8CA11082</feccid>
+</member><member><cid>N00029112</cid><crpname>Richardson, Laura</crpname><party>D</party><distid>CA37</distid><feccid>H8CA37137</feccid>
+</member><member><cid>N00029116</cid><crpname>Davis, Lee</crpname><party>I</party><distid>CA37</distid><feccid>H8CA37178</feccid>
+</member><member><cid>N00029125</cid><crpname>Leibham, Nicholas Alexander</crpname><party>D</party><distid>CA50</distid><feccid>H8CA50023</feccid>
+</member><member><cid>N00029127</cid><crpname>Polis, Jared</crpname><party>D</party><distid>CO02</distid><feccid>H8CO02137</feccid>
+</member><member><cid>N00029913</cid><crpname>Fuller, Thomas E</crpname><party>D</party><distid>AL01</distid><feccid>H8AL01058</feccid>
+</member><member><cid>N00028958</cid><crpname>Chaffetz, Jason</crpname><party>R</party><distid>UT03</distid><feccid>H8UT03089</feccid>
+</member><member><cid>N00028959</cid><crpname>Fearing, George Barr</crpname><party>D</party><distid>WA04</distid><feccid>H8WA04071</feccid>
+</member><member><cid>N00029128</cid><crpname>Markey, Betsy</crpname><party>D</party><distid>CO04</distid><feccid>H8CO04067</feccid>
+</member><member><cid>N00028961</cid><crpname>Gilmore, Jim</crpname><party>R</party><distid>VAS2</distid><feccid>S8VA00255</feccid>
+</member><member><cid>N00028976</cid><crpname>Wallace, Stephen Paul</crpname><party>I</party><distid>OKS2</distid><feccid>S8OK00225</feccid>
+</member><member><cid>N00029139</cid><crpname>Foster, Bill</crpname><party>D</party><distid>IL14</distid><feccid>H8IL14067</feccid>
+</member><member><cid>N00029141</cid><crpname>Puckett, Luke Wayne</crpname><party>R</party><distid>IN02</distid><feccid>H8IN02102</feccid>
+</member><member><cid>N00029217</cid><crpname>Walsh, Dana</crpname><party>R</party><distid>CA08</distid><feccid>H8CA08062</feccid>
+</member><member><cid>N00029219</cid><crpname>Hedrick, Bill</crpname><party>D</party><distid>CA44</distid><feccid>H8CA44091</feccid>
+</member><member><cid>N00029221</cid><crpname>Blythe, Steve</crpname><party>D</party><distid>FL15</distid><feccid>H8FL15057</feccid>
+</member><member><cid>N00029222</cid><crpname>Bhola, Gaurav</crpname><party>I</party><distid>FL24</distid><feccid>H8FL24018</feccid>
+</member><member><cid>N00029224</cid><crpname>Greenberg, Steve</crpname><party>R</party><distid>IL08</distid><feccid>H8IL08077</feccid>
+</member><member><cid>N00029225</cid><crpname>Kelley, Michael J</crpname><party>D</party><distid>KY04</distid><feccid>H8KY04094</feccid>
+</member><member><cid>N00029229</cid><crpname>O'Neill, William M</crpname><party>D</party><distid>OH14</distid><feccid>H8OH14087</feccid>
+</member><member><cid>N00030171</cid><crpname>Sheehan, Cindy</crpname><party>I</party><distid>CA08</distid><feccid>H8CA08088</feccid>
+</member><member><cid>N00030173</cid><crpname>Fournier, Stephen E D</crpname><party>3</party><distid>CT01</distid><feccid>H8CT01129</feccid>
+</member><member><cid>N00030174</cid><crpname>Baldauf, Don</crpname><party>3</party><distid>FL13</distid><feccid>H8FL13128</feccid>
+</member><member><cid>N00030177</cid><crpname>Ferrell, Lee</crpname><party>R</party><distid>GA02</distid><feccid>H8GA02053</feccid>
+</member><member><cid>N00030178</cid><crpname>Camp, Stephen</crpname><party>D</party><distid>GA03</distid><feccid>H8GA03028</feccid>
+</member><member><cid>N00030179</cid><crpname>Scott, Jeff</crpname><party>D</party><distid>GA09</distid><feccid>H8GA09041</feccid>
+</member><member><cid>N00030180</cid><crpname>Gammon, Bud</crpname><party>D</party><distid>GA11</distid><feccid>H8GA11013</feccid>
+</member><member><cid>N00030185</cid><crpname>Baker, Richard A Jr</crpname><party>R</party><distid>MA06</distid><feccid>H8MA06083</feccid>
+</member><member><cid>N00030186</cid><crpname>Lincecum, Thibeaux</crpname><party>L</party><distid>MD04</distid><feccid>H8MD04189</feccid>
+</member><member><cid>N00030187</cid><crpname>Sanchez, Henry</crpname><party>D</party><distid>MI03</distid><feccid>H8MI03046</feccid>
+</member><member><cid>N00030188</cid><crpname>Sawicki, Matt</crpname><party>R</party><distid>MI05</distid><feccid>H8MI05090</feccid>
+</member><member><cid>N00030189</cid><crpname>Larkin, Joseph</crpname><party>D</party><distid>MI11</distid><feccid>H8MI11221</feccid>
+</member><member><cid>N00030191</cid><crpname>Titus, Dina</crpname><party>D</party><distid>NV03</distid><feccid>H8NV03036</feccid>
+</member><member><cid>N00030192</cid><crpname>Stalzer, Frank J</crpname><party>R</party><distid>NY02</distid><feccid>H8NY02062</feccid>
+</member><member><cid>N00030193</cid><crpname>Long, Graham E</crpname><party>D</party><distid>NY03</distid><feccid>H8NY03144</feccid>
+</member><member><cid>N00030194</cid><crpname>Martins, Jack M</crpname><party>R</party><distid>NY04</distid><feccid>H8NY04076</feccid>
+</member><member><cid>N00030196</cid><crpname>Tonko, Paul</crpname><party>D</party><distid>NY21</distid><feccid>H8NY21203</feccid>
+</member><member><cid>N00030197</cid><crpname>Hanna, Richard L</crpname><party>R</party><distid>NY24</distid><feccid>H8NY24066</feccid>
+</member><member><cid>N00030198</cid><crpname>Lee, Christopher J</crpname><party>R</party><distid>NY26</distid><feccid>H8NY26095</feccid>
+</member><member><cid>N00030199</cid><crpname>Robbins, Frankie Lee</crpname><party>D</party><distid>OK03</distid><feccid>H8OK03047</feccid>
+</member><member><cid>N00030200</cid><crpname>Beilstein, Michael Allan</crpname><party>3</party><distid>OR04</distid><feccid>H8OR04134</feccid>
+</member><member><cid>N00030204</cid><crpname>Harrelson, Nancy</crpname><party>R</party><distid>SC06</distid><feccid>H8SC06099</feccid>
+</member><member><cid>N00030205</cid><crpname>Miglietta, John P</crpname><party>I</party><distid>TN05</distid><feccid>H8TN05252</feccid>
+</member><member><cid>N00030206</cid><crpname>Wright, Mary D</crpname><party>I</party><distid>TN09</distid><feccid>H8TN09072</feccid>
+</member><member><cid>N00030211</cid><crpname>Theron, Daniel Peter</crpname><party>R</party><distid>WI02</distid><feccid>H8WI02121</feccid>
+</member><member><cid>N00030216</cid><crpname>Baldwin, Chuck</crpname><party>3</party><distid>PRES</distid><feccid>P80005499</feccid>
+</member><member><cid>N00030229</cid><crpname>Rothfuss, Chris</crpname><party>D</party><distid>WYS2</distid><feccid>S8WY00163</feccid>
+</member><member><cid>N00030428</cid><crpname>Eichenauer, Thane</crpname><party>L</party><distid>AZ01</distid><feccid>H8AZ01203</feccid>
+</member><member><cid>N00030429</cid><crpname>Hughes, Ralph</crpname><party>3</party><distid>AZ05</distid><feccid>H8AZ05147</feccid>
+</member><member><cid>N00030430</cid><crpname>Petrulsky, Raymond Patrick</crpname><party>L</party><distid>AZ07</distid><feccid>H8AZ07036</feccid>
+</member><member><cid>N00030431</cid><crpname>Davis, Paul</crpname><party>L</party><distid>AZ08</distid><feccid>H8AZ08042</feccid>
+</member><member><cid>N00030432</cid><crpname>Buchanan, Martin L</crpname><party>L</party><distid>CO01</distid><feccid>H8CO01071</feccid>
+</member><member><cid>N00030433</cid><crpname>Carrano, Michael Anthony</crpname><party>L</party><distid>CT04</distid><feccid>H8CT04206</feccid>
+</member><member><cid>N00030435</cid><crpname>Barth, Wendy</crpname><party>3</party><distid>IA02</distid><feccid>H8IA02076</feccid>
+</member><member><cid>N00030436</cid><crpname>Vara, Victor</crpname><party>I</party><distid>IA05</distid><feccid>H8IA05061</feccid>
+</member><member><cid>N00030439</cid><crpname>Gaztanaga, Lorenzo</crpname><party>L</party><distid>MD02</distid><feccid>H8MD02092</feccid>
+</member><member><cid>N00030440</cid><crpname>Jackson, Darryn O'Shea Sr</crpname><party>I</party><distid>MD04</distid><feccid>H8MD04197</feccid>
+</member><member><cid>N00030441</cid><crpname>Schulin, Steve</crpname><party>3</party><distid>MD04</distid><feccid>H8MD04205</feccid>
+</member><member><cid>N00030442</cid><crpname>Nicholas, Darlene H</crpname><party>L</party><distid>MD05</distid><feccid>H8MD05111</feccid>
+</member><member><cid>N00030443</cid><crpname>Hoover, Gary W. Sr</crpname><party>L</party><distid>MD06</distid><feccid>H8MD06127</feccid>
+</member><member><cid>N00030444</cid><crpname>Owens-Bey, Ronald M</crpname><party>L</party><distid>MD07</distid><feccid>H8MD07067</feccid>
+</member><member><cid>N00030445</cid><crpname>Thomas, Ian</crpname><party>L</party><distid>MD08</distid><feccid>H8MD08206</feccid>
+</member><member><cid>N00030446</cid><crpname>Treacy, Jean</crpname><party>3</party><distid>MI01</distid><feccid>H8MI01123</feccid>
+</member><member><cid>N00030447</cid><crpname>Grow, Daniel W</crpname><party>L</party><distid>MI01</distid><feccid>H8MI01131</feccid>
+</member><member><cid>N00030448</cid><crpname>Pinkney, Edward</crpname><party>3</party><distid>MI06</distid><feccid>H8MI06106</feccid>
+</member><member><cid>N00030449</cid><crpname>Merle, Greg</crpname><party>L</party><distid>MI06</distid><feccid>H8MI06114</feccid>
+</member><member><cid>N00030450</cid><crpname>Meadows, Lynn</crpname><party>3</party><distid>MI07</distid><feccid>H8MI07104</feccid>
+</member><member><cid>N00030451</cid><crpname>Zimmer, George M</crpname><party>3</party><distid>MI08</distid><feccid>H8MI08086</feccid>
+</member><member><cid>N00030452</cid><crpname>Stephenson, Neil Kiernan</crpname><party>L</party><distid>MI10</distid><feccid>H8MI10090</feccid>
+</member><member><cid>N00030453</cid><crpname>Shelley, Erik</crpname><party>3</party><distid>MI11</distid><feccid>H8MI11239</feccid>
+</member><member><cid>N00030454</cid><crpname>Opalicky, William J</crpname><party>3</party><distid>MI12</distid><feccid>H8MI12096</feccid>
+</member><member><cid>N00030455</cid><crpname>Vico, John</crpname><party>L</party><distid>MI12</distid><feccid>H8MI12104</feccid>
+</member><member><cid>N00030456</cid><crpname>Corsetti, George L</crpname><party>3</party><distid>MI13</distid><feccid>H8MI13201</feccid>
+</member><member><cid>N00030457</cid><crpname>Creswell, Gregory</crpname><party>L</party><distid>MI13</distid><feccid>H8MI13219</feccid>
+</member><member><cid>N00030458</cid><crpname>Shabazz, Clyde K</crpname><party>3</party><distid>MI14</distid><feccid>H8MI14084</feccid>
+</member><member><cid>N00030459</cid><crpname>Secula, Richard J</crpname><party>L</party><distid>MI14</distid><feccid>H8MI14092</feccid>
+</member><member><cid>N00030461</cid><crpname>Redburn, Cynthia</crpname><party>3</party><distid>MO03</distid><feccid>H8MO03172</feccid>
+</member><member><cid>N00030462</cid><crpname>Maddox, Travis</crpname><party>3</party><distid>MO07</distid><feccid>H8MO07165</feccid>
+</member><member><cid>N00030466</cid><crpname>Forrestal, Frank V</crpname><party>3</party><distid>IA03</distid><feccid>H8IA03090</feccid>
+</member><member><cid>N00030467</cid><crpname>Davis, Richard James</crpname><party>L</party><distid>MD01</distid><feccid>H8MD01169</feccid>
+</member><member><cid>N00030473</cid><crpname>Grum, Andy</crpname><party>L</party><distid>NC09</distid><feccid>H8NC09099</feccid>
+</member><member><cid>N00030535</cid><crpname>Cole, Christopher</crpname><party>L</party><distid>NCS1</distid><feccid>S8NC00296</feccid>
+</member><member><cid>N00030537</cid><crpname>Fanning, Ed</crpname><party>3</party><distid>NJ05</distid><feccid>H8NJ05102</feccid>
+</member><member><cid>N00030543</cid><crpname>Vanpelt, Loretta</crpname><party>3</party><distid>GA03</distid><feccid>H8GA03036</feccid>
+</member><member><cid>N00030544</cid><crpname>Coffield, Faye</crpname><party>I</party><distid>GA04</distid><feccid>H8GA04083</feccid>
+</member><member><cid>N00030545</cid><crpname>Fitzmaurice, Jeanne</crpname><party>I</party><distid>GA05</distid><feccid>H8GA05098</feccid>
+</member><member><cid>N00030546</cid><crpname>Kash, Shira</crpname><party>I</party><distid>GA05</distid><feccid>H8GA05106</feccid>
+</member><member><cid>N00030547</cid><crpname>Duensing, Jeff</crpname><party>L</party><distid>IN01</distid><feccid>H8IN01120</feccid>
+</member><member><cid>N00030548</cid><crpname>Vogel, Mark</crpname><party>L</party><distid>IN02</distid><feccid>H8IN02136</feccid>
+</member><member><cid>N00030549</cid><crpname>Suits, Delbert</crpname><party>I</party><distid>IN07</distid><feccid>H8IN07283</feccid>
+</member><member><cid>N00030551</cid><crpname>Cochrane, Timothy J</crpname><party>3</party><distid>NY13</distid><feccid>H8NY13135</feccid>
+</member><member><cid>N00030552</cid><crpname>Matos, Isaiah</crpname><party>L</party><distid>NY14</distid><feccid>H8NY14125</feccid>
+</member><member><cid>N00030553</cid><crpname>Spisak, Dennis</crpname><party>3</party><distid>OH06</distid><feccid>H8OH06109</feccid>
+</member><member><cid>N00030554</cid><crpname>Conroy, Paul</crpname><party>L</party><distid>OH10</distid><feccid>H8OH10093</feccid>
+</member><member><cid>N00030556</cid><crpname>Linnabary, Steven R</crpname><party>L</party><distid>OH12</distid><feccid>H8OH12115</feccid>
+</member><member><cid>N00030563</cid><crpname>Salomone, William</crpname><party>I</party><distid>GAS1</distid><feccid>S8GA00172</feccid>
+</member><member><cid>N00029357</cid><crpname>Davis, Daniel Paul</crpname><party>D</party><distid>IL19</distid><feccid>H8IL19090</feccid>
+</member><member><cid>N00030234</cid><crpname>Lerew, John William</crpname><party>R</party><distid>CO07</distid><feccid>H8CO07037</feccid>
+</member><member><cid>N00030235</cid><crpname>Itshaky, Bo</crpname><party>R</party><distid>CT03</distid><feccid>H8CT03059</feccid>
+</member><member><cid>N00030236</cid><crpname>Winn, Thomas Linton</crpname><party>I</party><distid>CT05</distid><feccid>H8CT05153</feccid>
+</member><member><cid>N00030237</cid><crpname>Bryan, James Edward</crpname><party>D</party><distid>FL01</distid><feccid>H8FL01099</feccid>
+</member><member><cid>N00030240</cid><crpname>Hanson, Tom</crpname><party>R</party><distid>IL05</distid><feccid>H8IL05073</feccid>
+</member><member><cid>N00030241</cid><crpname>Druck, Dan</crpname><party>L</party><distid>IL14</distid><feccid>H8IL14133</feccid>
+</member><member><cid>N00030242</cid><crpname>Burton, Kathleen M</crpname><party>3</party><distid>KS01</distid><feccid>H8KS01035</feccid>
+</member><member><cid>N00030243</cid><crpname>Garrard, Robert</crpname><party>L</party><distid>KS02</distid><feccid>H8KS02108</feccid>
+</member><member><cid>N00030244</cid><crpname>Martin, Leslie S</crpname><party>3</party><distid>KS02</distid><feccid>H8KS02116</feccid>
+</member><member><cid>N00030245</cid><crpname>Cassidy, William</crpname><party>R</party><distid>LA06</distid><feccid>H8LA00017</feccid>
+</member><member><cid>N00030246</cid><crpname>Harlan, James Kenneth</crpname><party>D</party><distid>LA01</distid><feccid>H8LA01114</feccid>
+</member><member><cid>N00030247</cid><crpname>Moreno, Helena</crpname><party>D</party><distid>LA02</distid><feccid>H8LA02062</feccid>
+</member><member><cid>N00030249</cid><crpname>Cravins, Donald R Jr</crpname><party>D</party><distid>LA07</distid><feccid>H8LA07046</feccid>
+</member><member><cid>N00030252</cid><crpname>Cooney, Don</crpname><party>D</party><distid>MI06</distid><feccid>H8MI06098</feccid>
+</member><member><cid>N00030253</cid><crpname>Copple, Bert</crpname><party>R</party><distid>MI12</distid><feccid>H8MI12088</feccid>
+</member><member><cid>N00030255</cid><crpname>Gubics, Edward J</crpname><party>R</party><distid>MI13</distid><feccid>H8MI13193</feccid>
+</member><member><cid>N00030264</cid><crpname>Boyce, Peter Frank</crpname><party>3</party><distid>NJ02</distid><feccid>H8NJ02117</feccid>
+</member><member><cid>N00030265</cid><crpname>Wills, Ruben</crpname><party>I</party><distid>NY06</distid><feccid>H8NY06105</feccid>
+</member><member><cid>N00030267</cid><crpname>McMahon, Michael E</crpname><party>D</party><distid>NY13</distid><feccid>H8NY13077</feccid>
+</member><member><cid>N00030269</cid><crpname>Morano, Carmine</crpname><party>3</party><distid>NY13</distid><feccid>H8NY13101</feccid>
+</member><member><cid>N00030273</cid><crpname>Eckhart, Don Elijah</crpname><party>3</party><distid>OH15</distid><feccid>H8OH15092</feccid>
+</member><member><cid>N00030274</cid><crpname>Oliver, Georgianna W</crpname><party>D</party><distid>OK01</distid><feccid>H8OK01108</feccid>
+</member><member><cid>N00030277</cid><crpname>Michael, Forrest</crpname><party>I</party><distid>OK03</distid><feccid>H8OK03054</feccid>
+</member><member><cid>N00030278</cid><crpname>Cummings, Blake</crpname><party>D</party><distid>OK04</distid><feccid>H8OK04045</feccid>
+</member><member><cid>N00030279</cid><crpname>Joyce, David E</crpname><party>I</party><distid>OK04</distid><feccid>H8OK04052</feccid>
+</member><member><cid>N00030283</cid><crpname>Ragsdale, Kevin</crpname><party>I</party><distid>TN04</distid><feccid>H8TN04073</feccid>
+</member><member><cid>N00030285</cid><crpname>Jackson, Jon</crpname><party>I</party><distid>TN05</distid><feccid>H8TN05278</feccid>
+</member><member><cid>N00030286</cid><crpname>Baker, Chris</crpname><party>I</party><distid>TN06</distid><feccid>H8TN06060</feccid>
+</member><member><cid>N00030321</cid><crpname>DewWtt, Rebecca</crpname><party>3</party><distid>AZ04</distid><feccid>H8AZ04116</feccid>
+</member><member><cid>N00030322</cid><crpname>Biondi, Rick</crpname><party>L</party><distid>AZ06</distid><feccid>H8AZ06061</feccid>
+</member><member><cid>N00029189</cid><crpname>Augustson, Alan</crpname><party>3</party><distid>IL05</distid><feccid>H8IL05065</feccid>
+</member><member><cid>N00029197</cid><crpname>Sauerberg, Steven Kenneth</crpname><party>R</party><distid>ILS1</distid><feccid>S8IL00165</feccid>
+</member><member><cid>N00029205</cid><crpname>Davis, Brian</crpname><party>R</party><distid>MN01</distid><feccid>H8MN01238</feccid>
+</member><member><cid>N00029235</cid><crpname>Leach, Ken</crpname><party>D</party><distid>TX26</distid><feccid>H8TX26058</feccid>
+</member><member><cid>N00029237</cid><crpname>Kittelson, Roger</crpname><party>D</party><distid>WI06</distid><feccid>H8WI06056</feccid>
+</member><member><cid>N00029242</cid><crpname>Zilaitis, Frank</crpname><party>3</party><distid>FL15</distid><feccid>H8FL15099</feccid>
+</member><member><cid>N00029248</cid><crpname>Lange, Michael</crpname><party>I</party><distid>MTS2</distid><feccid>S8MT00150</feccid>
+</member><member><cid>N00029249</cid><crpname>Dykstra, Joel D</crpname><party>R</party><distid>SDS2</distid><feccid>S8SD00107</feccid>
+</member><member><cid>N00029250</cid><crpname>Noriega, Rick</crpname><party>D</party><distid>TXS1</distid><feccid>S8TX00202</feccid>
+</member><member><cid>N00029253</cid><crpname>Griffith, William</crpname><party>I</party><distid>VA07</distid><feccid>H8VA07037</feccid>
+</member><member><cid>N00029260</cid><crpname>Kirkpatrick, Ann</crpname><party>D</party><distid>AZ01</distid><feccid>H8AZ01104</feccid>
+</member><member><cid>N00029263</cid><crpname>Chau, Edwin</crpname><party>D</party><distid>CA42</distid><feccid>H8CA42202</feccid>
+</member><member><cid>N00029267</cid><crpname>Byrnes, Lawrence William</crpname><party>I</party><distid>FL14</distid><feccid>H8FL14134</feccid>
+</member><member><cid>N00029270</cid><crpname>Wallace, Jason Michael</crpname><party>3</party><distid>IL11</distid><feccid>H8IL11071</feccid>
+</member><member><cid>N00029271</cid><crpname>Alesch, Steven J</crpname><party>3</party><distid>IL13</distid><feccid>H8IL13101</feccid>
+</member><member><cid>N00029272</cid><crpname>Abboud, Robert</crpname><party>D</party><distid>IL16</distid><feccid>H8IL16062</feccid>
+</member><member><cid>N00029273</cid><crpname>Schock, Aaron</crpname><party>R</party><distid>IL18</distid><feccid>H8IL18043</feccid>
+</member><member><cid>N00029274</cid><crpname>Goode, Gregory Justin</crpname><party>R</party><distid>IN08</distid><feccid>H8IN08117</feccid>
+</member><member><cid>N00029275</cid><crpname>Jordan, Nick</crpname><party>R</party><distid>KS03</distid><feccid>H8KS03064</feccid>
+</member><member><cid>N00029277</cid><crpname>Peters, Gary</crpname><party>D</party><distid>MI09</distid><feccid>H8MI09068</feccid>
+</member><member><cid>N00029278</cid><crpname>Breazeale, William James</crpname><party>R</party><distid>NC07</distid><feccid>H8NC07085</feccid>
+</member><member><cid>N00029282</cid><crpname>Gilhooley, Antoinette "Toni" M</crpname><party>R</party><distid>PA17</distid><feccid>H8PA17035</feccid>
+</member><member><cid>N00028735</cid><crpname>Tarbous, Herbert L</crpname><party>I</party><distid>NJ06</distid><feccid>H6NJ06211</feccid>
+</member><member><cid>N00028789</cid><crpname>Price, Paul</crpname><party>3</party><distid>AZ08</distid><feccid>H6AZ08160</feccid>
+</member><member><cid>N00028747</cid><crpname>Romaguera, Allan E</crpname><party>R</party><distid>NY12</distid><feccid>H6NY12115</feccid>
+</member><member><cid>N00028750</cid><crpname>Daniels, Edward</crpname><party>R</party><distid>NY15</distid><feccid>H6NY15126</feccid>
+</member><member><cid>N00028752</cid><crpname>Rosetti, Christina</crpname><party>3</party><distid>NY25</distid><feccid>H6NY25141</feccid>
+</member><member><cid>N00028791</cid><crpname>Calhoun, Joe</crpname><party>3</party><distid>CO02</distid><feccid>H6CO02131</feccid>
+</member><member><cid>N00028769</cid><crpname>O'Donnell, Christine</crpname><party>R</party><distid>DES2</distid><feccid>S6DE00131</feccid>
+</member><member><cid>N00028792</cid><crpname>Hand, Richard D</crpname><party>3</party><distid>CO05</distid><feccid>H6CO05209</feccid>
+</member><member><cid>N00028794</cid><crpname>Scott, Brian X</crpname><party>3</party><distid>CO05</distid><feccid>H6CO05225</feccid>
+</member><member><cid>N00028799</cid><crpname>Duffee, Richard A</crpname><party>3</party><distid>CT04</distid><feccid>H6CT04119</feccid>
+</member><member><cid>N00028804</cid><crpname>Mathenia, Ken</crpname><party>3</party><distid>MI05</distid><feccid>H6MI05193</feccid>
+</member><member><cid>N00028805</cid><crpname>Stuttman, Aaron</crpname><party>3</party><distid>MI08</distid><feccid>H6MI08239</feccid>
+</member><member><cid>N00028806</cid><crpname>Caveny, Candace Ruth</crpname><party>3</party><distid>MI10</distid><feccid>H6MI10177</feccid>
+</member><member><cid>N00028808</cid><crpname>Smith, Aimee</crpname><party>3</party><distid>MI15</distid><feccid>H6MI15218</feccid>
+</member><member><cid>N00028817</cid><crpname>North, Titus</crpname><party>3</party><distid>PA14</distid><feccid>H6PA14168</feccid>
+</member><member><cid>N00030317</cid><crpname>Buck, Edward L</crpname><party>I</party><distid>TNS2</distid><feccid>S8TN00295</feccid>
+</member><member><cid>N00030329</cid><crpname>Kalimnios, John</crpname><party>I</party><distid>FL09</distid><feccid>H8FL09100</feccid>
+</member><member><cid>N00030330</cid><crpname>Luzietti, Marc</crpname><party>3</party><distid>FL20</distid><feccid>H8FL20024</feccid>
+</member><member><cid>N00030331</cid><crpname>Cook, April</crpname><party>I</party><distid>FL23</distid><feccid>H8FL23036</feccid>
+</member><member><cid>N00030333</cid><crpname>Cunningham, Daniel</crpname><party>R</party><distid>IL04</distid><feccid>H8IL04100</feccid>
+</member><member><cid>N00030334</cid><crpname>Lopez, Omar</crpname><party>3</party><distid>IL04</distid><feccid>H8IL04118</feccid>
+</member><member><cid>N00030335</cid><crpname>Miller, Steve</crpname><party>R</party><distid>IL07</distid><feccid>H8IL07087</feccid>
+</member><member><cid>N00030336</cid><crpname>Schafer, Sheldon</crpname><party>3</party><distid>IL18</distid><feccid>H8IL18084</feccid>
+</member><member><cid>N00030339</cid><crpname>Cao, Anh (Joseph)</crpname><party>R</party><distid>LA02</distid><feccid>H8LA02112</feccid>
+</member><member><cid>N00030340</cid><crpname>Rahim, Malik</crpname><party>3</party><distid>LA02</distid><feccid>H8LA02120</feccid>
+</member><member><cid>N00030341</cid><crpname>Jacobs, Jerry</crpname><party>3</party><distid>LA02</distid><feccid>H8LA02138</feccid>
+</member><member><cid>N00030342</cid><crpname>Bowen, Gerard J</crpname><party>I</party><distid>LA04</distid><feccid>H8LA04274</feccid>
+</member><member><cid>N00030344</cid><crpname>Sholley, Earl H</crpname><party>R</party><distid>MA04</distid><feccid>H8MA04054</feccid>
+</member><member><cid>N00030349</cid><crpname>Kingsbury, Bob</crpname><party>L</party><distid>NH01</distid><feccid>H8NH01145</feccid>
+</member><member><cid>N00030351</cid><crpname>Lapointe, Chester L II</crpname><party>L</party><distid>NH02</distid><feccid>H8NH02234</feccid>
+</member><member><cid>N00030356</cid><crpname>Alexander, Caren</crpname><party>3</party><distid>NV01</distid><feccid>H8NV01253</feccid>
+</member><member><cid>N00030358</cid><crpname>Bergland, Craig</crpname><party>3</party><distid>NV02</distid><feccid>H8NV02061</feccid>
+</member><member><cid>N00030359</cid><crpname>Everhart, John</crpname><party>3</party><distid>NV02</distid><feccid>H8NV02079</feccid>
+</member><member><cid>N00030360</cid><crpname>Morse, Sean Patrick</crpname><party>L</party><distid>NV02</distid><feccid>H8NV02087</feccid>
+</member><member><cid>N00030363</cid><crpname>Giaquinta, Bob</crpname><party>3</party><distid>NV03</distid><feccid>H8NV03077</feccid>
+</member><member><cid>N00030364</cid><crpname>Fitzgibbons, Floyd</crpname><party>3</party><distid>NV03</distid><feccid>H8NV03085</feccid>
+</member><member><cid>N00030365</cid><crpname>Reeves, Jeffrey C</crpname><party>I</party><distid>NV03</distid><feccid>H8NV03093</feccid>
+</member><member><cid>N00030367</cid><crpname>Berney, Elizabeth</crpname><party>R</party><distid>NY05</distid><feccid>H8NY05099</feccid>
+</member><member><cid>N00030369</cid><crpname>Shroeder, Harold W</crpname><party>3</party><distid>NY27</distid><feccid>H8NY27101</feccid>
+</member><member><cid>N00030370</cid><crpname>Martinez-Birriel, Jessica</crpname><party>3</party><distid>PR00</distid><feccid>H8PR00096</feccid>
+</member><member><cid>N00030371</cid><crpname>Waggoner, Frank</crpname><party>3</party><distid>SC05</distid><feccid>H8SC05083</feccid>
+</member><member><cid>N00030372</cid><crpname>Larson, Nathan Daniel</crpname><party>L</party><distid>VA01</distid><feccid>H8VA01238</feccid>
+</member><member><cid>N00030380</cid><crpname>Postma, James Lee</crpname><party>R</party><distid>WA09</distid><feccid>H8WA09047</feccid>
+</member><member><cid>N00030389</cid><crpname>Haase, Frederick D (David)</crpname><party>L</party><distid>AKS1</distid><feccid>S8AK00165</feccid>
+</member><member><cid>N00030390</cid><crpname>Cummings, Kathy</crpname><party>3</party><distid>ILS1</distid><feccid>S8IL00199</feccid>
+</member><member><cid>N00030392</cid><crpname>Patel, Jay</crpname><party>I</party><distid>LAS1</distid><feccid>S8LA00090</feccid>
+</member><member><cid>N00030399</cid><crpname>McFarland, Deb</crpname><party>3</party><distid>AR02</distid><feccid>H8AR02100</feccid>
+</member><member><cid>N00029069</cid><crpname>Sullivan, Sean Patrick</crpname><party>R</party><distid>CT02</distid><feccid>H8CT02069</feccid>
+</member><member><cid>N00029070</cid><crpname>Himes, Jim</crpname><party>D</party><distid>CT04</distid><feccid>H8CT04172</feccid>
+</member><member><cid>N00029071</cid><crpname>Cappiello, David John</crpname><party>R</party><distid>CT05</distid><feccid>H8CT05120</feccid>
+</member><member><cid>N00029077</cid><crpname>Jenkins, Lynn</crpname><party>R</party><distid>KS02</distid><feccid>H8KS02090</feccid>
+</member><member><cid>N00029085</cid><crpname>Treadwell, Sandy</crpname><party>R</party><distid>NY20</distid><feccid>H8NY20122</feccid>
+</member><member><cid>N00029131</cid><crpname>West, Allen B</crpname><party>R</party><distid>FL22</distid><feccid>H8FL22038</feccid>
+</member><member><cid>N00029133</cid><crpname>Goddard, Rick</crpname><party>R</party><distid>GA08</distid><feccid>H8GA08043</feccid>
+</member><member><cid>N00029142</cid><crpname>Montagano, Michael Anthony</crpname><party>D</party><distid>IN03</distid><feccid>H8IN03050</feccid>
+</member><member><cid>N00029146</cid><crpname>Kratovil, Frank M Jr</crpname><party>D</party><distid>MD01</distid><feccid>H8MD01086</feccid>
+</member><member><cid>N00029147</cid><crpname>Harris, Andy</crpname><party>R</party><distid>MD01</distid><feccid>H8MD01094</feccid>
+</member><member><cid>N00029149</cid><crpname>Casperson, Thomas A</crpname><party>R</party><distid>MI01</distid><feccid>H8MI01107</feccid>
+</member><member><cid>N00029151</cid><crpname>Barnes, Kay</crpname><party>D</party><distid>MO06</distid><feccid>H8MO06068</feccid>
+</member><member><cid>N00029161</cid><crpname>Boccieri, John A</crpname><party>D</party><distid>OH16</distid><feccid>H8OH16058</feccid>
+</member><member><cid>N00029162</cid><crpname>Schuring, Kirk</crpname><party>R</party><distid>OH16</distid><feccid>H8OH16066</feccid>
+</member><member><cid>N00029164</cid><crpname>Dailey, Fred L</crpname><party>R</party><distid>OH18</distid><feccid>H8OH18088</feccid>
+</member><member><cid>N00029167</cid><crpname>Slater, Bruce</crpname><party>D</party><distid>PA16</distid><feccid>H8PA16045</feccid>
+</member><member><cid>N00029168</cid><crpname>Pierluisi, Pedro</crpname><party>3</party><distid>PR00</distid><feccid>H8PR00062</feccid>
+</member><member><cid>N00029169</cid><crpname>Doherty, Larry Joe</crpname><party>D</party><distid>TX10</distid><feccid>H8TX10052</feccid>
+</member><member><cid>N00029177</cid><crpname>Krupp, Margaret</crpname><party>D</party><distid>WI01</distid><feccid>H8WI01073</feccid>
+</member><member><cid>N00029211</cid><crpname>Driehaus, Steven Leo</crpname><party>D</party><distid>OH01</distid><feccid>H8OH01068</feccid>
+</member><member><cid>N00029368</cid><crpname>Lumpkin, Mike</crpname><party>D</party><distid>CA52</distid><feccid>H8CA52078</feccid>
+</member><member><cid>N00029370</cid><crpname>Kosmas, Suzanne</crpname><party>D</party><distid>FL24</distid><feccid>H8FL24026</feccid>
+</member><member><cid>N00029371</cid><crpname>Gillespie, Bill</crpname><party>D</party><distid>GA01</distid><feccid>H8GA01022</feccid>
+</member><member><cid>N00029377</cid><crpname>Halvorson, Deborah "Debbie"</crpname><party>D</party><distid>IL11</distid><feccid>H8IL11113</feccid>
+</member><member><cid>N00029389</cid><crpname>Sarvi, Steve</crpname><party>D</party><distid>MN02</distid><feccid>H8MN02046</feccid>
+</member><member><cid>N00029391</cid><crpname>Paulsen, Erik</crpname><party>R</party><distid>MN03</distid><feccid>H8MN03077</feccid>
+</member><member><cid>N00029392</cid><crpname>Madia, Ashwin</crpname><party>D</party><distid>MN03</distid><feccid>H8MN03085</feccid>
+</member><member><cid>N00029394</cid><crpname>Carter, Roy</crpname><party>D</party><distid>NC05</distid><feccid>H8NC05030</feccid>
+</member><member><cid>N00029399</cid><crpname>Shulman, Dennis G</crpname><party>D</party><distid>NJ05</distid><feccid>H8NJ05094</feccid>
+</member><member><cid>N00029402</cid><crpname>White, Darren</crpname><party>R</party><distid>NM01</distid><feccid>H8NM01273</feccid>
+</member><member><cid>N00029404</cid><crpname>Zeldin, Lee M</crpname><party>R</party><distid>NY01</distid><feccid>H8NY01148</feccid>
+</member><member><cid>N00029406</cid><crpname>Oot, Michael P</crpname><party>D</party><distid>NY23</distid><feccid>H8NY23100</feccid>
+</member><member><cid>N00029408</cid><crpname>Mays, George F</crpname><party>D</party><distid>OH05</distid><feccid>H8OH05093</feccid>
+</member><member><cid>N00029412</cid><crpname>Austria, Steve C</crpname><party>R</party><distid>OH07</distid><feccid>H8OH07065</feccid>
+</member><member><cid>N00029414</cid><crpname>Dahlkemper, Kathleen</crpname><party>D</party><distid>PA03</distid><feccid>H8PA03084</feccid>
+</member><member><cid>N00029065</cid><crpname>Gerber, Nicholas</crpname><party>R</party><distid>CA10</distid><feccid>H8CA10084</feccid>
+</member><member><cid>N00029439</cid><crpname>Wolf, Wayne</crpname><party>R</party><distid>CO03</distid><feccid>H8CO03184</feccid>
+</member><member><cid>N00029441</cid><crpname>Risch, James E</crpname><party>R</party><distid>IDS1</distid><feccid>S8ID00092</feccid>
+</member><member><cid>N00029442</cid><crpname>Rammell, Rex</crpname><party>I</party><distid>IDS1</distid><feccid>S8ID00100</feccid>
+</member><member><cid>N00029444</cid><crpname>Johanns, Michael O</crpname><party>R</party><distid>NES2</distid><feccid>S8NE00117</feccid>
+</member><member><cid>N00029534</cid><crpname>Hargadon, Michael T</crpname><party>R</party><distid>MD07</distid><feccid>H8MD07059</feccid>
+</member><member><cid>N00029539</cid><crpname>Frary, John Newton</crpname><party>R</party><distid>ME02</distid><feccid>H8ME02128</feccid>
+</member><member><cid>N00029541</cid><crpname>McAvoy, Theodore Camron</crpname><party>I</party><distid>MI11</distid><feccid>H8MI11213</feccid>
+</member><member><cid>N00029545</cid><crpname>Baker, Judith W</crpname><party>D</party><distid>MO09</distid><feccid>H8MO09088</feccid>
+</member><member><cid>N00029550</cid><crpname>Taylor, Harry A</crpname><party>D</party><distid>NC09</distid><feccid>H8NC09073</feccid>
+</member><member><cid>N00029552</cid><crpname>Mumpower, Carl</crpname><party>R</party><distid>NC11</distid><feccid>H8NC11079</feccid>
+</member><member><cid>N00029556</cid><crpname>Teague, Harry</crpname><party>D</party><distid>NM02</distid><feccid>H8NM02032</feccid>
+</member><member><cid>N00029660</cid><crpname>Armitage, Faye</crpname><party>D</party><distid>FL07</distid><feccid>H8FL07047</feccid>
+</member><member><cid>N00029562</cid><crpname>Lujan, Ben R</crpname><party>D</party><distid>NM03</distid><feccid>H8NM03196</feccid>
+</member><member><cid>N00029564</cid><crpname>Lalor, Kieran Michael</crpname><party>R</party><distid>NY19</distid><feccid>H8NY19140</feccid>
+</member><member><cid>N00029565</cid><crpname>Steck, Phillip G</crpname><party>3</party><distid>NY21</distid><feccid>H8NY21138</feccid>
+</member><member><cid>N00029566</cid><crpname>Phillips, George K</crpname><party>R</party><distid>NY22</distid><feccid>H8NY22102</feccid>
+</member><member><cid>N00029572</cid><crpname>Trakas, James Peter</crpname><party>R</party><distid>OH10</distid><feccid>H8OH10085</feccid>
+</member><member><cid>N00029574</cid><crpname>Stivers, Steve</crpname><party>R</party><distid>OH15</distid><feccid>H8OH15076</feccid>
+</member><member><cid>N00029577</cid><crpname>Russell, William</crpname><party>R</party><distid>PA12</distid><feccid>H8PA12044</feccid>
+</member><member><cid>N00029579</cid><crpname>Lien, Chris</crpname><party>R</party><distid>SD01</distid><feccid>H8SD00016</feccid>
+</member><member><cid>N00029580</cid><crpname>Donovan, John Gerard</crpname><party>R</party><distid>TN05</distid><feccid>H8TN05245</feccid>
+</member><member><cid>N00029582</cid><crpname>Daley, Thomas James</crpname><party>D</party><distid>TX03</distid><feccid>H8TX03032</feccid>
+</member><member><cid>N00029586</cid><crpname>Skelly, Michael Peter</crpname><party>D</party><distid>TX07</distid><feccid>H8TX07074</feccid>
+</member><member><cid>N00029662</cid><crpname>Posey, Bill</crpname><party>R</party><distid>FL15</distid><feccid>H8FL15107</feccid>
+</member><member><cid>N00029251</cid><crpname>Smith, Paul</crpname><party>R</party><distid>CA05</distid><feccid>H8CA05159</feccid>
+</member><member><cid>N00029258</cid><crpname>Hunter, Duncan D</crpname><party>R</party><distid>CA52</distid><feccid>H8CA52052</feccid>
+</member><member><cid>N00029284</cid><crpname>Salazar, Alfredo</crpname><party>3</party><distid>PR00</distid><feccid>H8PR00088</feccid>
+</member><member><cid>N00029285</cid><crpname>Olson, Peter Graham</crpname><party>R</party><distid>TX22</distid><feccid>H8TX22107</feccid>
+</member><member><cid>N00029288</cid><crpname>Ruiz, Brian P</crpname><party>D</party><distid>TX31</distid><feccid>H8TX31017</feccid>
+</member><member><cid>N00029290</cid><crpname>Fimian, Keith S</crpname><party>R</party><distid>VA11</distid><feccid>H8VA11021</feccid>
+</member><member><cid>N00029301</cid><crpname>Girard, Shawn Paul</crpname><party>I</party><distid>NHS2</distid><feccid>S8NH00162</feccid>
+</member><member><cid>N00029302</cid><crpname>Rice, Andrew</crpname><party>D</party><distid>OKS2</distid><feccid>S8OK00233</feccid>
+</member><member><cid>N00029303</cid><crpname>Merkley, Jeff</crpname><party>D</party><distid>ORS1</distid><feccid>S8OR00207</feccid>
+</member><member><cid>N00029312</cid><crpname>Bee, Timothy</crpname><party>R</party><distid>AZ08</distid><feccid>H8AZ08018</feccid>
+</member><member><cid>N00029313</cid><crpname>Taylor, Jeff</crpname><party>R</party><distid>CA17</distid><feccid>H8CA17089</feccid>
+</member><member><cid>N00029321</cid><crpname>Harper, Scott</crpname><party>D</party><distid>IL13</distid><feccid>H8IL13119</feccid>
+</member><member><cid>N00029327</cid><crpname>Schauer, Mark</crpname><party>D</party><distid>MI07</distid><feccid>H8MI07096</feccid>
+</member><member><cid>N00029328</cid><crpname>Sander, Christopher S</crpname><party>R</party><distid>MO03</distid><feccid>H8MO03149</feccid>
+</member><member><cid>N00029329</cid><crpname>Greene, Bryan</crpname><party>I</party><distid>NC10</distid><feccid>H8NC10030</feccid>
+</member><member><cid>N00029330</cid><crpname>Zeitz, Joshua M</crpname><party>D</party><distid>NJ04</distid><feccid>H8NJ04147</feccid>
+</member><member><cid>N00029332</cid><crpname>Kryzan, Alice J</crpname><party>D</party><distid>NY26</distid><feccid>H8NY26079</feccid>
+</member><member><cid>N00029334</cid><crpname>Hackett, Christopher Lawrence</crpname><party>R</party><distid>PA10</distid><feccid>H8PA10113</feccid>
+</member><member><cid>N00029337</cid><crpname>Odonnell, Stephen Paul</crpname><party>D</party><distid>PA18</distid><feccid>H8PA18124</feccid>
+</member><member><cid>N00029339</cid><crpname>Perriello, Tom</crpname><party>D</party><distid>VA05</distid><feccid>H8VA05106</feccid>
+</member><member><cid>N00029353</cid><crpname>Figures, Vivian Davis</crpname><party>D</party><distid>ALS1</distid><feccid>S8AL00282</feccid>
+</member><member><cid>N00029305</cid><crpname>Hahn, Charles Jin</crpname><party>R</party><distid>CA29</distid><feccid>H8CA29076</feccid>
+</member><member><cid>N00029449</cid><crpname>Roberts, John</crpname><party>R</party><distid>CA43</distid><feccid>H8CA43119</feccid>
+</member><member><cid>N00029450</cid><crpname>Johnson, Daniel</crpname><party>D</party><distid>NC10</distid><feccid>H8NC10055</feccid>
+</member><member><cid>N00029451</cid><crpname>Bearse, Peter</crpname><party>I</party><distid>NH01</distid><feccid>H8NH01111</feccid>
+</member><member><cid>N00030465</cid><crpname>Swing, Gary</crpname><party>I</party><distid>CO01</distid><feccid>H8CO01089</feccid>
+</member><member><cid>N00029605</cid><crpname>Boss, Jeffrey</crpname><party>I</party><distid>NJS2</distid><feccid>S8NJ00418</feccid>
+</member><member><cid>N00029611</cid><crpname>Kennedy, Rebekah Jean</crpname><party>3</party><distid>ARS1</distid><feccid>S8AR00179</feccid>
+</member><member><cid>N00029617</cid><crpname>Hagan, Kay R</crpname><party>D</party><distid>NCS1</distid><feccid>S8NC00239</feccid>
+</member><member><cid>N00029624</cid><crpname>Saunders, Burt</crpname><party>I</party><distid>FL14</distid><feccid>H8FL14159</feccid>
+</member><member><cid>N00029627</cid><crpname>James, Peter</crpname><party>R</party><distid>MD04</distid><feccid>H8MD04163</feccid>
+</member><member><cid>N00029629</cid><crpname>Hudson, Steve</crpname><party>R</party><distid>MD08</distid><feccid>H8MD08156</feccid>
+</member><member><cid>N00029630</cid><crpname>Johnson, Fred</crpname><party>D</party><distid>MI02</distid><feccid>H8MI02105</feccid>
+</member><member><cid>N00029632</cid><crpname>Harper, Gregg</crpname><party>R</party><distid>MS03</distid><feccid>H8MS03067</feccid>
+</member><member><cid>N00029633</cid><crpname>Lawson, William T Jr</crpname><party>R</party><distid>NC04</distid><feccid>H8NC04074</feccid>
+</member><member><cid>N00029637</cid><crpname>Faulk, John M</crpname><party>R</party><distid>TX18</distid><feccid>H8TX18139</feccid>
+</member><member><cid>N00029649</cid><crpname>Speier, Jackie</crpname><party>D</party><distid>CA12</distid><feccid>H8CA12171</feccid>
+</member><member><cid>N00029650</cid><crpname>Balding, Christopher Jon</crpname><party>R</party><distid>CA34</distid><feccid>H8CA34084</feccid>
+</member><member><cid>N00029651</cid><crpname>Hayes, Theodore Jr</crpname><party>R</party><distid>CA35</distid><feccid>H8CA35099</feccid>
+</member><member><cid>N00029653</cid><crpname>Bornstein, Julie</crpname><party>D</party><distid>CA45</distid><feccid>H8CA45114</feccid>
+</member><member><cid>N00029461</cid><crpname>Love, Jay K</crpname><party>R</party><distid>AL02</distid><feccid>H8AL02080</feccid>
+</member><member><cid>N00029462</cid><crpname>Segall, Joshua Steven</crpname><party>D</party><distid>AL03</distid><feccid>H8AL03047</feccid>
+</member><member><cid>N00029463</cid><crpname>Maupin, Brent Geer</crpname><party>I</party><distid>AZ01</distid><feccid>H8AZ01120</feccid>
+</member><member><cid>N00029466</cid><crpname>Crowley, David Cochrane II</crpname><party>R</party><distid>CA33</distid><feccid>H8CA33243</feccid>
+</member><member><cid>N00029467</cid><crpname>Prince, Timothy P</crpname><party>D</party><distid>CA41</distid><feccid>H8CA41121</feccid>
+</member><member><cid>N00029470</cid><crpname>Lauten, Robert Edmund</crpname><party>3</party><distid>CA47</distid><feccid>H8CA47052</feccid>
+</member><member><cid>N00029471</cid><crpname>Hamilton, Robert</crpname><party>D</party><distid>CA49</distid><feccid>H8CA49041</feccid>
+</member><member><cid>N00029473</cid><crpname>Crimmins, Michael Peter</crpname><party>R</party><distid>CA53</distid><feccid>H8CA53019</feccid>
+</member><member><cid>N00029475</cid><crpname>Hammons, William Robert</crpname><party>3</party><distid>CO02</distid><feccid>H8CO02145</feccid>
+</member><member><cid>N00029481</cid><crpname>Deshefy, Gregory Scott</crpname><party>3</party><distid>CT02</distid><feccid>H8CT02077</feccid>
+</member><member><cid>N00029483</cid><crpname>Burbank, Harold</crpname><party>3</party><distid>CT05</distid><feccid>H8CT05138</feccid>
+</member><member><cid>N00029657</cid><crpname>Reale, Daniel J</crpname><party>L</party><distid>CT02</distid><feccid>H8CT02085</feccid>
+</member><member><cid>N00029486</cid><crpname>Ortiz, Robert</crpname><party>I</party><distid>FL02</distid><feccid>H8FL02063</feccid>
+</member><member><cid>N00029489</cid><crpname>George, Jeffrey Peter</crpname><party>I</party><distid>FL14</distid><feccid>H8FL14142</feccid>
+</member><member><cid>N00029494</cid><crpname>Stone, John</crpname><party>R</party><distid>GA12</distid><feccid>H8GA12011</feccid>
+</member><member><cid>N00029495</cid><crpname>Miller-Meeks, Mariannette Jane</crpname><party>R</party><distid>IA02</distid><feccid>H8IA02043</feccid>
+</member><member><cid>N00029498</cid><crpname>Members, Antoine</crpname><party>R</party><distid>IL01</distid><feccid>H8IL01098</feccid>
+</member><member><cid>N00029499</cid><crpname>Hawkins, Michael</crpname><party>R</party><distid>IL03</distid><feccid>H8IL03086</feccid>
+</member><member><cid>N00029500</cid><crpname>Pohlen, Jerome</crpname><party>3</party><distid>IL03</distid><feccid>H8IL03094</feccid>
+</member><member><cid>N00029501</cid><crpname>Morgenthaler, Jill</crpname><party>D</party><distid>IL06</distid><feccid>H8IL06071</feccid>
+</member><member><cid>N00029503</cid><crpname>Younan, Michael Benjamin</crpname><party>R</party><distid>IL09</distid><feccid>H8IL09158</feccid>
+</member><member><cid>N00029504</cid><crpname>Shanfield, Morris</crpname><party>3</party><distid>IL09</distid><feccid>H8IL09166</feccid>
+</member><member><cid>N00029506</cid><crpname>Richardson, Timmy Jay</crpname><party>R</party><distid>IL12</distid><feccid>H8IL12061</feccid>
+</member><member><cid>N00029507</cid><crpname>Jennings, Rodger W</crpname><party>3</party><distid>IL12</distid><feccid>H8IL12079</feccid>
+</member><member><cid>N00029510</cid><crpname>Cox, Steve</crpname><party>D</party><distid>IL15</distid><feccid>H8IL15049</feccid>
+</member><member><cid>N00029513</cid><crpname>Carson, Andre</crpname><party>D</party><distid>IN07</distid><feccid>H8IN07184</feccid>
+</member><member><cid>N00029514</cid><crpname>Bordonaro, James</crpname><party>D</party><distid>KS01</distid><feccid>H8KS01027</feccid>
+</member><member><cid>N00029515</cid><crpname>Betts, Donald</crpname><party>D</party><distid>KS04</distid><feccid>H8KS04062</feccid>
+</member><member><cid>N00029658</cid><crpname>McGovern, James Joseph "Jay"</crpname><party>D</party><distid>FL04</distid><feccid>H8FL04069</feccid>
+</member><member><cid>N00029520</cid><crpname>Matthews, Richard Pryce</crpname><party>R</party><distid>MD02</distid><feccid>H8MD02084</feccid>
+</member><member><cid>N00029521</cid><crpname>Harris, Thomas E</crpname><party>R</party><distid>MD03</distid><feccid>H8MD03082</feccid>
+</member><member><cid>N00029524</cid><crpname>Broadus, Robert</crpname><party>I</party><distid>MD04</distid><feccid>H8MD04155</feccid>
+</member><member><cid>N00029527</cid><crpname>Bailey, Collins</crpname><party>R</party><distid>MD05</distid><feccid>H8MD05087</feccid>
+</member><member><cid>N00029530</cid><crpname>Dougherty, Jennifer P</crpname><party>D</party><distid>MD06</distid><feccid>H8MD06069</feccid>
+</member><member><cid>N00029663</cid><crpname>Martinez, Raul L</crpname><party>D</party><distid>FL21</distid><feccid>H8FL21030</feccid>
+</member><member><cid>N00029674</cid><crpname>Ryan, Heather Ann</crpname><party>D</party><distid>KY01</distid><feccid>H8KY01041</feccid>
+</member><member><cid>N00029675</cid><crpname>Guthrie, Steven Brett</crpname><party>R</party><distid>KY02</distid><feccid>H8KY02031</feccid>
+</member><member><cid>N00029676</cid><crpname>Boswell, David E</crpname><party>D</party><distid>KY02</distid><feccid>H8KY02049</feccid>
+</member><member><cid>N00029679</cid><crpname>Fleming, John Calvin Jr</crpname><party>R</party><distid>LA04</distid><feccid>H8LA04225</feccid>
+</member><member><cid>N00029680</cid><crpname>Cazayoux, Donald J</crpname><party>D</party><distid>LA06</distid><feccid>H8LA06022</feccid>
+</member><member><cid>N00029686</cid><crpname>Concannon, Andrew</crpname><party>D</party><distid>MI04</distid><feccid>H8MI04077</feccid>
+</member><member><cid>N00029688</cid><crpname>White, Barbara Davis</crpname><party>R</party><distid>MN05</distid><feccid>H8MN05130</feccid>
+</member><member><cid>N00029690</cid><crpname>Allen, Joseph William</crpname><party>D</party><distid>MO08</distid><feccid>H8MO08072</feccid>
+</member><member><cid>N00029692</cid><crpname>Childers, Travis W</crpname><party>D</party><distid>MS01</distid><feccid>H8MS01061</feccid>
+</member><member><cid>N00029698</cid><crpname>Gill, Joel L</crpname><party>D</party><distid>MS03</distid><feccid>H8MS03091</feccid>
+</member><member><cid>N00029701</cid><crpname>McCay, John</crpname><party>R</party><distid>MS04</distid><feccid>H8MS04420</feccid>
+</member><member><cid>N00029703</cid><crpname>Myers, Chris</crpname><party>R</party><distid>NJ03</distid><feccid>H8NJ03172</feccid>
+</member><member><cid>N00029705</cid><crpname>Hsing, Michael P</crpname><party>I</party><distid>NJ07</distid><feccid>H8NJ07132</feccid>
+</member><member><cid>N00029711</cid><crpname>East, Daniel K</crpname><party>R</party><distid>NM03</distid><feccid>H8NM03212</feccid>
+</member><member><cid>N00029721</cid><crpname>Neuhardt, Sharen Swartz</crpname><party>D</party><distid>OH07</distid><feccid>H8OH07099</feccid>
+</member><member><cid>N00029724</cid><crpname>Von Stein, Nicholas A</crpname><party>D</party><distid>OH08</distid><feccid>H8OH08063</feccid>
+</member><member><cid>N00029728</cid><crpname>Potter, David S</crpname><party>R</party><distid>OH13</distid><feccid>H8OH13113</feccid>
+</member><member><cid>N00029731</cid><crpname>Grassell, Duane Virgil</crpname><party>R</party><distid>OH17</distid><feccid>H8OH17064</feccid>
+</member><member><cid>N00029736</cid><crpname>Thompson, Glenn</crpname><party>R</party><distid>PA05</distid><feccid>H8PA05071</feccid>
+</member><member><cid>N00029740</cid><crpname>Roggio, Robert</crpname><party>D</party><distid>PA06</distid><feccid>H8PA06079</feccid>
+</member><member><cid>N00029741</cid><crpname>Manion, Tom</crpname><party>R</party><distid>PA08</distid><feccid>H8PA08133</feccid>
+</member><member><cid>N00029743</cid><crpname>Ketner, Linda</crpname><party>D</party><distid>SC01</distid><feccid>H8SC01066</feccid>
+</member><member><cid>N00029744</cid><crpname>Lankford, Monty Joe</crpname><party>R</party><distid>TN04</distid><feccid>H8TN04040</feccid>
+</member><member><cid>N00029745</cid><crpname>Wolfe, Craig</crpname><party>L</party><distid>TX02</distid><feccid>H8TX02042</feccid>
+</member><member><cid>N00029749</cid><crpname>Annett, Fred</crpname><party>L</party><distid>TX04</distid><feccid>H8TX04147</feccid>
+</member><member><cid>N00029751</cid><crpname>Otto, Ludwig</crpname><party>D</party><distid>TX06</distid><feccid>H8TX06142</feccid>
+</member><member><cid>N00029754</cid><crpname>Hargett, Kent</crpname><party>D</party><distid>TX08</distid><feccid>H8TX08056</feccid>
+</member><member><cid>N00029755</cid><crpname>Stevens, Brian</crpname><party>L</party><distid>TX08</distid><feccid>H8TX08064</feccid>
+</member><member><cid>N00029756</cid><crpname>Walters, Brad</crpname><party>L</party><distid>TX09</distid><feccid>H8TX09112</feccid>
+</member><member><cid>N00029757</cid><crpname>Finkel, Matt</crpname><party>L</party><distid>TX10</distid><feccid>H8TX10078</feccid>
+</member><member><cid>N00029758</cid><crpname>Strohm, John R</crpname><party>L</party><distid>TX11</distid><feccid>H8TX11084</feccid>
+</member><member><cid>N00029759</cid><crpname>Smith, Tracey</crpname><party>D</party><distid>TX12</distid><feccid>H8TX12058</feccid>
+</member><member><cid>N00029760</cid><crpname>Shambaugh, Shiloh Sidney</crpname><party>L</party><distid>TX12</distid><feccid>H8TX12066</feccid>
+</member><member><cid>N00029761</cid><crpname>Raether, Gricha</crpname><party>L</party><distid>TX15</distid><feccid>H8TX15044</feccid>
+</member><member><cid>N00029762</cid><crpname>Baker, Mette A</crpname><party>L</party><distid>TX16</distid><feccid>H8TX16067</feccid>
+</member><member><cid>N00029765</cid><crpname>Fullingim, Dwight</crpname><party>D</party><distid>TX19</distid><feccid>H8TX19087</feccid>
+</member><member><cid>N00029767</cid><crpname>Litoff, Robert</crpname><party>R</party><distid>TX20</distid><feccid>H8TX20135</feccid>
+</member><member><cid>N00029769</cid><crpname>Wieder, John</crpname><party>L</party><distid>TX22</distid><feccid>H8TX22180</feccid>
+</member><member><cid>N00029770</cid><crpname>Larson, Lyle</crpname><party>R</party><distid>TX23</distid><feccid>H8TX23097</feccid>
+</member><member><cid>N00029771</cid><crpname>Connolly, Lani</crpname><party>L</party><distid>TX23</distid><feccid>H8TX23105</feccid>
+</member><member><cid>N00029772</cid><crpname>Love, Thomas Perry</crpname><party>D</party><distid>TX24</distid><feccid>H8TX24087</feccid>
+</member><member><cid>N00029773</cid><crpname>Casey, David A</crpname><party>L</party><distid>TX24</distid><feccid>H8TX24095</feccid>
+</member><member><cid>N00029774</cid><crpname>Morovich, George L</crpname><party>R</party><distid>TX25</distid><feccid>H8TX25084</feccid>
+</member><member><cid>N00029776</cid><crpname>Stutsman, Jim</crpname><party>L</party><distid>TX25</distid><feccid>H8TX25100</feccid>
+</member><member><cid>N00029778</cid><crpname>Fish, James Taylor</crpname><party>R</party><distid>TX28</distid><feccid>H8TX28195</feccid>
+</member><member><cid>N00029779</cid><crpname>Leone, Ross Lynn</crpname><party>L</party><distid>TX28</distid><feccid>H8TX28203</feccid>
+</member><member><cid>N00029780</cid><crpname>Grace, Joel</crpname><party>L</party><distid>TX29</distid><feccid>H8TX29037</feccid>
+</member><member><cid>N00029781</cid><crpname>Woods, Jarrett</crpname><party>L</party><distid>TX30</distid><feccid>H8TX30035</feccid>
+</member><member><cid>N00029782</cid><crpname>Cooper, Barry N</crpname><party>L</party><distid>TX31</distid><feccid>H8TX31025</feccid>
+</member><member><cid>N00029783</cid><crpname>Roberson, Eric Nelson</crpname><party>D</party><distid>TX32</distid><feccid>H8TX32015</feccid>
+</member><member><cid>N00029784</cid><crpname>Nye, Glenn</crpname><party>D</party><distid>VA02</distid><feccid>H8VA02046</feccid>
+</member><member><cid>N00029785</cid><crpname>Hartke, Anita Ruth</crpname><party>D</party><distid>VA07</distid><feccid>H8VA07045</feccid>
+</member><member><cid>N00029788</cid><crpname>Lummis, Cynthia Marie</crpname><party>R</party><distid>WY01</distid><feccid>H8WY00148</feccid>
+</member><member><cid>N00029801</cid><crpname>Childs, Steven Lee</crpname><party>3</party><distid>CO07</distid><feccid>H8CO07029</feccid>
+</member><member><cid>N00029806</cid><crpname>Lunsford, Bruce</crpname><party>D</party><distid>KYS1</distid><feccid>S8KY00233</feccid>
+</member><member><cid>N00029809</cid><crpname>Dillon, David G</crpname><party>3</party><distid>MN03</distid><feccid>H8MN03101</feccid>
+</member><member><cid>N00029810</cid><crpname>Musgrove, Ronnie</crpname><party>D</party><distid>MSS2</distid><feccid>S8MS00212</feccid>
+</member><member><cid>N00029815</cid><crpname>Schick, Yvonne Adams</crpname><party>L</party><distid>TXS1</distid><feccid>S8TX00251</feccid>
+</member><member><cid>N00029820</cid><crpname>Jackson, Michael</crpname><party>I</party><distid>LA06</distid><feccid>H8LA06030</feccid>
+</member><member><cid>N00029838</cid><crpname>Bright, Bobby Neal Sr</crpname><party>D</party><distid>AL02</distid><feccid>H8AL02130</feccid>
+</member><member><cid>N00029843</cid><crpname>Johnson, Lawrence Tufts</crpname><party>D</party><distid>CA21</distid><feccid>H8CA21107</feccid>
+</member><member><cid>N00029844</cid><crpname>Conaway, Jacouese</crpname><party>D</party><distid>CA25</distid><feccid>H8CA25058</feccid>
+</member><member><cid>N00029846</cid><crpname>Cook, Debbie</crpname><party>D</party><distid>CA46</distid><feccid>H8CA46096</feccid>
+</member><member><cid>N00029847</cid><crpname>Eng, Henry H</crpname><party>D</party><distid>CO06</distid><feccid>H8CO06187</feccid>
+</member><member><cid>N00029848</cid><crpname>Taddeo, Annette</crpname><party>D</party><distid>FL18</distid><feccid>H8FL00034</feccid>
+</member><member><cid>N00029851</cid><crpname>Lynch, Edward J</crpname><party>R</party><distid>FL19</distid><feccid>H8FL19042</feccid>
+</member><member><cid>N00029860</cid><crpname>Larson, Jon</crpname><party>R</party><distid>KY06</distid><feccid>H8KY06131</feccid>
+</member><member><cid>N00029862</cid><crpname>Banks, Willie Jr</crpname><party>D</party><distid>LA04</distid><feccid>H8LA04233</feccid>
+</member><member><cid>N00029864</cid><crpname>Matthews, Edward T</crpname><party>R</party><distid>MN04</distid><feccid>H8MN04075</feccid>
+</member><member><cid>N00029868</cid><crpname>Cobb, Ty Jr</crpname><party>R</party><distid>NC12</distid><feccid>H8NC12093</feccid>
+</member><member><cid>N00029869</cid><crpname>Yashirin, Max</crpname><party>D</party><distid>NE01</distid><feccid>H8NE01073</feccid>
+</member><member><cid>N00029870</cid><crpname>Horn, Jennifer M</crpname><party>R</party><distid>NH02</distid><feccid>H8NH02192</feccid>
+</member><member><cid>N00029879</cid><crpname>Humiston, Daniel J</crpname><party>R</party><distid>NY27</distid><feccid>H8NY27093</feccid>
+</member><member><cid>N00029880</cid><crpname>Carroll, Mike</crpname><party>D</party><distid>OH04</distid><feccid>H8OH04054</feccid>
+</member><member><cid>N00029886</cid><crpname>McCracken, Mark B</crpname><party>D</party><distid>PA05</distid><feccid>H8PA05147</feccid>
+</member><member><cid>N00029887</cid><crpname>Zaccaria, Mark S</crpname><party>R</party><distid>RI02</distid><feccid>H8RI02108</feccid>
+</member><member><cid>N00029890</cid><crpname>Taylor, Brian</crpname><party>3</party><distid>VA07</distid><feccid>H8VA07052</feccid>
+</member><member><cid>N00029891</cid><crpname>Connolly, Gerry</crpname><party>D</party><distid>VA11</distid><feccid>H8VA11062</feccid>
+</member><member><cid>N00029893</cid><crpname>Stark, Paul</crpname><party>R</party><distid>WI03</distid><feccid>H8WI03079</feccid>
+</member><member><cid>N00029894</cid><crpname>Mielke, Daniel Ernest</crpname><party>R</party><distid>WI07</distid><feccid>H8WI07062</feccid>
+</member><member><cid>N00029895</cid><crpname>Barth, Anne</crpname><party>D</party><distid>WV02</distid><feccid>H8WV02081</feccid>
+</member><member><cid>N00029916</cid><crpname>Sparks, Nicholas B</crpname><party>D</party><distid>AL04</distid><feccid>H8AL04052</feccid>
+</member><member><cid>N00029901</cid><crpname>Begich, Mark</crpname><party>D</party><distid>AKS1</distid><feccid>S8AK00090</feccid>
+</member><member><cid>N00029902</cid><crpname>Hamrick, Donald Lee</crpname><party>I</party><distid>ARS1</distid><feccid>S8AR00187</feccid>
+</member><member><cid>N00029903</cid><crpname>Stafford, Larry A</crpname><party>L</party><distid>ILS1</distid><feccid>S8IL00181</feccid>
+</member><member><cid>N00029904</cid><crpname>Hoffman, Herbert J</crpname><party>I</party><distid>MES2</distid><feccid>S8ME00114</feccid>
+</member><member><cid>N00029905</cid><crpname>Hoogendyk Jr, Jack</crpname><party>R</party><distid>MIS1</distid><feccid>S8MI00299</feccid>
+</member><member><cid>N00029917</cid><crpname>Griffith, Parker</crpname><party>D</party><distid>AL05</distid><feccid>H8AL05109</feccid>
+</member><member><cid>N00029822</cid><crpname>Davis, Greg</crpname><party>R</party><distid>MS01</distid><feccid>H8MS01053</feccid>
+</member><member><cid>N00029823</cid><crpname>Cook, Richard</crpname><party>R</party><distid>MS02</distid><feccid>H8MS02051</feccid>
+</member><member><cid>N00029908</cid><crpname>Garcia, Joe</crpname><party>D</party><distid>FL25</distid><feccid>H8FL25015</feccid>
+</member><member><cid>N00029826</cid><crpname>Robinson, David W</crpname><party>D</party><distid>OH12</distid><feccid>H8OH12107</feccid>
+</member><member><cid>N00029828</cid><crpname>Williams, Wendell Craig</crpname><party>R</party><distid>PA07</distid><feccid>H8PA07085</feccid>
+</member><member><cid>N00029829</cid><crpname>Taylor, Mike</crpname><party>L</party><distid>TX18</distid><feccid>H8TX18154</feccid>
+</member><member><cid>N00029830</cid><crpname>Weiss, Stephanie B</crpname><party>L</party><distid>TX26</distid><feccid>H8TX26066</feccid>
+</member><member><cid>N00029910</cid><crpname>Miller, Andrea</crpname><party>D</party><distid>VA04</distid><feccid>H8VA04018</feccid>
+</member><member><cid>N00029923</cid><crpname>Lancaster, Fuala'Au Rosie Tago</crpname><party>I</party><distid>AS00</distid><feccid>H8AS00052</feccid>
+</member><member><cid>N00029926</cid><crpname>Schneider, Rebecca</crpname><party>D</party><distid>AZ06</distid><feccid>H8AZ06053</feccid>
+</member><member><cid>N00029927</cid><crpname>Meyer, Harley Dean</crpname><party>I</party><distid>AZ07</distid><feccid>H8AZ07028</feccid>
+</member><member><cid>N00029933</cid><crpname>Starkewolf, Zane</crpname><party>R</party><distid>CA01</distid><feccid>H8CA01174</feccid>
+</member><member><cid>N00029934</cid><crpname>Wolman, Carol</crpname><party>3</party><distid>CA01</distid><feccid>H8CA01182</feccid>
+</member><member><cid>N00029937</cid><crpname>Roberts, Linda</crpname><party>3</party><distid>CA05</distid><feccid>H8CA05175</feccid>
+</member><member><cid>N00029938</cid><crpname>Petersen, Roger</crpname><party>R</party><distid>CA07</distid><feccid>H8CA07049</feccid>
+</member><member><cid>N00029941</cid><crpname>Conlon, Greg</crpname><party>R</party><distid>CA12</distid><feccid>H8CA12197</feccid>
+</member><member><cid>N00029943</cid><crpname>Peterson, Kevin</crpname><party>L</party><distid>CA12</distid><feccid>H8CA12213</feccid>
+</member><member><cid>N00029944</cid><crpname>Hrizi, Nathalie</crpname><party>3</party><distid>CA12</distid><feccid>H8CA12221</feccid>
+</member><member><cid>N00029945</cid><crpname>Chui, Raymond</crpname><party>R</party><distid>CA13</distid><feccid>H8CA13088</feccid>
+</member><member><cid>N00029946</cid><crpname>Santana, Ronny</crpname><party>R</party><distid>CA14</distid><feccid>H8CA14169</feccid>
+</member><member><cid>N00029947</cid><crpname>Cordi, Joyce</crpname><party>R</party><distid>CA15</distid><feccid>H8CA15083</feccid>
+</member><member><cid>N00029948</cid><crpname>Myers, Peter</crpname><party>3</party><distid>CA15</distid><feccid>H8CA15091</feccid>
+</member><member><cid>N00029949</cid><crpname>Wells, Steven</crpname><party>L</party><distid>CA16</distid><feccid>H8CA16057</feccid>
+</member><member><cid>N00029950</cid><crpname>Kokkonen, Matt</crpname><party>R</party><distid>CA23</distid><feccid>H8CA23079</feccid>
+</member><member><cid>N00029951</cid><crpname>Singh, Navraj</crpname><party>R</party><distid>CA27</distid><feccid>H8CA27088</feccid>
+</member><member><cid>N00029952</cid><crpname>Denton, Tim</crpname><party>L</party><distid>CA27</distid><feccid>H8CA27096</feccid>
+</member><member><cid>N00029953</cid><crpname>Pyeatt, Alan</crpname><party>L</party><distid>CA29</distid><feccid>H8CA29084</feccid>
+</member><member><cid>N00029954</cid><crpname>Agrella, Christopher</crpname><party>L</party><distid>CA38</distid><feccid>H8CA38101</feccid>
+</member><member><cid>N00029955</cid><crpname>Lenning, Diane A</crpname><party>R</party><distid>CA39</distid><feccid>H8CA39125</feccid>
+</member><member><cid>N00029962</cid><crpname>Gasteiger, Ernst</crpname><party>L</party><distid>CA46</distid><feccid>H8CA46112</feccid>
+</member><member><cid>N00029963</cid><crpname>Patterson, Don</crpname><party>L</party><distid>CA48</distid><feccid>H8CA48027</feccid>
+</member><member><cid>N00029964</cid><crpname>Dunlap, Wayne</crpname><party>L</party><distid>CA50</distid><feccid>H8CA50072</feccid>
+</member><member><cid>N00029965</cid><crpname>Joy, David Lee</crpname><party>R</party><distid>CA51</distid><feccid>H8CA51039</feccid>
+</member><member><cid>N00029969</cid><crpname>Teyssier, Edward</crpname><party>L</party><distid>CA53</distid><feccid>H8CA53043</feccid>
+</member><member><cid>N00029970</cid><crpname>Starin, Scott Howard</crpname><party>R</party><distid>CO02</distid><feccid>H8CO02152</feccid>
+</member><member><cid>N00029971</cid><crpname>Bidlack, Harold Wilford</crpname><party>D</party><distid>CO05</distid><feccid>H8CO05106</feccid>
+</member><member><cid>N00029973</cid><crpname>Visconti, Joseph B</crpname><party>R</party><distid>CT01</distid><feccid>H8CT01111</feccid>
+</member><member><cid>N00029976</cid><crpname>Mulligan, Mark</crpname><party>R</party><distid>FL02</distid><feccid>H8FL02089</feccid>
+</member><member><cid>N00030230</cid><crpname>Mason, James Paul</crpname><party>I</party><distid>GA10</distid><feccid>H8GA10122</feccid>
+</member><member><cid>N00029818</cid><crpname>Remple, Christopher</crpname><party>3</party><distid>CA37</distid><feccid>H8CA37269</feccid>
+</member><member><cid>N00029835</cid><crpname>Heinrich, Martin</crpname><party>D</party><distid>NM01</distid><feccid>H8NM01224</feccid>
+</member><member><cid>N00029977</cid><crpname>Cunha, Timothy M</crpname><party>D</party><distid>FL06</distid><feccid>H8FL06080</feccid>
+</member><member><cid>N00029979</cid><crpname>Emmons, Richard Owings</crpname><party>3</party><distid>FL09</distid><feccid>H8FL09092</feccid>
+</member><member><cid>N00029981</cid><crpname>Hackworth, Bob</crpname><party>D</party><distid>FL10</distid><feccid>H8FL10041</feccid>
+</member><member><cid>N00029982</cid><crpname>Tudor, Douglas David</crpname><party>D</party><distid>FL12</distid><feccid>H8FL12054</feccid>
+</member><member><cid>N00029986</cid><crpname>Heckman, Douglas Scott</crpname><party>D</party><distid>GA07</distid><feccid>H8GA07136</feccid>
+</member><member><cid>N00029987</cid><crpname>Hartsuch, David L</crpname><party>R</party><distid>IA01</distid><feccid>H8IA01086</feccid>
+</member><member><cid>N00029988</cid><crpname>Schmett, Kim</crpname><party>R</party><distid>IA03</distid><feccid>H8IA03082</feccid>
+</member><member><cid>N00029989</cid><crpname>Greenwald, Rebecca</crpname><party>D</party><distid>IA04</distid><feccid>H8IA04056</feccid>
+</member><member><cid>N00029992</cid><crpname>Holmes, Deborah</crpname><party>D</party><distid>ID02</distid><feccid>H8ID02106</feccid>
+</member><member><cid>N00029994</cid><crpname>Nemitz, Gregory</crpname><party>I</party><distid>ID02</distid><feccid>H8ID02122</feccid>
+</member><member><cid>N00029995</cid><crpname>Ozinga, Martin</crpname><party>R</party><distid>IL11</distid><feccid>H8IL11139</feccid>
+</member><member><cid>N00029996</cid><crpname>Callahan, Colleen</crpname><party>D</party><distid>IL18</distid><feccid>H8IL18076</feccid>
+</member><member><cid>N00030003</cid><crpname>Ruley, Mary Etta</crpname><party>D</party><distid>IN05</distid><feccid>H8IN05121</feccid>
+</member><member><cid>N00030008</cid><crpname>Holbert, Jim</crpname><party>I</party><distid>KY05</distid><feccid>H8KY05042</feccid>
+</member><member><cid>N00030304</cid><crpname>Hodgkinson, Randall L</crpname><party>L</party><distid>KSS1</distid><feccid>S8KS00243</feccid>
+</member><member><cid>N00030011</cid><crpname>Carmouche, Paul J</crpname><party>D</party><distid>LA04</distid><feccid>H8LA04241</feccid>
+</member><member><cid>N00030012</cid><crpname>Gorman, Chris D</crpname><party>R</party><distid>LA04</distid><feccid>H8LA04258</feccid>
+</member><member><cid>N00030017</cid><crpname>Bech, Nathan Alexander</crpname><party>R</party><distid>MA01</distid><feccid>H8MA01035</feccid>
+</member><member><cid>N00030018</cid><crpname>Clark, Gordon Scott</crpname><party>3</party><distid>MD08</distid><feccid>H8MD08198</feccid>
+</member><member><cid>N00030020</cid><crpname>Kevorkian, Jack</crpname><party>I</party><distid>MI09</distid><feccid>H8MI09076</feccid>
+</member><member><cid>N00030022</cid><crpname>Browning, David R</crpname><party>L</party><distid>MO06</distid><feccid>H8MO06076</feccid>
+</member><member><cid>N00030023</cid><crpname>Monroe, Richard</crpname><party>D</party><distid>MO07</distid><feccid>H8MO07140</feccid>
+</member><member><cid>N00030026</cid><crpname>Luetkemeyer, Blaine</crpname><party>R</party><distid>MO09</distid><feccid>H8MO09153</feccid>
+</member><member><cid>N00030027</cid><crpname>Pang, Wally</crpname><party>I</party><distid>MS01</distid><feccid>H8MS01129</feccid>
+</member><member><cid>N00030028</cid><crpname>Wages, John M Jr</crpname><party>3</party><distid>MS01</distid><feccid>H8MS01137</feccid>
+</member><member><cid>N00030029</cid><crpname>Stephens, Dean</crpname><party>R</party><distid>NC01</distid><feccid>H8NC01096</feccid>
+</member><member><cid>N00030030</cid><crpname>Bratton, Teresa Sue</crpname><party>D</party><distid>NC06</distid><feccid>H8NC06061</feccid>
+</member><member><cid>N00030033</cid><crpname>Webster, Hugh</crpname><party>R</party><distid>NC13</distid><feccid>H8NC13042</feccid>
+</member><member><cid>N00030034</cid><crpname>Stoddard, Jay C</crpname><party>D</party><distid>NE03</distid><feccid>H8NE03053</feccid>
+</member><member><cid>N00030037</cid><crpname>Glading, Dale Mark</crpname><party>R</party><distid>NJ01</distid><feccid>H8NJ01135</feccid>
+</member><member><cid>N00030041</cid><crpname>Kurkowski, David Carl Streich</crpname><party>D</party><distid>NJ02</distid><feccid>H8NJ02091</feccid>
+</member><member><cid>N00030044</cid><crpname>McLeod, Robert E</crpname><party>R</party><distid>NJ06</distid><feccid>H8NJ06142</feccid>
+</member><member><cid>N00030046</cid><crpname>Straten, Roland</crpname><party>R</party><distid>NJ08</distid><feccid>H8NJ08056</feccid>
+</member><member><cid>N00030048</cid><crpname>Tedholm, Chandler Charles</crpname><party>I</party><distid>NJ11</distid><feccid>H8NJ11100</feccid>
+</member><member><cid>N00030051</cid><crpname>Bateman, Alan R</crpname><party>R</party><distid>NJ12</distid><feccid>H8NJ12074</feccid>
+</member><member><cid>N00030052</cid><crpname>Turula, Joseph</crpname><party>R</party><distid>NJ13</distid><feccid>H8NJ13106</feccid>
+</member><member><cid>N00030056</cid><crpname>Buhrmaster, James R</crpname><party>R</party><distid>NY21</distid><feccid>H8NY21187</feccid>
+</member><member><cid>N00030060</cid><crpname>Sweetland, Dale A</crpname><party>R</party><distid>NY25</distid><feccid>H8NY25071</feccid>
+</member><member><cid>N00030062</cid><crpname>Krikorian, David</crpname><party>3</party><distid>OH02</distid><feccid>H8OH02090</feccid>
+</member><member><cid>N00030066</cid><crpname>Haugen, Joel</crpname><party>R</party><distid>OR01</distid><feccid>H8OR01171</feccid>
+</member><member><cid>N00030067</cid><crpname>Lemas, Noah</crpname><party>D</party><distid>OR02</distid><feccid>H8OR02096</feccid>
+</member><member><cid>N00030069</cid><crpname>Lopez, Delia</crpname><party>R</party><distid>OR03</distid><feccid>H8OR03045</feccid>
+</member><member><cid>N00030070</cid><crpname>Germond, Jaynee L</crpname><party>3</party><distid>OR04</distid><feccid>H8OR04126</feccid>
+</member><member><cid>N00030071</cid><crpname>Schrader, Kurt</crpname><party>D</party><distid>OR05</distid><feccid>H8OR05107</feccid>
+</member><member><cid>N00030075</cid><crpname>Muhammad, Mike</crpname><party>R</party><distid>PA01</distid><feccid>H8PA01229</feccid>
+</member><member><cid>N00030079</cid><crpname>Kats, Marina</crpname><party>R</party><distid>PA13</distid><feccid>H8PA13083</feccid>
+</member><member><cid>N00030080</cid><crpname>Zuccolo, Joe</crpname><party>R</party><distid>RI01</distid><feccid>H8RI00011</feccid>
+</member><member><cid>N00030083</cid><crpname>Dyer, Jane Ballard</crpname><party>D</party><distid>SC03</distid><feccid>H8SC03054</feccid>
+</member><member><cid>N00030085</cid><crpname>Corden, Paul H</crpname><party>D</party><distid>SC04</distid><feccid>H8SC04177</feccid>
+</member><member><cid>N00030088</cid><crpname>Clark, Dewey</crpname><party>I</party><distid>TN09</distid><feccid>H8TN09064</feccid>
+</member><member><cid>N00030089</cid><crpname>Barkley, Ronald Ben</crpname><party>I</party><distid>TX22</distid><feccid>H8TX22198</feccid>
+</member><member><cid>N00030090</cid><crpname>Bowen, Morgan</crpname><party>D</party><distid>UT01</distid><feccid>H8UT01083</feccid>
+</member><member><cid>N00030091</cid><crpname>Pearson, Kirk D</crpname><party>3</party><distid>UT01</distid><feccid>H8UT01091</feccid>
+</member><member><cid>N00030092</cid><crpname>Buchman, Joseph Geddes</crpname><party>L</party><distid>UT01</distid><feccid>H8UT01109</feccid>
+</member><member><cid>N00030094</cid><crpname>Emery, Dennis Ray</crpname><party>3</party><distid>UT02</distid><feccid>H8UT02172</feccid>
+</member><member><cid>N00030095</cid><crpname>Arndt, Mathew</crpname><party>L</party><distid>UT02</distid><feccid>H8UT02180</feccid>
+</member><member><cid>N00030096</cid><crpname>Dew, Bill</crpname><party>R</party><distid>UT02</distid><feccid>H8UT02198</feccid>
+</member><member><cid>N00030098</cid><crpname>Spencer, Bennion L</crpname><party>D</party><distid>UT03</distid><feccid>H8UT03105</feccid>
+</member><member><cid>N00030102</cid><crpname>Bart, Robert Ricky</crpname><party>R</party><distid>WA02</distid><feccid>H8WA02141</feccid>
+</member><member><cid>N00030103</cid><crpname>Delavar, Michael Robert</crpname><party>R</party><distid>WA03</distid><feccid>H8WA03156</feccid>
+</member><member><cid>N00030104</cid><crpname>Mays, Mark</crpname><party>D</party><distid>WA05</distid><feccid>H8WA05102</feccid>
+</member><member><cid>N00030120</cid><crpname>Reed, Christopher</crpname><party>R</party><distid>IAS2</distid><feccid>S8IA00104</feccid>
+</member><member><cid>N00030231</cid><crpname>Lynch, John</crpname><party>R</party><distid>MI15</distid><feccid>H8MI15099</feccid>
+</member><member><cid>N00030125</cid><crpname>Richardson, Marvin</crpname><party>I</party><distid>IDS1</distid><feccid>S8ID00191</feccid>
+</member><member><cid>N00030126</cid><crpname>Marmon, Kent A</crpname><party>L</party><distid>IDS1</distid><feccid>S8ID00209</feccid>
+</member><member><cid>N00030128</cid><crpname>Nikitin, Michael</crpname><party>3</party><distid>MIS1</distid><feccid>S8MI00307</feccid>
+</member><member><cid>N00030134</cid><crpname>Rosberg, Kelly</crpname><party>3</party><distid>NES2</distid><feccid>S8NE00174</feccid>
+</member><member><cid>N00030140</cid><crpname>Conley, Robert M</crpname><party>D</party><distid>SCS2</distid><feccid>S8SC00126</feccid>
+</member><member><cid>N00030142</cid><crpname>Tuke, Robert Dudley</crpname><party>D</party><distid>TNS2</distid><feccid>S8TN00238</feccid>
+</member><member><cid>N00030144</cid><crpname>Lewis, Daniel T</crpname><party>L</party><distid>TNS2</distid><feccid>S8TN00253</feccid>
+</member><member><cid>N00030145</cid><crpname>Redpath, William</crpname><party>L</party><distid>VAS2</distid><feccid>S8VA00271</feccid>
+</member><member><cid>N00030147</cid><crpname>Carter, Nicholas H</crpname><party>D</party><distid>WYS1</distid><feccid>S8WY00155</feccid>
+</member><member><cid>N00030148</cid><crpname>Morris, Jeffrey W</crpname><party>D</party><distid>CA02</distid><feccid>H8CA02073</feccid>
+</member><member><cid>N00030309</cid><crpname>Lawhorn, Ed</crpname><party>I</party><distid>TNS2</distid><feccid>S8TN00303</feccid>
+</member><member><cid>N00030310</cid><crpname>Cunningham, John Phillip</crpname><party>R</party><distid>MA07</distid><feccid>H8MA07016</feccid>
+</member><member><cid>N00030312</cid><crpname>Perry, Steven L</crpname><party>D</party><distid>OK05</distid><feccid>H8OK05083</feccid>
+</member><member><cid>N00030313</cid><crpname>Russell, Rob</crpname><party>D</party><distid>TN01</distid><feccid>H8TN01053</feccid>
+</member><member><cid>N00030314</cid><crpname>Owens, Thomas (Tk)</crpname><party>I</party><distid>TN01</distid><feccid>H8TN01061</feccid>
+</member><member><cid>N00030315</cid><crpname>Gray, James Anthony</crpname><party>I</party><distid>TN04</distid><feccid>H8TN04065</feccid>
+</member><member><cid>N00030316</cid><crpname>Martin, Joseph L</crpname><party>3</party><distid>KSS1</distid><feccid>S8KS00250</feccid>
+</member><member><cid>N00030402</cid><crpname>Drake, Joshua</crpname><party>3</party><distid>AR04</distid><feccid>H8AR04098</feccid>
+</member><member><cid>N00030398</cid><crpname>Stewart, Robert</crpname><party>I</party><distid>LAS1</distid><feccid>S8LA00082</feccid>
+</member><member><cid>N00030405</cid><crpname>Hills, Maude Louise</crpname><party>3</party><distid>DC00</distid><feccid>H8DC00176</feccid>
+</member><member><cid>N00030407</cid><crpname>Zhao, Li</crpname><party>L</party><distid>HI01</distid><feccid>H8HI01184</feccid>
+</member><member><cid>N00030408</cid><crpname>Evans, Roger B</crpname><party>R</party><distid>HI02</distid><feccid>H8HI02091</feccid>
+</member><member><cid>N00030409</cid><crpname>Stenshol, Shaun</crpname><party>I</party><distid>HI02</distid><feccid>H8HI02109</feccid>
+</member><member><cid>N00030410</cid><crpname>White, Brian Alan</crpname><party>I</party><distid>IA02</distid><feccid>H8IA02068</feccid>
+</member><member><cid>N00030411</cid><crpname>Campo, Gabrielle</crpname><party>R</party><distid>IN07</distid><feccid>H8IN07275</feccid>
+</member><member><cid>N00030413</cid><crpname>McGaughey, Bill</crpname><party>3</party><distid>MN05</distid><feccid>H8MN05148</feccid>
+</member><member><cid>N00030415</cid><crpname>Anderson, Bob</crpname><party>3</party><distid>MN06</distid><feccid>H8MN06088</feccid>
+</member><member><cid>N00030417</cid><crpname>Cummins, Michael</crpname><party>R</party><distid>MN08</distid><feccid>H8MN08035</feccid>
+</member><member><cid>N00030419</cid><crpname>Lindsay, Alvin Jr</crpname><party>I</party><distid>NJ01</distid><feccid>H8NJ01184</feccid>
+</member><member><cid>N00030420</cid><crpname>Britt, William E</crpname><party>R</party><distid>NY07</distid><feccid>H8NY07079</feccid>
+</member><member><cid>N00030422</cid><crpname>Lin, Grace</crpname><party>R</party><distid>NY08</distid><feccid>H8NY08085</feccid>
+</member><member><cid>N00030423</cid><crpname>Grupico, Salvatore</crpname><party>R</party><distid>NY10</distid><feccid>H8NY10073</feccid>
+</member><member><cid>N00030424</cid><crpname>Carr, Hugh C</crpname><party>R</party><distid>NY11</distid><feccid>H8NY11055</feccid>
+</member><member><cid>N00030426</cid><crpname>Straniere, Robert A</crpname><party>R</party><distid>NY13</distid><feccid>H8NY13127</feccid>
+</member><member><cid>N00030427</cid><crpname>Heim, Robert G</crpname><party>R</party><distid>NY14</distid><feccid>H8NY14117</feccid>
+</member><member><cid>N00030468</cid><crpname>Campbell, Douglas</crpname><party>3</party><distid>MI09</distid><feccid>H8MI09084</feccid>
+</member><member><cid>N00030469</cid><crpname>Smith, Richard L</crpname><party>3</party><distid>MO08</distid><feccid>H8MO08080</feccid>
+</member><member><cid>N00030472</cid><crpname>Adkins, Will</crpname><party>L</party><distid>NC02</distid><feccid>H8NC02045</feccid>
+</member><member><cid>N00030474</cid><crpname>Smith, Keith</crpname><party>L</party><distid>NC11</distid><feccid>H8NC11087</feccid>
+</member><member><cid>N00030475</cid><crpname>Chapman, Margaret M</crpname><party>I</party><distid>NJ01</distid><feccid>H8NJ01192</feccid>
+</member><member><cid>N00030476</cid><crpname>Williams III, Everitt M</crpname><party>I</party><distid>NJ01</distid><feccid>H8NJ01200</feccid>
+</member><member><cid>N00030478</cid><crpname>Grover, Jason M</crpname><party>3</party><distid>NJ02</distid><feccid>H8NJ02125</feccid>
+</member><member><cid>N00030479</cid><crpname>Stein, Gary</crpname><party>I</party><distid>NJ02</distid><feccid>H8NJ02133</feccid>
+</member><member><cid>N00030480</cid><crpname>Welzer, Steven</crpname><party>3</party><distid>NJ04</distid><feccid>H8NJ04154</feccid>
+</member><member><cid>N00030481</cid><crpname>Greco, Dean</crpname><party>I</party><distid>NJ07</distid><feccid>H8NJ07165</feccid>
+</member><member><cid>N00030482</cid><crpname>Demarco, Derek</crpname><party>L</party><distid>NJ08</distid><feccid>H8NJ08064</feccid>
+</member><member><cid>N00030483</cid><crpname>Taber, Michael</crpname><party>3</party><distid>NJ10</distid><feccid>H8NJ10128</feccid>
+</member><member><cid>N00030484</cid><crpname>Corsi, David</crpname><party>I</party><distid>NJ12</distid><feccid>H8NJ12082</feccid>
+</member><member><cid>N00030151</cid><crpname>Hargrave, Charles</crpname><party>R</party><distid>CA09</distid><feccid>H8CA09128</feccid>
+</member><member><cid>N00030152</cid><crpname>Ruyle, Eugene</crpname><party>3</party><distid>CA10</distid><feccid>H8CA10092</feccid>
+</member><member><cid>N00030153</cid><crpname>Brown, Ted</crpname><party>L</party><distid>CA26</distid><feccid>H8CA26098</feccid>
+</member><member><cid>N00030155</cid><crpname>Jones, William Michael</crpname><party>D</party><distid>GA06</distid><feccid>H8GA06161</feccid>
+</member><member><cid>N00030158</cid><crpname>Driscoll, John</crpname><party>D</party><distid>MT01</distid><feccid>H8MT00051</feccid>
+</member><member><cid>N00030165</cid><crpname>Miller, Rob</crpname><party>D</party><distid>SC02</distid><feccid>H8SC02080</feccid>
+</member><member><cid>N00030168</cid><crpname>Martin, James Francis</crpname><party>D</party><distid>GAS1</distid><feccid>S8GA00164</feccid>
+</member><member><cid>N00030169</cid><crpname>Underwood, Robert Joseph</crpname><party>L</party><distid>MAS2</distid><feccid>S8MA00235</feccid>
+</member><member><cid>N00030477</cid><crpname>Thieke, Matthew</crpname><party>3</party><distid>NJ01</distid><feccid>H8NJ01218</feccid>
+</member><member><cid>N00030485</cid><crpname>Fernandez, Julio A</crpname><party>I</party><distid>NJ13</distid><feccid>H8NJ13114</feccid>
+</member><member><cid>N00030486</cid><crpname>Goodman, Robert</crpname><party>R</party><distid>NY17</distid><feccid>H8NY17094</feccid>
+</member><member><cid>N00030488</cid><crpname>Crimmen, David W</crpname><party>R</party><distid>NY28</distid><feccid>H8NY28091</feccid>
+</member><member><cid>N00030489</cid><crpname>Wilson, Eric</crpname><party>I</party><distid>OH01</distid><feccid>H8OH01076</feccid>
+</member><member><cid>N00030490</cid><crpname>Fudge, Marcia L</crpname><party>D</party><distid>OH11</distid><feccid>H8OH11141</feccid>
+</member><member><cid>N00030500</cid><crpname>Noble, Mark Michael</crpname><party>L</party><distid>OH15</distid><feccid>H8OH15100</feccid>
+</member><member><cid>N00030501</cid><crpname>Semrau, Scott</crpname><party>3</party><distid>OR01</distid><feccid>H8OR01189</feccid>
+</member><member><cid>N00030502</cid><crpname>Tabor, H Joe</crpname><party>L</party><distid>OR01</distid><feccid>H8OR01197</feccid>
+</member><member><cid>N00030503</cid><crpname>Henry, Chris</crpname><party>3</party><distid>OR01</distid><feccid>H8OR01205</feccid>
+</member><member><cid>N00030504</cid><crpname>Hake, Richard D</crpname><party>3</party><distid>OR02</distid><feccid>H8OR02112</feccid>
+</member><member><cid>N00030505</cid><crpname>Mock, Tristin</crpname><party>3</party><distid>OR02</distid><feccid>H8OR02120</feccid>
+</member><member><cid>N00030506</cid><crpname>Meo, Michael</crpname><party>3</party><distid>OR03</distid><feccid>H8OR03052</feccid>
+</member><member><cid>N00030507</cid><crpname>Milligan, Steven Vandever</crpname><party>L</party><distid>OR05</distid><feccid>H8OR05164</feccid>
+</member><member><cid>N00030508</cid><crpname>Bates, Sean</crpname><party>3</party><distid>OR05</distid><feccid>H8OR05172</feccid>
+</member><member><cid>N00030509</cid><crpname>Polikoff, Alex</crpname><party>3</party><distid>OR05</distid><feccid>H8OR05180</feccid>
+</member><member><cid>N00030510</cid><crpname>Lang, Adam</crpname><party>R</party><distid>PA02</distid><feccid>H8PA02094</feccid>
+</member><member><cid>N00030511</cid><crpname>Fryman, James</crpname><party>L</party><distid>PA05</distid><feccid>H8PA05196</feccid>
+</member><member><cid>N00030512</cid><crpname>Frank, Daniel</crpname><party>3</party><distid>PA16</distid><feccid>H8PA16052</feccid>
+</member><member><cid>N00030513</cid><crpname>Velazquez Lopez, Carlos A</crpname><party>3</party><distid>PR00</distid><feccid>H8PR00104</feccid>
+</member><member><cid>N00030515</cid><crpname>Day, William S</crpname><party>D</party><distid>VA01</distid><feccid>H8VA01246</feccid>
+</member><member><cid>N00030516</cid><crpname>Allen, Janice Lee</crpname><party>I</party><distid>VA06</distid><feccid>H8VA06062</feccid>
+</member><member><cid>N00030517</cid><crpname>Fisher, J Ron</crpname><party>3</party><distid>VA08</distid><feccid>H8VA08142</feccid>
+</member><member><cid>N00030518</cid><crpname>Hermann, Thomas James</crpname><party>3</party><distid>VT01</distid><feccid>H8VT00125</feccid>
+</member><member><cid>N00030519</cid><crpname>Bethel, Mike</crpname><party>I</party><distid>VT01</distid><feccid>H8VT00133</feccid>
+</member><member><cid>N00030520</cid><crpname>Kexel, Joseph</crpname><party>L</party><distid>WI01</distid><feccid>H8WI01107</feccid>
+</member><member><cid>N00030521</cid><crpname>Barrett, Kevin</crpname><party>L</party><distid>WI03</distid><feccid>H8WI03087</feccid>
+</member><member><cid>N00030522</cid><crpname>Laforest, Michael D</crpname><party>I</party><distid>WI04</distid><feccid>H8WI04036</feccid>
+</member><member><cid>N00030528</cid><crpname>Kinsey, Bob</crpname><party>3</party><distid>COS2</distid><feccid>S8CO00222</feccid>
+</member><member><cid>N00030529</cid><crpname>Moore, Buddy</crpname><party>I</party><distid>COS2</distid><feccid>S8CO00248</feccid>
+</member><member><cid>N00030532</cid><crpname>Niemackl, James</crpname><party>3</party><distid>MNS1</distid><feccid>S8MN00511</feccid>
+</member><member><cid>N00030533</cid><crpname>Aldrich, Charles</crpname><party>L</party><distid>MNS1</distid><feccid>S8MN00545</feccid>
+</member><member><cid>N00030534</cid><crpname>Scheurer, Jason</crpname><party>L</party><distid>NJS2</distid><feccid>S8NJ00434</feccid>
+</member>
+<disclaimer>This information is being made available to facilitate the sharing of the quality, improved data that the Center for Responsi ve Politics works hard to provide.   Should you find this information useful, please consider supporting the work of the Center with a donation:  https://secure.groundspring.org/dn/index.php?aid=17127  Whether you use this information to provide relevant links to our web site, www.OpenSecrets.org , or to use CRP's APIs available at www.OpenSecrets.org/apis/ , please make sure to credit the Center for Responsive Politics and/or OpenSecrets.org.  And remember, Federal law prohibits the use of contributor information for the purpose of soliciting contributions or for any commercial purpose.</disclaimer>
+</members>

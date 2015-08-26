@@ -1,0 +1,27 @@
+@charset "utf-8";
+
+#twit{
+	background: rgb(290,244,244);
+	background:rgba(290,244,244,.3);	
+	position:relative;
+	margin: auto;
+	padding: 35px 1px 1px 1px;
+	width:190px;
+	font-family: Times, Georgia, sans-serif;
+	border-radius:10px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius:10px;
+	-khtml-border-radius:10px;}	
+
+#twitter_div{position: relative;padding: 3px 5px 3px 20px;margin: 0;background: rgba(60,60,60,.5);border: 1px dotted #989898;text-align: left;overflow:hidden;
+border-radius:10px;-moz-border-radius: 10px;-webkit-border-radius:10px;-khtml-border-radius:10px}
+
+#twit img{background:url(img/twitbutton.png); height: 30px;width: 188px; border:1px outset rgba(98,0,0,.5);position:absolute;top:0;padding:1px 0;margin:auto;
+border-radius:5px;-moz-border-radius: 5px;-webkit-border-radius:5px;-khtml-border-radius:5px}
+
+ul#twitter_update_list {width: auto; padding: 0; margin: 0}
+ul#twitter_update_list li {color:#900000; width: auto; padding: 0; border-bottom: dotted 1px maroon; list-style: circle; }
+ul#twitter_update_list li span {color: beige}
+ul#twitter_update_list li a , ul#twitter_update_list li a:link{color: #900000; border-bottom: dotted 1px; text-decoration: none;font-size: .8em} 
+ul#twitter_update_list li a:visited { color: black; border-bottom: solid 1px}
+ul#twitter_update_list li a:hover { color: white; border-bottom: solid 1px}

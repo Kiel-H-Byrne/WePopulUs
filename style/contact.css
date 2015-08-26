@@ -1,0 +1,45 @@
+#page-wrap {
+	width: 660px;
+	padding: 20px 50px 20px 50px;
+	margin: 10px auto;
+	height: auto !important;
+}
+
+#contact-area {
+	font-family: Georgia, sans-serif;
+	font-size: 65%;
+	width: 190px;
+	margin-top: 15px;
+}
+
+#contact-area input, #contact-area textarea {
+	padding: 5px;
+	width: 120px;
+	font-family: Georgia, sans-serif;
+	font-size: 1.4em;
+	margin: 0px 0px 5px 0px;
+	border: 2px solid #ddd;
+}
+
+#contact-area textarea {
+	height: 80px;
+}
+
+#contact-area textarea:focus, #contact-area input:focus {
+	border: 2px solid #900;
+}
+
+#contact-area input.submit-button {
+	width: 75px;
+	float: right;
+	margin-right: 3px;
+}
+
+label {
+	float: left;
+	text-align: right;
+	margin-right: 5px;
+	width: 50px;
+	padding-top: 3px;
+	font-size: 1.4em;
+}

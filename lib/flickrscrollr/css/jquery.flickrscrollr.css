@@ -1,0 +1,54 @@
+#flickrscrollr {
+  position:relative;
+  display:block;
+  margin:0 auto;
+  padding:0;
+  width:353px;
+  height:96px;
+}
+  #fs_leftBtn, #fs_rightBtn { /* The default button graphics are 16px square. */
+    display:block;
+    position:absolute;
+    margin:30px 4px;
+  }
+    #fs_leftBtn {
+      left:0;
+    }
+    #fs_rightBtn {
+      left:329px;
+    }
+  #fs_wrapper {
+    position:absolute;
+    left:24px;
+    width:305px; /* This height is overridden by the jQuery plugin. Only set for users with JS disabled. */
+    height:77px;
+    overflow:hidden;
+  }
+    #fs_wrapper ul {
+      list-style:none outside;
+      display:block;
+      position:relative;
+      margin:0;
+      padding:0;
+      left:0;
+    }
+      #fs_wrapper ul li {
+        position:relative;
+        display:block;
+        float:left;
+        margin:0 -1px 0 0; /* This prevents the thumbnail borders from looking 2px thick when next to each other */
+        border:1px solid #000; /* This is the border of the thumbnail */
+      }
+        #fs_wrapper ul li img { /* This is the actual Flickr thumbnail -- you can control the size here */
+          display:block;
+          margin:0;
+          padding:0;
+          border:0;
+        }
+  #flickrscrollr a.fs_morelink {
+    position:absolute;
+    right:25px;
+    bottom:0;
+    font-size:80%;
+    text-decoration:none;
+  }

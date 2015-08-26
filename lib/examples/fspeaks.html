@@ -1,0 +1,152 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml" >
+	<head>
+		<title>FreedomSpeaks API Example - GetOfficials()</title>
+		<script type="text/javascript" src="http://cdn.freedomspeaks.com/Web/Scripts/JQuery-1.3.1-Pack.js"></script>
+		<script type="text/javascript">
+		    function doGetOfficials()
+		    {
+			alert("Xml = " + createGetOfficialsXml());
+		    /*    $.get(
+		            "GetOfficials.xml", 
+		            { Xml: createGetOfficialsXml() },
+		            function(xml) { parseGetOfficialsXml(xml); }, 
+		            "xml");
+
+			/**********************************************************
+			// AJAX won't allow a cross site get/post call, so we've 
+			// referenced the xml output that results from the post
+			// below. To get around this, you'll have to create your
+			// own proxy (PHP or .NET or whatever) to proxy the request
+			// through your own domain.
+		      */  $.post(
+		            "http://api.freedomspeaks.com/v1/rest/getofficials.ashx", 
+		            { Xml: createGetOfficialsXml() },
+		            function(xml) { parseGetOfficialsXml(xml); }, 
+		            "xml");
+			
+		    }
+		    function parseGetOfficialsXml(xml)
+		    {
+			$("#GetOfficials_Input").hide();
+			$("#GetOfficials_Output").show();
+		        $(xml).find('Official').each(function()
+			{
+				var name = $(this).find('NameFullWithTitle').text();
+				var url = $(this).find('UrlDetail').text();
+				var html = "<a href='" + url + "'>" + name + "</a>";			
+				$("<li></li>").html(html).appendTo("#Officials");
+			});
+		    }
+		    function createGetOfficialsXml()
+		    {
+		        var ddl = document.getElementById('ddlUsStates');
+		        var xml = "<?xml version=\"1.0\" encoding=\"utf-8\" ?>";
+		        xml += "<FsRequest>";
+		        xml += "<ThreeScaleAuthKey>KEY</ThreeScaleAuthKey>";
+		        xml += "<Address1>" + encodeURIComponent(document.getElementById('txtAddress').value) + "</Address1>";
+		        xml += "<City>" + encodeURIComponent(document.getElementById('txtCity').value) + "</City>";
+		        xml += "<State>" + encodeURIComponent(ddl.options[ddl.selectedIndex].value) + "</State>";
+		        xml += "<ZipCode>" + encodeURIComponent(document.getElementById('txtZipCode').value) + "</ZipCode>";
+		        xml += "<NameFirst>" + encodeURIComponent(document.getElementById('txtNameFirst').value) + "</NameFirst>";
+		        xml += "<NameLast>" + encodeURIComponent(document.getElementById('txtNameLast').value) + "</NameLast>";
+		        xml += "<Email>" + encodeURIComponent(document.getElementById('txtEmail').value) + "</Email>";
+		        xml += "</FsRequest>";        
+		        return xml;
+		    }
+		</script>
+		<style>
+			div { margin-bottom: 5px; }
+		</style>
+	</head>
+	<body> 
+		<div id="GetOfficials_Output" style="display: none;">
+			<ol id="Officials"></ol>
+		</div>
+		<div id="GetOfficials_Input"> 
+			<div> 
+			    <span class="Label First">First Name :</span> 
+			    <input name="txtNameFirst" type="text" maxlength="50" id="txtNameFirst" style="width:100px;" />&nbsp;&nbsp;
+			    <span class="Label">Last Name :</span> 
+			    <input name="txtNameLast" type="text" maxlength="50" id="txtNameLast" style="width:100px;" />
+			</div> 
+			<div> 
+			    <span class="Label First">Address :</span> 
+			    <input name="txtAddress" type="text" maxlength="100" id="txtAddress" style="width:230px;" /> 
+			</div> 
+			<div> 
+			    <span class="Label First">City :</span> 
+			    <input name="txtCity" type="text" maxlength="50" id="txtCity" style="width:100px;" />&nbsp;&nbsp;
+			    <span class="Label">State :</span>                    
+			    <select name="ddlUsStates" id="ddlUsStates" style="width:50px;"> 
+				<option selected="selected" value=""></option> 
+				<option value="AK">AK</option> 
+				<option value="AL">AL</option> 
+				<option value="AR">AR</option> 
+				<option value="AS">AS</option> 
+				<option value="AZ">AZ</option> 
+				<option value="CA">CA</option> 
+				<option value="CO">CO</option> 
+				<option value="CT">CT</option> 
+				<option value="DE">DE</option> 
+				<option value="DC">DC</option> 
+				<option value="FL">FL</option> 
+				<option value="GA">GA</option> 
+				<option value="GU">GU</option> 
+				<option value="HI">HI</option> 
+				<option value="IA">IA</option> 
+				<option value="ID">ID</option> 
+				<option value="IL">IL</option> 
+				<option value="IN">IN</option> 
+				<option value="KS">KS</option> 
+				<option value="KY">KY</option> 
+				<option value="LA">LA</option> 
+				<option value="MA">MA</option> 
+				<option value="MD">MD</option> 
+				<option value="ME">ME</option> 
+				<option value="MI">MI</option> 
+				<option value="MN">MN</option> 
+				<option value="MO">MO</option> 
+				<option value="MS">MS</option> 
+				<option value="MT">MT</option> 
+				<option value="NC">NC</option> 
+				<option value="ND">ND</option> 
+				<option value="NE">NE</option> 
+				<option value="NH">NH</option> 
+				<option value="NJ">NJ</option> 
+				<option value="NM">NM</option> 
+				<option value="NV">NV</option> 
+				<option value="NY">NY</option> 
+				<option value="OH">OH</option> 
+				<option value="OK">OK</option> 
+				<option value="OR">OR</option> 
+				<option value="PW">PW</option> 
+				<option value="PA">PA</option> 
+				<option value="PR">PR</option> 
+				<option value="RI">RI</option> 
+				<option value="SC">SC</option> 
+				<option value="SD">SD</option> 
+				<option value="TN">TN</option> 
+				<option value="TX">TX</option> 
+				<option value="UT">UT</option> 
+				<option value="VA">VA</option> 
+				<option value="VT">VT</option> 
+				<option value="VI">VI</option> 
+				<option value="WA">WA</option> 
+				<option value="WI">WI</option> 
+				<option value="WV">WV</option> 
+				<option value="WY">WY</option> 
+			    </select>&nbsp;&nbsp;
+			    <span class="Label First">Zip Code :</span> 
+			    <input name="txtZipCode" type="text" maxlength="50" id="txtZipCode" style="width:70px;" />
+			</div> 
+			<div> 
+			    <span class="Label First">Email :</span> 
+			    <input name="txtEmail" type="text" maxlength="100" id="txtEmail" style="width:230px;" />
+			</div> 
+			<div class="Clearfix AlignCenter"> 
+			    <input type="image" name="ibtnGetOfficials" id="ibtnGetOfficials" title="Find Your Officials Now!" src="http://cdn.freedomspeaks.com/Web/Images/Btn-FindOutNow.gif" onclick="doGetOfficials();" style="border-width:0px;" /> 
+			</div> 
+		</div> 
+	</body>
+</html>
